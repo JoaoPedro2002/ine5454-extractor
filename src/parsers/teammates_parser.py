@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 
 class TeammatesParser(Parser):
     TEAMMATES_URL = URL + "/friv/teammates_and_opponents.fcgi?pid=%s&type=t"
-    CACHE_SUBDIR = "teammates"
 
     def parse_row_data(self, soup: BeautifulSoup):
         rows = soup.findAll('tr')[2:]

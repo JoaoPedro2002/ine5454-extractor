@@ -1,21 +1,23 @@
 import os
-from pandas import DataFrame
+from pandas import DataFrame, read_csv
 
-CACHE_PATH = os.path.join(os.path.dirname(__file__), '.cache')
-
-
-def cache_exists(identifier: str, subdir: str) -> bool:
-    return os.path.exists(os.path.join(CACHE_PATH, subdir, identifier + '.csv'))
+from src.constants import CACHE_PATH
 
 
-def get_from_cache(identifier: str, subdir: str) -> DataFrame:
-    with open(os.path.join(CACHE_PATH, subdir, identifier + '.csv'), 'r') as f:
-        return DataFrame(f)
+class CacheManager:
+    PLAYER_ID_CACHE_SUBDIR = "players_ids"
+    TEAMMATES_CACHE_SUBDIR = "teammates"
 
+    def __init__(self, subdir: str):
+        self.__subdir = subdir
 
-def add_to_cache(data: DataFrame, identifier: str, subdir: str):
-    if not os.path.exists(os.path.join(CACHE_PATH, subdir)):
-        os.makedirs(os.path.join(CACHE_PATH, subdir))
-    with open(os.path.join(CACHE_PATH, subdir, identifier + '.csv'), 'w') as f:
-        data.to_csv(f, index=False)
+    def cache_exists(self, identifier: str) -> bool:
+        return os.path.exists(os.path.join(CACHE_PATH, self.__subdir, identifier + '.csv'))
 
+    def get_from_cache(self, identifier: str) -> DataFrame:
+        return read_csv(os.path.join(CACHE_PATH, self.__subdir, identifier + '.csv'))
+
+    def add_to_cache(self, data: DataFrame, identifier: str):
+        if not os.path.exists(os.path.join(CACHE_PATH, self.__subdir)):
+            os.makedirs(os.path.join(CACHE_PATH, self.__subdir))
+        data.to_csv(os.path.join(CACHE_PATH, self.__subdir, identifier + '.csv'), index=False)

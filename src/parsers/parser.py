@@ -1,18 +1,26 @@
-from src.cache_manager import *
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
+from abc import ABC, abstractmethod
+
+from src.workflow.workflow import WorkflowDataKeys
+from src.workflow.workflow_object import WorkflowObject, WorkflowExecutionStatus
 
 
-class Parser:
-    def __init__(self):
-        self._data = None
+class Parser(WorkflowObject, ABC):
+    """
+    Abstract class for parsers that parse data from an url and return a pandas dataframe
+    This is supposed to be the first step in a workflow
+    """
 
-    def parse(self, identifier: str):
-        if cache_exists(identifier, self.get_cache_subdir()):
-            self._data = get_from_cache(identifier, self.get_cache_subdir())
-            print(f"Found {self.get_cache_subdir()}/{identifier}.csv in cache")
-            return
+    def execute(self, data: dict) -> tuple[WorkflowExecutionStatus, pd.DataFrame | None]:
+        try:
+            df = self.parse(data[WorkflowDataKeys.IDENTIFIER])
+        except Exception:
+            return WorkflowExecutionStatus.FAILED, None
+        return WorkflowExecutionStatus.SUCCESS, df
+
+    def parse(self, identifier: str) -> pd.DataFrame:
         html = urlopen(self.get_url() % identifier)
         soup = BeautifulSoup(html, features="html.parser")
         headers = self.parse_headers(soup)
@@ -24,37 +32,20 @@ class Parser:
             df.drop([""], axis=1, inplace=True)
         except KeyError:
             pass
-        self._data = df
-        add_to_cache(df, identifier, self.get_cache_subdir())
+        return df
 
-    def print(self):
-        if self._data is None:
-            raise Exception("No data to print")
-        print(self._data)
-
-    def save_csv(self, path: str):
-        if self._data is None:
-            raise Exception("No data to save")
-        self._data.to_csv(path, index=False)
-
-    def to_json(self) -> map:
-        if self._data is None:
-            raise Exception("No data to save")
-        return self._data.to_json(orient="records")
-
-    def get_data(self) -> pd.DataFrame:
-        if self._data is None:
-            raise Exception("No data to return")
-        return self._data
-
+    @abstractmethod
     def parse_row_data(self, soup: BeautifulSoup) -> list[list[str]]:
         raise NotImplementedError("This method must be implemented by subclasses")
 
+    @abstractmethod
     def parse_headers(self, soup: BeautifulSoup) -> list[str]:
         raise NotImplementedError("This method must be implemented by subclasses")
 
+    @abstractmethod
     def get_url(self) -> str:
         raise NotImplementedError("This method must be implemented by subclasses")
 
+    @abstractmethod
     def get_cache_subdir(self) -> str:
         raise NotImplementedError("This method must be implemented by subclasses")

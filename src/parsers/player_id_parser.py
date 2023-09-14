@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 
 class PlayerIdParser(Parser):
     PLAYER_ID_URL = URL + "/players/%s/"
-    CACHE_SUBDIR = "players_ids"
 
     def parse_row_data(self, soup: BeautifulSoup):
         rows = soup.findAll('tr')[1:]
