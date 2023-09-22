@@ -20,7 +20,11 @@ class TeammatesParser(Parser):
         return [e for e in rows_data if e != []]
 
     def parse_headers(self, soup: BeautifulSoup):
-        headers = [th.getText() for th in soup.findAll('tr', limit=2)[1].findAll('th')]
+        element = soup.findAll('tr', limit=2)
+        # If the player has no teammates the table won't be generated
+        if len(element) < 2:
+            return []
+        headers = [th.getText() for th in element[1].findAll('th')]
         headers = headers[1:]
         headers.insert(0, "id")
         prefixes = ["Overall", "Regular Season", "Playoffs"]

@@ -1,10 +1,12 @@
+from typing import Any
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
 from abc import ABC, abstractmethod
 
+from src.logger import LOGGER
 from src.workflow.workflow import WorkflowDataKeys
-from src.workflow.workflow_object import WorkflowObject, WorkflowExecutionStatus
+from src.workflow.workflow_object import WorkflowObject
 
 
 class Parser(WorkflowObject, ABC):
@@ -13,17 +15,20 @@ class Parser(WorkflowObject, ABC):
     This is supposed to be the first step in a workflow
     """
 
-    def execute(self, data: dict) -> tuple[WorkflowExecutionStatus, pd.DataFrame | None]:
+    def execute(self, data: dict[WorkflowDataKeys, Any]) -> (pd.DataFrame, Exception | None):
         try:
             df = self.parse(data[WorkflowDataKeys.IDENTIFIER])
-        except Exception:
-            return WorkflowExecutionStatus.FAILED, None
-        return WorkflowExecutionStatus.SUCCESS, df
+        except Exception as e:
+            return None, e
+        return df, None
 
     def parse(self, identifier: str) -> pd.DataFrame:
         html = urlopen(self.get_url() % identifier)
         soup = BeautifulSoup(html, features="html.parser")
         headers = self.parse_headers(soup)
+        if len(headers) == 0:
+            LOGGER.warning(f"Could not parse data for {identifier}, player probably has no data")
+            return pd.DataFrame()
         rows_data = self.parse_row_data(soup)
 
         df = pd.DataFrame(rows_data, columns=headers)
@@ -35,11 +40,11 @@ class Parser(WorkflowObject, ABC):
         return df
 
     @abstractmethod
-    def parse_row_data(self, soup: BeautifulSoup) -> list[list[str]]:
+    def parse_row_data(self, soup: BeautifulSoup) -> [[str]]:
         raise NotImplementedError("This method must be implemented by subclasses")
 
     @abstractmethod
-    def parse_headers(self, soup: BeautifulSoup) -> list[str]:
+    def parse_headers(self, soup: BeautifulSoup) -> [str]:
         raise NotImplementedError("This method must be implemented by subclasses")
 
     @abstractmethod

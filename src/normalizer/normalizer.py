@@ -1,7 +1,7 @@
 import pandas as pd
 
 from src.workflow.workflow import WorkflowDataKeys
-from src.workflow.workflow_object import WorkflowObject, WorkflowExecutionStatus
+from src.workflow.workflow_object import WorkflowObject
 
 
 class Normalizer(WorkflowObject):
@@ -9,12 +9,13 @@ class Normalizer(WorkflowObject):
     def __init__(self, column_map: dict):
         self.column_map = column_map
 
-    def execute(self, data: dict) -> tuple[WorkflowExecutionStatus, pd.DataFrame | None]:
+    def execute(self, data: dict) -> (pd.DataFrame, Exception | None):
+        df: pd.DataFrame = data[WorkflowDataKeys.DATASET]
         try:
-            df = self.normalize(data[WorkflowDataKeys.DATASET])
-        except Exception:
-            return WorkflowExecutionStatus.FAILED, None
-        return WorkflowExecutionStatus.SUCCESS, df
+            df = self.normalize(df)
+        except Exception as e:
+            return df, e
+        return df, None
 
     def normalize(self, data: pd.DataFrame) -> pd.DataFrame:
         return self.__rename_columns(data)

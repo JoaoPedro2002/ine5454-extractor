@@ -98,11 +98,16 @@ def get_data_from_cache():
     player_nodes: set = set()
     teammate_edges: set = set()
     for file in os.listdir(path):
-        df = pd.read_csv(os.path.join(path, file))
+        try:
+            # TODO temporary solution
+            df = pd.read_csv(os.path.join(path, file))
+        except pd.errors.EmptyDataError:
+            continue
         player: str = file.split('.')[-2]
         player_nodes.add(player)
 
-        teammates = df["id"].tolist()
+        # TODO temporary solution
+        teammates: [str] = [teammate for teammate in df["id"].tolist() if type(teammate) == str]
         player_nodes.update(teammates)
         teammate_edges.update((tuple(sorted((player, teammate))) for teammate in teammates))
 
