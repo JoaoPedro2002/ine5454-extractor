@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+wisewi01,Willie Wise,93,70,23,.753,84,64,20,.762,9,6,3,.667
+beatyze01,Zelmo Beaty,91,70,21,.769,82,64,18,.780,9,6,3,.667
+boonero01,Ron Boone*,84,64,20,.762,75,58,17,.773,9,6,3,.667
+combsgl01,Glen Combs,78,59,19,.756,69,53,16,.768,9,6,3,.667
+robbire01,Red Robbins*,63,48,15,.762,58,44,14,.759,5,4,1,.800
+jonesji01,Jimmy Jones,55,41,14,.745,51,39,12,.765,4,2,2,.500
+beasljo01,John Beasley*,51,39,12,.765,47,37,10,.787,4,2,2,.500
+jacksme01,Merv Jackson,50,36,14,.720,44,32,12,.727,6,4,2,.667
+stonege01,George Stone,36,28,8,.778,31,24,7,.774,5,4,1,.800
+butlemi01,Mike Butler*,35,29,6,.829,30,25,5,.833,5,4,1,.800
+govange01,Gerald Govan*,28,21,7,.750,25,19,6,.760,3,2,1,.667
+powelci01,Cincy Powell,28,21,7,.750,25,19,6,.760,3,2,1,.667
+nemeldi01,Dick Nemelka*,27,20,7,.741,22,16,6,.727,5,4,1,.800
+jacksmi01,Mike Jackson,19,16,3,.842,18,15,3,.833,1,1,0,1.000
+warrebo01,Bob Warren,18,14,4,.778,15,12,3,.800,3,2,1,.667
+hargeir01,Ira Harge,17,15,2,.882,16,15,1,.938,1,0,1,.000
+leaksma01,Manny Leaks*,17,12,5,.706,17,12,5,.706,0,0,0,
+fieldbo01,Bobby Fields,13,12,1,.923,13,12,1,.923,0,0,0,
+congdje01,Jeff Congdon*,10,8,2,.800,10,8,2,.800,0,0,0,
+jonesla01,Larry Jones*,10,7,3,.700,10,7,3,.700,0,0,0,
+hightwa01,Wayne Hightower*,9,7,2,.778,9,7,2,.778,0,0,0,
+fisheri01,Rick Fisher,9,9,0,1.000,9,9,0,1.000,0,0,0,
+smithsa01,Sam Smith*,9,7,2,.778,6,4,2,.667,3,3,0,1.000
+workmto01,Tom Workman*,8,7,1,.875,8,7,1,.875,0,0,0,
+freemdo01,Donnie Freeman*,7,5,2,.714,7,5,2,.714,0,0,0,
+willich01,Charlie Williams*,5,4,1,.800,4,3,1,.750,1,1,0,1.000

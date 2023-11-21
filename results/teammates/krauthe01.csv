@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+budkowa01,Walt Budko,10,3,7,.300,10,3,7,.300,0,0,0,
+mogusle01,Leo Mogus*,10,3,7,.300,10,3,7,.300,0,0,0,
+simmoco01,Connie Simmons*,10,3,7,.300,10,3,7,.300,0,0,0,
+krausda01,Dan Kraus*,10,3,7,.300,10,3,7,.300,0,0,0,
+jeannbu01,Buddy Jeannette,10,3,7,.300,10,3,7,.300,0,0,0,
+reisech01,Chick Reiser*,9,2,7,.222,9,2,7,.222,0,0,0,
+stutzst01,Stan Stutz*,9,3,6,.333,9,3,6,.333,0,0,0,
+raderho01,Howie Rader*,9,3,6,.333,9,3,6,.333,0,0,0,
+mahnkjo01,John Mahnken*,7,2,5,.286,7,2,5,.286,0,0,0,
+lewisfr01,Freddie Lewis,3,1,2,.333,3,1,2,.333,0,0,0,
+brownda01,Darrel Brown,3,0,3,.000,3,0,3,.000,0,0,0,
+tidriha01,Hal Tidrick,3,1,2,.333,3,1,2,.333,0,0,0,

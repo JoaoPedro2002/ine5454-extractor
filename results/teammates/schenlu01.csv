@@ -1,0 +1,26 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+chandty01,Tyson Chandler,23,12,11,.522,20,11,9,.550,3,1,2,.333
+hinriki01,Kirk Hinrich,23,12,11,.522,20,11,9,.550,3,1,2,.333
+nocioan01,Andrés Nocioni,23,12,11,.522,20,11,9,.550,3,1,2,.333
+gordobe01,Ben Gordon,23,12,11,.522,20,11,9,.550,3,1,2,.333
+denglu01,Luol Deng,20,10,10,.500,17,9,8,.529,3,1,2,.333
+allenma01,Malik Allen,20,10,10,.500,17,9,8,.529,3,1,2,.333
+duhonch01,Chris Duhon,19,9,10,.474,16,8,8,.500,3,1,2,.333
+pargoja01,Jannero Pargo,19,11,8,.579,16,10,6,.625,3,1,2,.333
+harriot01,Othella Harrington,18,11,7,.611,16,10,6,.625,2,1,1,.500
+sweetmi01,Mike Sweetney,17,10,7,.588,14,9,5,.643,3,1,2,.333
+piatker01,Eric Piatkowski,12,6,6,.500,9,5,4,.556,3,1,2,.333
+magloja01,Jamaal Magloire,11,4,7,.364,11,4,7,.364,0,0,0,
+jackja01,Jarrett Jack,11,4,7,.364,11,4,7,.364,0,0,0,
+webstma02,Martell Webster,11,4,7,.364,11,4,7,.364,0,0,0,
+jonesfr01,Fred Jones,11,4,7,.364,11,4,7,.364,0,0,0,
+outlatr01,Travis Outlaw,11,4,7,.364,11,4,7,.364,0,0,0,
+rodrise01,Sergio Rodríguez,11,4,7,.364,11,4,7,.364,0,0,0,
+dickada01,Dan Dickau,10,3,7,.300,10,3,7,.300,0,0,0,
+lafrera01,Raef LaFrentz,10,3,7,.300,10,3,7,.300,0,0,0,
+roybr01,Brandon Roy,7,3,4,.429,7,3,4,.429,0,0,0,
+udokaim01,Ime Udoka,5,3,2,.600,5,3,2,.600,0,0,0,
+livinra01,Randy Livingston,4,2,2,.500,4,2,2,.500,0,0,0,
+basdeed01,Eddie Basden,4,2,2,.500,4,2,2,.500,0,0,0,
+songada01,Darius Songaila,4,1,3,.250,4,1,3,.250,0,0,0,
+aldrila01,LaMarcus Aldridge,2,1,1,.500,2,1,1,.500,0,0,0,

@@ -1,0 +1,25 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+portete01,Terry Porter,45,15,30,.333,43,15,28,.349,2,0,2,.000
+mitchsa01,Sam Mitchell,45,15,30,.333,43,15,28,.349,2,0,2,.000
+guglito01,Tom Gugliotta,44,15,29,.341,42,15,27,.357,2,0,2,.000
+parksch02,Cherokee Parks,43,15,28,.349,42,15,27,.357,1,0,1,.000
+garneke01,Kevin Garnett,41,15,26,.366,39,15,24,.385,2,0,2,.000
+garrede01,Dean Garrett,39,12,27,.308,37,12,25,.324,2,0,2,.000
+robinja02,James Robinson,38,13,25,.342,37,13,24,.351,1,0,1,.000
+westdo01,Doug West,38,12,26,.316,36,12,24,.333,2,0,2,.000
+marbust01,Stephon Marbury,32,9,23,.281,30,9,21,.300,2,0,2,.000
+vrankst01,Stojko Vranković,31,10,21,.323,30,10,20,.333,1,0,1,.000
+carrch01,Chris Carr,30,10,20,.333,29,10,19,.345,1,0,1,.000
+turkohe01,Hedo Türkoğlu,6,3,3,.500,6,3,3,.500,0,0,0,
+hartja01,Jason Hart,6,3,3,.500,6,3,3,.500,0,0,0,
+ginobma01,Manu Ginóbili,6,3,3,.500,6,3,3,.500,0,0,0,
+nestera01,Rasho Nesterović,6,3,3,.500,6,3,3,.500,0,0,0,
+bowenbr01,Bruce Bowen,6,3,3,.500,6,3,3,.500,0,0,0,
+horryro01,Robert Horry,6,3,3,.500,6,3,3,.500,0,0,0,
+rosema01,Malik Rose,6,3,3,.500,6,3,3,.500,0,0,0,
+jordare01,Reggie Jordan,5,2,3,.400,5,2,3,.400,0,0,0,
+mercero01,Ron Mercer,4,2,2,.500,4,2,2,.500,0,0,0,
+duncati01,Tim Duncan,3,2,1,.667,3,2,1,.667,0,0,0,
+willike02,Kevin Willis,3,1,2,.333,3,1,2,.333,0,0,0,
+brownde02,Devin Brown,2,1,1,.500,2,1,1,.500,0,0,0,
+parketo01,Tony Parker,1,1,0,1.000,1,1,0,1.000,0,0,0,

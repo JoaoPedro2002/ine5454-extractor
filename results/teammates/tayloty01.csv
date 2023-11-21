@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+blatcan01,Andray Blatche,62,35,27,.565,60,33,27,.550,2,2,0,1.000
+johnsjo02,Joe Johnson,58,33,25,.569,56,31,25,.554,2,2,0,1.000
+evansre01,Reggie Evans,55,29,26,.527,53,27,26,.509,2,2,0,1.000
+teletmi01,Mirza Teletović,53,28,25,.528,52,27,25,.519,1,1,0,1.000
+lopezbr01,Brook Lopez,46,28,18,.609,44,26,18,.591,2,2,0,1.000
+willide01,Deron Williams,45,28,17,.622,43,26,17,.605,2,2,0,1.000
+watsocj01,C.J. Watson,38,23,15,.605,36,21,15,.583,2,2,0,1.000
+brookma01,MarShon Brooks,37,23,14,.622,35,21,14,.600,2,2,0,1.000
+boganke01,Keith Bogans,35,20,15,.571,34,19,15,.559,1,1,0,1.000
+wallage01,Gerald Wallace,32,21,11,.656,30,19,11,.633,2,2,0,1.000
+shengto01,Tornike Shengelia,32,16,16,.500,32,16,16,.500,0,0,0,
+humphkr01,Kris Humphries,31,18,13,.581,29,16,13,.552,2,2,0,1.000
+livinsh01,Shaun Livingston,23,11,12,.478,23,11,12,.478,0,0,0,
+anderal01,Alan Anderson,23,11,12,.478,23,11,12,.478,0,0,0,
+plumlma01,Mason Plumlee*,22,10,12,.455,22,10,12,.455,0,0,0,
+garneke01,Kevin Garnett,19,10,9,.526,19,10,9,.526,0,0,0,
+piercpa01,Paul Pierce,18,9,9,.500,18,9,9,.500,0,0,0,
+stackje01,Jerry Stackhouse,17,11,6,.647,16,10,6,.625,1,1,0,1.000
+terryja01,Jason Terry,11,5,6,.455,11,5,6,.455,0,0,0,
+childjo01,Josh Childress,7,5,2,.714,7,5,2,.714,0,0,0,
+kirilan01,Andrei Kirilenko,4,3,1,.750,4,3,1,.750,0,0,0,
+josepkr01,Kris Joseph,4,4,0,1.000,4,4,0,1.000,0,0,0,

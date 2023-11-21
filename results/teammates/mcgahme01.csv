@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+knorele01,Lee Knorek,52,27,25,.519,50,26,24,.520,2,1,1,.500
+vanbrbu01,Butch van Breda Kolff*,50,26,24,.520,48,25,23,.521,2,1,1,.500
+palmebu01,Bud Palmer,50,26,24,.520,48,25,23,.521,2,1,1,.500
+braunca01,Carl Braun*,49,27,22,.551,47,26,21,.553,2,1,1,.500
+rittete01,Tex Ritter*,46,23,23,.500,44,22,22,.500,2,1,1,.500
+rotheir01,Irv Rothenberg*,45,24,21,.533,43,23,20,.535,2,1,1,.500
+gallaha01,Harry Gallatin*,44,23,21,.523,42,22,20,.524,2,1,1,.500
+noelpa01,Paul Noel*,40,19,21,.475,39,18,21,.462,1,1,0,1.000
+byrneto01,Tommy Byrnes*,28,15,13,.536,28,15,13,.536,0,0,0,
+tanensi01,Sid Tanenbaum,24,13,11,.542,24,13,11,.542,0,0,0,
+lumppra01,Ray Lumpp,23,11,12,.478,21,10,11,.476,2,1,1,.500
+colonjo01,Joe Colone,15,8,7,.533,14,7,7,.500,1,1,0,1.000
+jamesge01,Gene James*,11,6,5,.545,11,6,5,.545,0,0,0,
+kukara01,Ray Kuka,8,4,4,.500,8,4,4,.500,0,0,0,
+shriddi01,Dick Shrider,4,2,2,.500,4,2,2,.500,0,0,0,

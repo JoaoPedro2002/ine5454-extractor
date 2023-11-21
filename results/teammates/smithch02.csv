@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+lewisre01,Reggie Lewis,67,45,22,.672,64,43,21,.672,3,2,1,.667
+kleinjo01,Joe Kleine,67,44,23,.657,64,42,22,.656,3,2,1,.667
+mchalke01,Kevin McHale,67,44,23,.657,64,42,22,.656,3,2,1,.667
+parisro01,Robert Parish,66,44,22,.667,63,42,21,.667,3,2,1,.667
+pincked01,Ed Pinckney,64,43,21,.672,61,41,20,.672,3,2,1,.667
+birdla01,Larry Bird,62,40,22,.645,59,38,21,.644,3,2,1,.667
+gamblke01,Kevin Gamble,61,40,21,.656,58,38,20,.655,3,2,1,.667
+smithmi01,Michael Smith,58,40,18,.690,55,38,17,.691,3,2,1,.667
+paxsoji02,Jim Paxson,58,36,22,.621,55,34,21,.618,3,2,1,.667
+johnsde01,Dennis Johnson,57,35,22,.614,54,33,21,.611,3,2,1,.667
+baglejo01,John Bagley,41,28,13,.683,38,26,12,.684,3,2,1,.667
+upshake01,Kelvin Upshaw,9,5,4,.556,9,5,4,.556,0,0,0,
+allenje01,Jerome Allen,8,3,5,.375,8,3,5,.375,0,0,0,
+rideris01,Isaiah Rider,8,3,5,.375,8,3,5,.375,0,0,0,
+portete01,Terry Porter,8,3,5,.375,8,3,5,.375,0,0,0,
+laettch01,Christian Laettner,8,3,5,.375,8,3,5,.375,0,0,0,
+guglito01,Tom Gugliotta,8,3,5,.375,8,3,5,.375,0,0,0,
+mitchsa01,Sam Mitchell,8,3,5,.375,8,3,5,.375,0,0,0,
+garneke01,Kevin Garnett,8,3,5,.375,8,3,5,.375,0,0,0,
+rooksse01,Sean Rooks,8,3,5,.375,8,3,5,.375,0,0,0,
+westdo01,Doug West,7,2,5,.286,7,2,5,.286,0,0,0,
+braggma01,Marques Bragg,6,2,4,.333,6,2,4,.333,0,0,0,
+davisma02,Mark Davis,6,3,3,.500,6,3,3,.500,0,0,0,
+brownde01,Dee Brown,5,5,0,1.000,5,5,0,1.000,0,0,0,
+vrankst01,Stojko Vranković,3,3,0,1.000,3,3,0,1.000,0,0,0,
+shawbr01,Brian Shaw,2,2,0,1.000,2,2,0,1.000,0,0,0,

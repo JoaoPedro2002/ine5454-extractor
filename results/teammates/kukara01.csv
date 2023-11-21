@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+palmebu01,Bud Palmer,55,28,27,.509,52,27,25,.519,3,1,2,.333
+knorele01,Lee Knorek,55,28,27,.509,52,27,25,.519,3,1,2,.333
+braunca01,Carl Braun*,55,28,27,.509,52,27,25,.519,3,1,2,.333
+byrneto01,Tommy Byrnes*,54,28,26,.519,51,27,24,.529,3,1,2,.333
+vanbrbu01,Butch van Breda Kolff*,51,25,26,.490,48,24,24,.500,3,1,2,.333
+holubdi01,Dick Holub,47,24,23,.511,44,23,21,.523,3,1,2,.333
+stutzst01,Stan Stutz*,46,23,23,.500,43,22,21,.512,3,1,2,.333
+noelpa01,Paul Noel*,38,20,18,.526,35,19,16,.543,3,1,2,.333
+tanensi01,Sid Tanenbaum,27,14,13,.519,24,13,11,.542,3,1,2,.333
+gottlle01,Leo Gottlieb*,23,11,12,.478,23,11,12,.478,0,0,0,
+rotheir01,Irv Rothenberg*,8,4,4,.500,8,4,4,.500,0,0,0,
+mcgahme01,Mel McGaha*,8,4,4,.500,8,4,4,.500,0,0,0,
+rittete01,Tex Ritter*,7,4,3,.571,7,4,3,.571,0,0,0,
+shriddi01,Dick Shrider,4,2,2,.500,4,2,2,.500,0,0,0,
+hertzso01,Sonny Hertzberg*,3,2,1,.667,3,2,1,.667,0,0,0,
+misakwa01,Wat Misaka,2,1,1,.500,2,1,1,.500,0,0,0,

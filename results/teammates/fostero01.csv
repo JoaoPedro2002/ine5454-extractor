@@ -1,0 +1,21 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+adamsal01,Alvan Adams,211,95,116,.450,192,87,105,.453,19,8,11,.421
+nancela01,Larry Nance,196,94,102,.480,180,86,94,.478,16,8,8,.500
+pittmch01,Charles Pittman,193,92,101,.477,174,84,90,.483,19,8,11,.421
+edwarja01,James Edwards,189,90,99,.476,173,82,91,.474,16,8,8,.500
+macyky01,Kyle Macy,161,72,89,.447,142,64,78,.451,19,8,11,.421
+scottal01,Alvin Scott,155,74,81,.477,137,67,70,.489,18,7,11,.389
+daviswa03,Walter Davis,152,69,83,.454,136,61,75,.449,16,8,8,.500
+lucasma01,Maurice Lucas,152,72,80,.474,133,64,69,.481,19,8,11,.421
+sandemi01,Mike Sanders,136,63,73,.463,119,56,63,.471,17,7,10,.412
+humphja01,Jay Humphries,128,51,77,.398,125,51,74,.408,3,0,3,.000
+jonesch02,Charles Jones,110,40,70,.364,108,40,68,.370,2,0,2,.000
+robeyri01,Rick Robey,99,52,47,.525,90,47,43,.522,9,5,4,.556
+holtomi01,Michael Holton,75,30,45,.400,72,30,42,.417,3,0,3,.000
+westppa01,Paul Westphal,73,39,34,.534,57,31,26,.544,16,8,8,.500
+pincked01,Ed Pinckney,47,20,27,.426,47,20,27,.426,0,0,0,
+thompbe01,Bernard Thompson,32,15,17,.469,32,15,17,.469,0,0,0,
+gloucge01,Georgi Glouchkov,29,9,20,.310,29,9,20,.310,0,0,0,
+highjo01,Johnny High,27,13,14,.481,27,13,14,.481,0,0,0,
+whitero01,Rory White,20,8,12,.400,20,8,12,.400,0,0,0,
+youngmi01,Michael Young,2,0,2,.000,2,0,2,.000,0,0,0,

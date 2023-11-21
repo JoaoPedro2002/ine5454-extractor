@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+carpebo01,Bob Carpenter*,14,7,7,.500,13,6,7,.462,1,1,0,1.000
+schaufr01,Fred Schaus*,14,7,7,.500,13,6,7,.462,1,1,0,1.000
+wagercl01,Clint Wager*,13,7,6,.538,12,6,6,.500,1,1,0,1.000
+klierle01,Leo Klier,13,6,7,.462,13,6,7,.462,0,0,0,
+henrybi01,Bill Henry,13,6,7,.462,13,6,7,.462,0,0,0,
+harribo01,Bob Harris,12,7,5,.583,11,6,5,.545,1,1,0,1.000
+oldhajo01,John Oldham,11,7,4,.636,10,6,4,.600,1,1,0,1.000
+armstcu01,Curly Armstrong*,11,6,5,.545,10,5,5,.500,1,1,0,1.000
+kerrija01,Jack Kerris*,11,5,6,.455,10,4,6,.400,1,1,0,1.000
+blackch01,Charlie Black,10,6,4,.600,10,6,4,.600,0,0,0,
+niemiri01,Richie Niemiera*,9,6,3,.667,9,6,3,.667,0,0,0,
+schulho01,Howie Schultz*,4,1,3,.250,3,0,3,.000,1,1,0,1.000
+johnsra01,Ralph Johnson*,4,1,3,.250,3,0,3,.000,1,1,0,1.000
+mahnkjo01,John Mahnken*,2,2,0,1.000,2,2,0,1.000,0,0,0,
+kluehdu01,Duane Klueh,1,1,0,1.000,0,0,0,,1,1,0,1.000

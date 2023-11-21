@@ -1,0 +1,15 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+busedo01,Don Buse,74,34,40,.459,72,33,39,.458,2,1,1,.500
+kellebi01,Bill Keller,68,32,36,.471,66,31,35,.470,2,1,1,.500
+robisda01,Dave Robisch*,68,30,38,.441,66,29,37,.439,2,1,1,.500
+elmorle01,Len Elmore,66,29,37,.439,64,28,36,.438,2,1,1,.500
+hillmda01,Darnell Hillman,64,29,35,.453,62,28,34,.452,2,1,1,.500
+knighbi01,Billy Knight,61,30,31,.492,59,29,30,.492,2,1,1,.500
+flynnmi01,Mike Flynn,59,26,33,.441,57,25,32,.439,2,1,1,.500
+roundda01,Dan Roundfield,58,26,32,.448,57,25,32,.439,1,1,0,1.000
+lamarbo01,Bo Lamar*,33,17,16,.515,33,17,16,.515,0,0,0,
+granttr01,Travis Grant*,31,12,19,.387,30,11,19,.367,1,1,0,1.000
+owensto01,Tom Owens*,15,7,8,.467,15,7,8,.467,0,0,0,
+barnena01,Nate Barnett,10,7,3,.700,10,7,3,.700,0,0,0,
+mannied01,Ed Manning*,7,4,3,.571,7,4,3,.571,0,0,0,
+netolbo01,Bob Netolicky*,4,3,1,.750,4,3,1,.750,0,0,0,

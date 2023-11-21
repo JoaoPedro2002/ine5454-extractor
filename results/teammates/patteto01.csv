@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+riordmi01,Mike Riordan,26,14,12,.538,25,14,11,.560,1,0,1,.000
+porteke01,Kevin Porter,25,13,12,.520,24,13,11,.542,1,0,1,.000
+hayesel01,Elvin Hayes,25,14,11,.560,24,14,10,.583,1,0,1,.000
+unselwe01,Wes Unseld,24,13,11,.542,23,13,10,.565,1,0,1,.000
+cheniph01,Phil Chenier,23,12,11,.522,22,12,10,.545,1,0,1,.000
+stallda01,Dave Stallworth,21,13,8,.619,20,13,7,.650,1,0,1,.000
+lovest01,Stan Love,20,12,8,.600,20,12,8,.600,0,0,0,
+tresvjo01,John Tresvant,19,11,8,.579,18,11,7,.611,1,0,1,.000
+robinfl01,Flynn Robinson,18,9,9,.500,17,9,8,.529,1,0,1,.000
+clarkar01,Archie Clark*,14,7,7,.500,13,7,6,.538,1,0,1,.000
+rinalri01,Rich Rinaldi,12,9,3,.750,12,9,3,.750,0,0,0,
+davismi01,Mike Davis,2,1,1,.500,2,1,1,.500,0,0,0,
+weslewa01,Walt Wesley,2,1,1,.500,2,1,1,.500,0,0,0,
+nelsolo01,Louie Nelson*,2,1,1,.500,2,1,1,.500,0,0,0,
+kozelto01,Tom Kozelko,2,1,1,.500,2,1,1,.500,0,0,0,
+driscte01,Terry Driscoll,1,1,0,1.000,1,1,0,1.000,0,0,0,
+leaksma01,Manny Leaks*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+weathni01,Nick Weatherspoon,1,0,1,.000,1,0,1,.000,0,0,0,

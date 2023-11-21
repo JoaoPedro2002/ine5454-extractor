@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+johnsol01,Ollie Johnson*,65,31,34,.477,63,31,32,.492,2,0,2,.000
+hillar01,Armond Hill,65,31,34,.477,63,31,32,.492,2,0,2,.000
+rollitr01,Tree Rollins,63,30,33,.476,61,30,31,.492,2,0,2,.000
+johnsed02,Eddie Johnson,62,30,32,.484,60,30,30,.500,2,0,2,.000
+brownjo01,John Brown,62,29,33,.468,60,29,31,.483,2,0,2,.000
+mcmilto01,Tom McMillen,61,30,31,.492,59,30,29,.508,2,0,2,.000
+crissch01,Charlie Criss,60,29,31,.483,58,29,29,.500,2,0,2,.000
+hawesst01,Steve Hawes,59,29,30,.492,57,29,28,.509,2,0,2,.000
+drewjo01,John Drew,53,27,26,.509,51,27,24,.529,2,0,2,.000
+terrycl01,Claude Terry*,24,10,14,.417,24,10,14,.417,0,0,0,
+behagro01,Ron Behagen,13,4,9,.308,13,4,9,.308,0,0,0,
+willina01,Nate Williams,12,5,7,.417,12,5,7,.417,0,0,0,
+lucasjo01,John Lucas,12,5,7,.417,12,5,7,.417,0,0,0,
+shortpu01,Purvis Short,12,5,7,.417,12,5,7,.417,0,0,0,
+abernto01,Tom Abernethy,12,5,7,.417,12,5,7,.417,0,0,0,
+raycl01,Clifford Ray,12,5,7,.417,12,5,7,.417,0,0,0,
+whitejo01,Jo Jo White*,11,5,6,.455,11,5,6,.455,0,0,0,
+townsra01,Raymond Townsend,10,4,6,.400,10,4,6,.400,0,0,0,
+coopewa01,Wayne Cooper,10,5,5,.500,10,5,5,.500,0,0,0,
+parkeso01,Sonny Parker,9,4,5,.444,9,4,5,.444,0,0,0,
+charlke01,Ken Charles,8,2,6,.250,8,2,6,.250,0,0,0,
+parisro01,Robert Parish,7,4,3,.571,7,4,3,.571,0,0,0,

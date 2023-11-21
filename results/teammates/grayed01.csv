@@ -1,0 +1,21 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mutomdi01,Dikembe Mutombo,68,38,30,.559,60,36,24,.600,8,2,6,.250
+corbity01,Tyrone Corbin,66,38,28,.576,58,36,22,.621,8,2,6,.250
+blaylmo01,Mookie Blaylock,64,38,26,.594,56,36,20,.643,8,2,6,.250
+smithst01,Steve Smith,57,34,23,.596,49,32,17,.653,8,2,6,.250
+crawfch01,Chris Crawford,42,23,19,.548,36,21,15,.583,6,2,4,.333
+hendeal01,Alan Henderson,41,23,18,.561,40,22,18,.550,1,1,0,1.000
+longgr01,Grant Long,38,19,19,.500,30,17,13,.567,8,2,6,.250
+westma01,Mark West,38,19,19,.500,30,17,13,.567,8,2,6,.250
+johnsan02,Anthony Johnson,37,19,18,.514,29,17,12,.586,8,2,6,.250
+laettch01,Christian Laettner,30,19,11,.633,30,19,11,.633,0,0,0,
+brownch01,Chucky Brown,30,19,11,.633,30,19,11,.633,0,0,0,
+mcleoro01,Roshown McLeod,25,11,14,.440,19,9,10,.474,6,2,4,.333
+andergr01,Greg Anderson,19,12,7,.632,19,12,7,.632,0,0,0,
+recasel01,Eldridge Recasner,18,8,10,.444,18,8,10,.444,0,0,0,
+sheppje01,Jeff Sheppard,17,9,8,.529,13,7,6,.538,4,2,2,.500
+ellisla01,LaPhonso Ellis,14,8,6,.571,14,8,6,.571,0,0,0,
+millean01,Anthony Miller,8,5,3,.625,8,5,3,.625,0,0,0,
+livinra01,Randy Livingston,7,6,1,.857,7,6,1,.857,0,0,0,
+whitedo01,Donald Whiteside,3,3,0,1.000,3,3,0,1.000,0,0,0,
+willish01,Shammond Williams,2,2,0,1.000,2,2,0,1.000,0,0,0,

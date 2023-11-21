@@ -1,0 +1,34 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+smithjr01,J.R. Smith,24,17,7,.708,24,17,7,.708,0,0,0,
+jamesle01,LeBron James*,24,17,7,.708,24,17,7,.708,0,0,0,
+caldejo01,José Calderón,21,16,5,.762,21,16,5,.762,0,0,0,
+zizican01,Ante Žižić,21,14,7,.667,21,14,7,.667,0,0,0,
+clarkjo01,Jordan Clarkson,20,12,8,.600,20,12,8,.600,0,0,0,
+greenje02,Jeff Green,20,14,6,.700,20,14,6,.700,0,0,0,
+hillge01,George Hill,19,11,8,.579,19,11,8,.579,0,0,0,
+korveky01,Kyle Korver,18,12,6,.667,18,12,6,.667,0,0,0,
+osmande01,Cedi Osman*,17,12,5,.706,17,12,5,.706,0,0,0,
+nancela02,Larry Nance Jr.*,16,10,6,.625,16,10,6,.625,0,0,0,
+thomptr01,Tristan Thompson*,14,9,5,.643,14,9,5,.643,0,0,0,
+hoodro01,Rodney Hood,14,8,6,.571,14,8,6,.571,0,0,0,
+perralo01,London Perrantes,11,6,5,.545,11,6,5,.545,0,0,0,
+loveke01,Kevin Love*,11,9,2,.818,11,9,2,.818,0,0,0,
+crowdja01,Jae Crowder,5,4,1,.800,4,4,0,1.000,1,0,1,.000
+fryech01,Channing Frye,4,4,0,1.000,4,4,0,1.000,0,0,0,
+wadedw01,Dwyane Wade,4,4,0,1.000,4,4,0,1.000,0,0,0,
+roziete01,Terry Rozier*,1,0,1,.000,0,0,0,,1,0,1,.000
+zellety01,Tyler Zeller,1,0,1,.000,0,0,0,,1,0,1,.000
+mickejo01,Jordan Mickey,1,0,1,.000,0,0,0,,1,0,1,.000
+jerebjo01,Jonas Jerebko,1,0,1,.000,0,0,0,,1,0,1,.000
+sextoco01,Collin Sexton,1,0,1,.000,1,0,1,.000,0,0,0,
+nwabada01,David Nwaba,1,0,1,.000,1,0,1,.000,0,0,0,
+perkike01,Kendrick Perkins,1,0,1,.000,1,0,1,.000,0,0,0,
+dekkesa01,Sam Dekker,1,0,1,.000,1,0,1,.000,0,0,0,
+thomais02,Isaiah Thomas*,1,0,1,.000,0,0,0,,1,0,1,.000
+hunterj01,R.J. Hunter,1,0,1,.000,0,0,0,,1,0,1,.000
+johnsam01,Amir Johnson,1,0,1,.000,0,0,0,,1,0,1,.000
+youngja01,James Young,1,0,1,.000,0,0,0,,1,0,1,.000
+turneev01,Evan Turner,1,0,1,.000,0,0,0,,1,0,1,.000
+sullija01,Jared Sullinger,1,0,1,.000,0,0,0,,1,0,1,.000
+shumpim01,Iman Shumpert,1,1,0,1.000,1,1,0,1.000,0,0,0,
+smartma01,Marcus Smart*,1,0,1,.000,0,0,0,,1,0,1,.000

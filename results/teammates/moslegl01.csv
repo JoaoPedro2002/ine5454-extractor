@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+kenonla01,Larry Kenon*,29,18,11,.621,26,16,10,.615,3,2,1,.667
+galemi01,Mike Gale*,29,18,11,.621,26,16,10,.615,3,2,1,.667
+silasja01,James Silas*,29,18,11,.621,26,16,10,.615,3,2,1,.667
+olberma01,Mark Olberding,29,18,11,.621,26,16,10,.615,3,2,1,.667
+paultbi01,Billy Paultz*,28,18,10,.643,25,16,9,.640,3,2,1,.667
+dampilo01,Louie Dampier*,28,17,11,.607,25,15,10,.600,3,2,1,.667
+dietrco01,Coby Dietrick,28,17,11,.607,25,15,10,.600,3,2,1,.667
+greenmi01,Mike Green*,27,16,11,.593,24,14,10,.583,3,2,1,.667
+gervige01,George Gervin,27,17,10,.630,24,15,9,.625,3,2,1,.667
+bristal01,Allan Bristow,25,17,8,.680,22,15,7,.682,3,2,1,.667
+bryanjo01,Joe Bryant,6,5,1,.833,6,5,1,.833,0,0,0,
+mixst01,Steve Mix,6,5,1,.833,6,5,1,.833,0,0,0,
+freewo01,World B. Free,6,5,1,.833,6,5,1,.833,0,0,0,
+catchha01,Harvey Catchings,6,5,1,.833,6,5,1,.833,0,0,0,
+collido01,Doug Collins,6,5,1,.833,6,5,1,.833,0,0,0,
+bibbyhe01,Henry Bibby,6,5,1,.833,6,5,1,.833,0,0,0,
+jonesca01,Caldwell Jones*,6,5,1,.833,6,5,1,.833,0,0,0,
+mcginge01,George McGinnis,6,5,1,.833,6,5,1,.833,0,0,0,
+ervinju01,Julius Erving*,5,4,1,.800,5,4,1,.800,0,0,0,
+dunlemi01,Mike Dunleavy,4,3,1,.750,4,3,1,.750,0,0,0,
+dawkida01,Darryl Dawkins,3,3,0,1.000,3,3,0,1.000,0,0,0,
+washiwi01,Wilson Washington,3,2,1,.667,3,2,1,.667,0,0,0,

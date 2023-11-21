@@ -1,0 +1,66 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+scottmi01,Mike Scott,25,12,13,.480,24,12,12,.500,1,0,1,.000
+korkmfu01,Furkan Korkmaz,25,12,13,.480,24,12,12,.500,1,0,1,.000
+harrito02,Tobias Harris,24,12,12,.500,23,12,11,.522,1,0,1,.000
+thybuma01,Matisse Thybulle,23,11,12,.478,22,11,11,.500,1,0,1,.000
+horfoal01,Al Horford,22,10,12,.455,21,10,11,.476,1,0,1,.000
+netora01,Raul Neto*,20,9,11,.450,19,9,10,.474,1,0,1,.000
+richajo01,Josh Richardson*,20,9,11,.450,19,9,10,.474,1,0,1,.000
+simmobe01,Ben Simmons,17,10,7,.588,17,10,7,.588,0,0,0,
+miltosh01,Shake Milton,16,6,10,.375,15,6,9,.400,1,0,1,.000
+burksal01,Alec Burks,14,7,7,.500,13,7,6,.538,1,0,1,.000
+ennisja01,James Ennis III,13,8,5,.615,13,8,5,.615,0,0,0,
+embiijo01,Joel Embiid,12,7,5,.583,11,7,4,.636,1,0,1,.000
+burketr01,Trey Burke,10,5,5,.500,10,5,5,.500,0,0,0,
+oquinky01,Kyle O'Quinn,10,3,7,.300,9,3,6,.333,1,0,1,.000
+rosede01,Derrick Rose,9,7,2,.778,9,7,2,.778,0,0,0,
+bullore01,Reggie Bullock,9,7,2,.778,9,7,2,.778,0,0,0,
+gibsota01,Taj Gibson,9,7,2,.778,9,7,2,.778,0,0,0,
+randlju01,Julius Randle,9,7,2,.778,9,7,2,.778,0,0,0,
+barrerj01,RJ Barrett,9,7,2,.778,9,7,2,.778,0,0,0,
+toppiob01,Obi Toppin,9,7,2,.778,9,7,2,.778,0,0,0,
+paytoel01,Elfrid Payton,9,7,2,.778,9,7,2,.778,0,0,0,
+quickim01,Immanuel Quickley,8,7,1,.875,8,7,1,.875,0,0,0,
+knoxke01,Kevin Knox*,7,5,2,.714,7,5,2,.714,0,0,0,
+noelne01,Nerlens Noel,7,5,2,.714,7,5,2,.714,0,0,0,
+robingl02,Glenn Robinson III,7,2,5,.286,7,2,5,.286,0,0,0,
+ntilila01,Frank Ntilikina,7,5,2,.714,7,5,2,.714,0,0,0,
+harpeja01,Jared Harper,5,3,2,.600,5,3,2,.600,0,0,0,
+pinsoth01,Theo Pinson,4,3,1,.750,4,3,1,.750,0,0,0,
+hardeja01,James Harden,3,1,2,.333,3,1,2,.333,0,0,0,
+jordade01,DeAndre Jordan,3,1,2,.333,3,1,2,.333,0,0,0,
+shayoma01,Marial Shayok,3,2,1,.667,3,2,1,.667,0,0,0,
+whiteha01,Hassan Whiteside*,3,0,3,.000,3,0,3,.000,0,0,0,
+johnsty01,Tyler Johnson,3,1,2,.333,3,1,2,.333,0,0,0,
+harrijo01,Joe Harris,3,1,2,.333,3,1,2,.333,0,0,0,
+houseda01,Danuel House Jr.,3,0,3,.000,3,0,3,.000,0,0,0,
+pascher01,Eric Paschall,3,0,3,.000,3,0,3,.000,0,0,0,
+brownbr01,Bruce Brown*,3,1,2,.333,3,1,2,.333,0,0,0,
+shamela01,Landry Shamet,3,1,2,.333,3,1,2,.333,0,0,0,
+greenje02,Jeff Green,3,1,2,.333,3,1,2,.333,0,0,0,
+luwawti01,Timothé Luwawu-Cabarrot*,3,1,2,.333,3,1,2,.333,0,0,0,
+chiozch01,Chris Chiozza,3,1,2,.333,3,1,2,.333,0,0,0,
+clarkjo01,Jordan Clarkson,2,0,2,.000,2,0,2,.000,0,0,0,
+irvinky01,Kyrie Irving*,2,1,1,.500,2,1,1,.500,0,0,0,
+onealro01,Royce O'Neale,2,0,2,.000,2,0,2,.000,0,0,0,
+mitchdo01,Donovan Mitchell,2,0,2,.000,2,0,2,.000,0,0,0,
+vonleno01,Noah Vonleh,2,1,1,.500,2,1,1,.500,0,0,0,
+bogdabo02,Bojan Bogdanović,2,0,2,.000,2,0,2,.000,0,0,0,
+conlemi01,Mike Conley*,2,0,2,.000,2,0,2,.000,0,0,0,
+holmeri01,Richaun Holmes,1,0,1,.000,1,0,1,.000,0,0,0,
+fittsma01,Malik Fitts,1,0,1,.000,1,0,1,.000,0,0,0,
+azubuud01,Udoka Azubuike,1,0,1,.000,1,0,1,.000,0,0,0,
+smithzh01,Zhaire Smith,1,1,0,1.000,1,1,0,1.000,0,0,0,
+forretr01,Trent Forrest,1,0,1,.000,1,0,1,.000,0,0,0,
+jeffrda01,DaQuan Jeffries,1,0,1,.000,1,0,1,.000,0,0,0,
+guyky01,Kyle Guy,1,0,1,.000,1,0,1,.000,0,0,0,
+jamesju01,Justin James,1,0,1,.000,1,0,1,.000,0,0,0,
+butleja02,Jared Butler,1,0,1,.000,1,0,1,.000,0,0,0,
+foxde01,De'Aaron Fox,1,0,1,.000,1,0,1,.000,0,0,0,
+gayru01,Rudy Gay*,1,0,1,.000,1,0,1,.000,0,0,0,
+hieldbu01,Buddy Hield,1,0,1,.000,1,0,1,.000,0,0,0,
+halibty01,Tyrese Haliburton,1,0,1,.000,1,0,1,.000,0,0,0,
+baglema01,Marvin Bagley III,1,0,1,.000,1,0,1,.000,0,0,0,
+hugheel01,Elijah Hughes,1,0,1,.000,1,0,1,.000,0,0,0,
+barneha02,Harrison Barnes,1,0,1,.000,1,0,1,.000,0,0,0,
+josepco01,Cory Joseph,1,0,1,.000,1,0,1,.000,0,0,0,

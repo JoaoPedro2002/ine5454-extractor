@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+schaydo01,Dolph Schayes*,225,141,84,.627,198,128,70,.646,27,13,14,.481
+seymopa01,Paul Seymour*,210,135,75,.643,183,122,61,.667,27,13,14,.481
+gaborbi01,Bill Gabor,205,132,73,.644,179,119,60,.665,26,13,13,.500
+ratkoge01,George Ratkovicz*,186,114,72,.613,162,102,60,.630,24,12,12,.500
+jorgeno01,Noble Jorgensen*,137,78,59,.569,121,71,50,.587,16,7,9,.438
+hannual01,Alex Hannum*,123,79,44,.642,105,69,36,.657,18,10,8,.556
+macknjo01,Johnny Macknowski*,108,72,36,.667,95,65,30,.684,13,7,6,.538
+kingge01,George King*,101,62,39,.614,93,59,34,.634,8,3,5,.375
+rochare01,Red Rocha*,100,60,40,.600,91,57,34,.626,9,3,6,.333
+calabge01,Gerry Calabrese,93,49,44,.527,87,47,40,.540,6,2,4,.333
+osterwa01,Wally Osterkorn,90,54,36,.600,81,51,30,.630,9,3,6,.333
+petered01,Ed Peterson*,81,61,20,.753,70,55,15,.786,11,6,5,.545
+chollle01,Leroy Chollet*,62,43,19,.694,47,34,13,.723,15,9,6,.600
+levanan01,Andrew Levane*,59,44,15,.746,50,40,10,.800,9,4,5,.444
+corlera01,Ray Corley*,57,46,11,.807,51,42,9,.824,6,4,2,.667
+lofgrdo01,Don Lofgran*,42,21,21,.500,42,21,21,.500,0,0,0,
+lloydea01,Earl Lloyd*,40,26,14,.650,38,26,12,.684,2,0,2,.000
+lochmbo01,Bob Lochmueller,35,22,13,.629,33,22,11,.667,2,0,2,.000
+scolafr01,Fred Scolari*,26,10,16,.385,19,6,13,.316,7,4,3,.571
+smawlbe01,Belus Smawley*,14,7,7,.500,14,7,7,.500,0,0,0,
+savagdo01,Don Savage,12,9,3,.750,12,9,3,.750,0,0,0,
+johnsne01,Neil Johnston*,1,1,0,1.000,1,1,0,1.000,0,0,0,

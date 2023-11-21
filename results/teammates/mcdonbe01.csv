@@ -1,0 +1,40 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mullich01,Chris Mullin,144,53,91,.368,134,50,84,.373,10,3,7,.300
+higgiro01,Rod Higgins,143,50,93,.350,133,47,86,.353,10,3,7,.300
+whiteje01,Jerome Whitehead,131,45,86,.344,126,45,81,.357,5,0,5,.000
+teaglte01,Terry Teagle,130,48,82,.369,120,45,75,.375,10,3,7,.300
+smithla01,Larry Smith,101,41,60,.406,91,38,53,.418,10,3,7,.300
+floydsl01,Sleepy Floyd,86,36,50,.419,81,36,45,.444,5,0,5,.000
+carrojo01,Joe Barry Carroll,81,35,46,.432,76,35,41,.461,5,0,5,.000
+garlawi01,Winston Garland,81,21,60,.259,76,18,58,.237,5,3,2,.600
+frankte01,Tellis Frank,79,18,61,.228,79,18,61,.228,0,0,0,
+feitlda01,Dave Feitl,69,16,53,.232,69,16,53,.232,0,0,0,
+smithot01,Otis Smith,69,16,53,.232,67,16,51,.239,2,0,2,.000
+ballagr01,Greg Ballard,68,33,35,.485,63,33,30,.524,5,0,5,.000
+mosspe01,Perry Moss,53,26,27,.491,50,26,24,.520,3,0,3,.000
+harrist01,Steve Harris,43,10,33,.233,43,10,33,.233,0,0,0,
+sampsra01,Ralph Sampson,40,11,29,.275,38,11,27,.289,2,0,2,.000
+hoppeda01,Dave Hoppen,36,7,29,.194,36,7,29,.194,0,0,0,
+washbch01,Chris Washburn,36,13,23,.361,31,13,18,.419,5,0,5,.000
+whiteto01,Tony White,34,7,27,.206,34,7,27,.206,0,0,0,
+minnidi01,Dirk Minniefield,29,4,25,.138,29,4,25,.138,0,0,0,
+smithcl01,Clinton Smith,28,12,16,.429,28,12,16,.429,0,0,0,
+shortpu01,Purvis Short,26,9,17,.346,21,9,12,.429,5,0,5,.000
+leeke01,Keith Lee,21,5,16,.238,21,5,16,.238,0,0,0,
+turpime01,Melvin Turpin,21,5,16,.238,21,5,16,.238,0,0,0,
+poquebe01,Ben Poquette,21,5,16,.238,21,5,16,.238,0,0,0,
+hinsoro01,Roy Hinson,21,5,16,.238,21,5,16,.238,0,0,0,
+westma01,Mark West,21,5,16,.238,21,5,16,.238,0,0,0,
+johnsed02,Eddie Johnson,20,5,15,.250,20,5,15,.250,0,0,0,
+freewo01,World B. Free,20,5,15,.250,20,5,15,.250,0,0,0,
+baglejo01,John Bagley,18,4,14,.222,18,4,14,.222,0,0,0,
+brewero01,Ron Brewer,17,4,13,.235,17,4,13,.235,0,0,0,
+hendeke01,Kevin Henderson,17,4,13,.235,17,4,13,.235,0,0,0,
+bolma01,Manute Bol,16,5,11,.312,11,2,9,.182,5,3,2,.600
+alforst01,Steve Alford,14,3,11,.214,11,2,9,.182,3,1,2,.333
+richmmi01,Mitch Richmond,14,5,9,.357,9,2,7,.222,5,3,2,.600
+wadema01,Mark Wade,11,1,10,.091,11,1,10,.091,0,0,0,
+grahaor01,Orlando Graham,7,0,7,.000,5,0,5,.000,2,0,2,.000
+sheltlo01,Lonnie Shelton,7,0,7,.000,7,0,7,.000,0,0,0,
+washike01,Kermit Washington,6,0,6,.000,6,0,6,.000,0,0,0,
+jonesed01,Edgar Jones,2,1,1,.500,2,1,1,.500,0,0,0,

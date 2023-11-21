@@ -1,0 +1,18 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+barnedi01,Dick Barnett,57,34,23,.596,49,30,19,.612,8,4,4,.500
+debusda01,Dave DeBusschere,56,34,22,.607,48,30,18,.625,8,4,4,.500
+bradlbi01,Bill Bradley,56,34,22,.607,48,30,18,.625,8,4,4,.500
+fraziwa01,Walt Frazier,55,33,22,.600,47,29,18,.617,8,4,4,.500
+stallda01,Dave Stallworth,50,29,21,.580,42,25,17,.595,8,4,4,.500
+riordmi01,Mike Riordan,48,27,21,.562,40,23,17,.575,8,4,4,.500
+jacksph01,Phil Jackson*,46,25,21,.543,42,24,18,.571,4,1,3,.250
+reedwi01,Willis Reed,44,25,19,.568,36,21,15,.583,8,4,4,.500
+pricemi01,Mike Price,37,23,14,.622,31,20,11,.645,6,3,3,.500
+russeca01,Cazzie Russell,35,17,18,.486,28,14,14,.500,7,3,4,.429
+masted01,Eddie Mast,31,20,11,.645,28,19,9,.679,3,1,2,.333
+meminde01,Dean Meminger,10,7,3,.700,10,7,3,.700,0,0,0,
+lucasje01,Jerry Lucas,9,6,3,.667,9,6,3,.667,0,0,0,
+milesed01,Eddie Miles,6,5,1,.833,6,5,1,.833,0,0,0,
+rackllu01,Luther Rackley,5,4,1,.800,5,4,1,.800,0,0,0,
+monroea01,Earl Monroe,4,4,0,1.000,4,4,0,1.000,0,0,0,
+willimi01,Milt Williams,1,0,1,.000,1,0,1,.000,0,0,0,

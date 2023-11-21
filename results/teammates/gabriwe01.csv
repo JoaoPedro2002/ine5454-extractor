@@ -1,0 +1,107 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+reaveau01,Austin Reaves*,81,43,38,.531,70,36,34,.514,11,7,4,.636
+browntr01,Troy Brown Jr.*,73,40,33,.548,63,34,29,.540,10,6,4,.600
+schrode01,Dennis Schröder*,65,38,27,.585,54,31,23,.574,11,7,4,.636
+jamesle01,LeBron James*,64,34,30,.531,53,27,26,.509,11,7,4,.636
+davisan02,Anthony Davis*,58,33,25,.569,47,26,21,.553,11,7,4,.636
+westbru01,Russell Westbrook*,55,23,32,.418,55,23,32,.418,0,0,0,
+walkelo01,Lonnie Walker IV*,50,25,25,.500,42,21,21,.500,8,4,4,.500
+chrisma02,Max Christie,44,19,25,.432,37,16,21,.432,7,3,4,.429
+hachiru01,Rui Hachimura*,39,25,14,.641,28,18,10,.643,11,7,4,.636
+anthoca01,Carmelo Anthony*,37,11,26,.297,32,9,23,.281,5,2,3,.400
+vandeja01,Jarred Vanderbilt*,36,24,12,.667,25,17,8,.680,11,7,4,.636
+beverpa01,Patrick Beverley*,35,18,17,.514,35,18,17,.514,0,0,0,
+beaslma01,Malik Beasley*,34,22,12,.647,25,17,8,.680,9,5,4,.556
+nunnke01,Kendrick Nunn,32,16,16,.500,32,16,16,.500,0,0,0,
+bryanth01,Thomas Bryant,30,16,14,.533,30,16,14,.533,0,0,0,
+russeda01,D'Angelo Russell*,28,19,9,.679,17,12,5,.706,11,7,4,.636
+bledser01,Eric Bledsoe,27,11,16,.407,27,11,16,.407,0,0,0,
+arizatr01,Trevor Ariza,27,9,18,.333,27,9,18,.333,0,0,0,
+toscaju01,Juan Toscano-Anderson*,26,12,14,.462,26,12,14,.462,0,0,0,
+trentga02,Gary Trent Jr.*,24,10,14,.417,19,8,11,.421,5,2,3,.400
+mccolcj01,CJ McCollum*,24,10,14,.417,19,8,11,.421,5,2,3,.400
+swanica01,Caleb Swanigan,22,8,14,.364,22,8,14,.364,0,0,0,
+whiteha01,Hassan Whiteside*,21,9,12,.429,16,7,9,.438,5,2,3,.400
+simonan01,Anfernee Simons,21,7,14,.333,18,7,11,.389,3,0,3,.000
+hayesja02,Jaxson Hayes*,20,8,12,.400,20,8,12,.400,0,0,0,
+lewiski01,Kira Lewis Jr.*,19,9,10,.474,19,9,10,.474,0,0,0,
+monkma01,Malik Monk*,19,5,14,.263,19,5,14,.263,0,0,0,
+johnsst04,Stanley Johnson,19,5,14,.263,19,5,14,.263,0,0,0,
+augusdj01,D.J. Augustin,19,5,14,.263,19,5,14,.263,0,0,0,
+hernawi01,Willy Hernangómez,19,8,11,.421,19,8,11,.421,0,0,0,
+hezonma01,Mario Hezonja*,19,9,10,.474,14,7,7,.500,5,2,3,.400
+lillada01,Damian Lillard*,18,8,10,.444,13,6,7,.462,5,2,3,.400
+marshna01,Naji Marshall*,17,7,10,.412,17,7,10,.412,0,0,0,
+jonesda03,Damian Jones,16,4,12,.250,16,4,12,.250,0,0,0,
+balllo01,Lonzo Ball,16,8,8,.500,16,8,8,.500,0,0,0,
+johnsja01,James Johnson,14,4,10,.286,14,4,10,.286,0,0,0,
+willizi01,Zion Williamson,14,8,6,.571,14,8,6,.571,0,0,0,
+howardw01,Dwight Howard,14,3,11,.214,14,3,11,.214,0,0,0,
+hortota01,Talen Horton-Tucker*,13,3,10,.231,13,3,10,.231,0,0,0,
+alexani01,Nickeil Alexander-Walker*,12,5,7,.417,12,5,7,.417,0,0,0,
+ingrabr01,Brandon Ingram*,12,8,4,.667,12,8,4,.667,0,0,0,
+littlna01,Nassir Little,12,6,6,.500,12,6,6,.500,0,0,0,
+bjeline01,Nemanja Bjelica,11,2,9,.182,11,2,9,.182,0,0,0,
+hieldbu01,Buddy Hield,11,2,9,.182,11,2,9,.182,0,0,0,
+ryanma01,Matt Ryan,11,5,6,.455,11,5,6,.455,0,0,0,
+bambamo01,Mo Bamba,11,8,3,.727,8,6,2,.750,3,2,1,.667
+bradlav01,Avery Bradley,11,2,9,.182,11,2,9,.182,0,0,0,
+barneha02,Harrison Barnes,11,2,9,.182,11,2,9,.182,0,0,0,
+josepco01,Cory Joseph,11,2,9,.182,11,2,9,.182,0,0,0,
+holmeri01,Richaun Holmes,10,2,8,.200,10,2,8,.200,0,0,0,
+ferreyo01,Yogi Ferrell,10,2,8,.200,10,2,8,.200,0,0,0,
+iwundwe01,Wes Iwundu,10,3,7,.300,10,3,7,.300,0,0,0,
+adamsst01,Steven Adams,9,5,4,.556,9,5,4,.556,0,0,0,
+bogdabo01,Bogdan Bogdanović*,8,1,7,.125,8,1,7,.125,0,0,0,
+dedmode01,Dewayne Dedmon,8,1,7,.125,8,1,7,.125,0,0,0,
+reedda01,Davon Reed,8,6,2,.750,8,6,2,.750,0,0,0,
+jamesju01,Justin James,8,2,6,.250,8,2,6,.250,0,0,0,
+foxde01,De'Aaron Fox,8,2,6,.250,8,2,6,.250,0,0,0,
+swideco01,Cole Swider,7,2,5,.286,7,2,5,.286,0,0,0,
+ellinwa01,Wayne Ellington,7,2,5,.286,7,2,5,.286,0,0,0,
+harrish01,Shaquille Harrison,7,3,4,.429,1,1,0,1.000,6,2,4,.333
+nurkiju01,Jusuf Nurkić*,7,3,4,.429,2,1,1,.500,5,2,3,.400
+jacksre01,Reggie Jackson*,6,2,4,.333,6,2,4,.333,0,0,0,
+hartjo01,Josh Hart,6,4,2,.667,6,4,2,.667,0,0,0,
+nunnaja01,James Nunnally,6,2,4,.333,6,2,4,.333,0,0,0,
+mannte01,Terance Mann*,6,2,4,.333,6,2,4,.333,0,0,0,
+pippesc02,Scotty Pippen Jr.,6,1,5,.167,6,1,5,.167,0,0,0,
+ibakase01,Serge Ibaka,6,2,4,.333,6,2,4,.333,0,0,0,
+coffeam01,Amir Coffey*,6,2,4,.333,6,2,4,.333,0,0,0,
+thornsi01,Sindarius Thornwell,5,3,2,.600,5,3,2,.600,0,0,0,
+scrubja01,Jay Scrubb,5,1,4,.200,5,1,4,.200,0,0,0,
+bazemke01,Kent Bazemore*,5,0,5,.000,5,0,5,.000,0,0,0,
+gilesha01,Harry Giles,5,1,4,.200,5,1,4,.200,0,0,0,
+morrima03,Marcus Morris*,5,1,4,.200,5,1,4,.200,0,0,0,
+mellini01,Nicolò Melli,5,3,2,.600,5,3,2,.600,0,0,0,
+johnske07,Keon Johnson,5,2,3,.400,5,2,3,.400,0,0,0,
+bostobr01,Brandon Boston Jr.,4,1,3,.250,4,1,3,.250,0,0,0,
+winslju01,Justise Winslow,4,1,3,.250,4,1,3,.250,0,0,0,
+brownst02,Sterling Brown,4,2,2,.500,4,2,2,.500,0,0,0,
+moonxa01,Xavier Moon,4,2,2,.500,4,2,2,.500,0,0,0,
+batumni01,Nicolas Batum*,4,1,3,.250,4,1,3,.250,0,0,0,
+redicjj01,J.J. Redick,3,2,1,.667,3,2,1,.667,0,0,0,
+hoardja01,Jaylen Hoard,3,0,3,.000,1,0,1,.000,2,0,2,.000
+colliza01,Zach Collins*,3,2,1,.667,2,1,1,.500,1,1,0,1.000
+zubaciv01,Ivica Zubac*,3,1,2,.333,3,1,2,.333,0,0,0,
+louzama01,Didi Louzada,3,0,3,.000,3,0,3,.000,0,0,0,
+ennisja01,James Ennis III,3,2,1,.667,3,2,1,.667,0,0,0,
+thomptr01,Tristan Thompson*,2,1,1,.500,0,0,0,,2,1,1,.500
+brownmo01,Moses Brown,2,0,2,.000,2,0,2,.000,0,0,0,
+jeffrda01,DaQuan Jeffries,2,0,2,.000,2,0,2,.000,0,0,0,
+jonesma05,Mason Jones,2,2,0,1.000,2,2,0,1.000,0,0,0,
+adamsja01,Jaylen Adams,2,0,2,.000,0,0,0,,2,0,2,.000
+thomais02,Isaiah Thomas*,2,0,2,.000,2,0,2,.000,0,0,0,
+hardeja01,James Harden,1,1,0,1.000,1,1,0,1.000,0,0,0,
+millspa01,Paul Millsap,1,1,0,1.000,1,1,0,1.000,0,0,0,
+gallola01,Langston Galloway,1,1,0,1.000,1,1,0,1.000,0,0,0,
+guyky01,Kyle Guy,1,0,1,.000,1,0,1,.000,0,0,0,
+magnawi01,Will Magnay,1,1,0,1.000,1,1,0,1.000,0,0,0,
+carteje01,Jevon Carter,1,1,0,1.000,1,1,0,1.000,0,0,0,
+millspa02,Patty Mills*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+brownbr01,Bruce Brown*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+claxtni01,Nic Claxton*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+baglema01,Marvin Bagley III,1,0,1,.000,1,0,1,.000,0,0,0,
+mccluma01,Mac McClung,1,1,0,1.000,1,1,0,1.000,0,0,0,
+bembrde01,DeAndre' Bembry,1,1,0,1.000,1,1,0,1.000,0,0,0,
+griffbl01,Blake Griffin,1,1,0,1.000,1,1,0,1.000,0,0,0,

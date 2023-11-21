@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+lewisfr02,Freddie Lewis,70,43,27,.614,54,34,20,.630,16,9,7,.562
+netolbo01,Bob Netolicky*,70,43,27,.614,54,34,20,.630,16,9,7,.562
+danieme01,Mel Daniels*,68,42,26,.618,52,33,19,.635,16,9,7,.562
+brownro01,Roger Brown*,67,41,26,.612,51,32,19,.627,16,9,7,.562
+peeplge01,George Peeples*,58,34,24,.586,42,25,17,.595,16,9,7,.562
+deedo01,Don Dee,52,33,19,.635,41,26,15,.634,11,7,4,.636
+faircjo01,John Fairchild*,50,33,17,.660,41,29,12,.707,9,4,5,.444
+milleja01,Jay Miller*,43,29,14,.674,33,23,10,.697,10,6,4,.600
+perryro01,Ron Perry*,29,19,10,.655,15,11,4,.733,14,8,6,.571
+thackto01,Tom Thacker*,25,17,8,.680,10,8,2,.800,15,9,6,.600
+chubist01,Steve Chubin,23,15,8,.652,23,15,8,.652,0,0,0,
+raylji01,Jimmy Rayl,17,9,8,.529,17,9,8,.529,0,0,0,
+lewismi01,Mike Lewis,14,7,7,.500,14,7,7,.500,0,0,0,
+wagneph01,Phil Wagner*,7,2,5,.286,7,2,5,.286,0,0,0,
+harknje01,Jerry Harkness*,6,2,4,.333,6,2,4,.333,0,0,0,
+thompja01,Jack Thompson,2,2,0,1.000,2,2,0,1.000,0,0,0,

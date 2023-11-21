@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+monroea01,Earl Monroe,20,12,8,.600,14,9,5,.643,6,3,3,.500
+marinja01,Jack Marin,20,12,8,.600,14,9,5,.643,6,3,3,.500
+unselwe01,Wes Unseld,20,12,8,.600,14,9,5,.643,6,3,3,.500
+cartefr01,Fred Carter,20,12,8,.600,14,9,5,.643,6,3,3,.500
+johnsgu01,Gus Johnson,19,12,7,.632,13,9,4,.692,6,3,3,.500
+scottra01,Ray Scott,18,11,7,.611,12,8,4,.667,6,3,3,.500
+ellisle01,Leroy Ellis,15,9,6,.600,12,7,5,.583,3,2,1,.667
+tuckeal01,Al Tucker*,9,5,4,.556,5,3,2,.600,4,2,2,.500
+loughke01,Kevin Loughery,7,3,4,.429,1,0,1,.000,6,3,3,.500
+milesed01,Eddie Miles,6,4,2,.667,1,1,0,1.000,5,3,2,.600
+mannied01,Ed Manning*,6,4,2,.667,6,4,2,.667,0,0,0,
+davismi01,Mike Davis,6,4,2,.667,6,4,2,.667,0,0,0,

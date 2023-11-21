@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+gallaha01,Harry Gallatin*,15,9,6,.600,15,9,6,.600,0,0,0,
+borylvi01,Vince Boryla,15,9,6,.600,15,9,6,.600,0,0,0,
+cliftna01,Nat Clifton*,15,9,6,.600,15,9,6,.600,0,0,0,
+braunca01,Carl Braun*,15,9,6,.600,15,9,6,.600,0,0,0,
+lumppra01,Ray Lumpp,15,4,11,.267,14,4,10,.286,1,0,1,.000
+mcguidi01,Dick McGuire*,14,8,6,.571,14,8,6,.571,0,0,0,
+mcguial01,Alfred McGuire*,14,8,6,.571,14,8,6,.571,0,0,0,
+simmoco01,Connie Simmons*,12,7,5,.583,12,7,5,.583,0,0,0,
+milleed01,Eddie Miller,12,1,11,.083,11,1,10,.091,1,0,1,.000
+henrido01,Don Henriksen*,12,1,11,.083,11,1,10,.091,1,0,1,.000
+baechji01,Jim Baechtold*,12,1,11,.083,11,1,10,.091,1,0,1,.000
+hoffmpa01,Paul Hoffman*,12,1,11,.083,11,1,10,.091,1,0,1,.000
+vandeer01,Ernie Vandeweghe*,11,8,3,.727,11,8,3,.727,0,0,0,
+kerrija01,Jack Kerris*,10,1,9,.100,9,1,8,.111,1,0,1,.000
+obriera01,Ralph O'Brien,9,1,8,.111,9,1,8,.111,0,0,0,
+priddbo01,Bob Priddy,8,1,7,.125,7,1,6,.143,1,0,1,.000
+barksdo01,Don Barksdale,7,0,7,.000,7,0,7,.000,0,0,0,
+zasloma01,Max Zaslofsky*,5,3,2,.600,5,3,2,.600,0,0,0,
+surhodi01,Dick Surhoff*,4,2,2,.500,4,2,2,.500,0,0,0,
+polsora01,Ralph Polson,3,2,1,.667,3,2,1,.667,0,0,0,
+bovendo01,Don Boven*,2,0,2,.000,2,0,2,.000,0,0,0,
+scolafr01,Fred Scolari*,2,0,2,.000,2,0,2,.000,0,0,0,

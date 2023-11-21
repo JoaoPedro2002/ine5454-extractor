@@ -1,0 +1,55 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+forddo01,Don Ford,151,91,60,.603,140,87,53,.621,11,4,7,.364
+lucasjo01,John Lucas,144,60,84,.417,144,60,84,.417,0,0,0,
+parkeso01,Sonny Parker,144,60,84,.417,144,60,84,.417,0,0,0,
+raycl01,Clifford Ray,143,58,85,.406,143,58,85,.406,0,0,0,
+abdulka01,Kareem Abdul-Jabbar,136,84,52,.618,123,79,44,.642,13,5,8,.385
+shortpu01,Purvis Short,122,52,70,.426,122,52,70,.426,0,0,0,
+parisro01,Robert Parish,121,52,69,.430,121,52,69,.430,0,0,0,
+coopewa01,Wayne Cooper,119,48,71,.403,119,48,71,.403,0,0,0,
+townsra01,Raymond Townsend,116,45,71,.388,116,45,71,.388,0,0,0,
+tatumea01,Earl Tatum,95,54,41,.568,84,50,34,.595,11,4,7,.364
+whitejo01,Jo Jo White*,94,35,59,.372,94,35,59,.372,0,0,0,
+chanedo01,Don Chaney,88,56,32,.636,77,52,25,.675,11,4,7,.364
+smithph01,Phil Smith,87,33,54,.379,87,33,54,.379,0,0,0,
+russeca01,Cazzie Russell,81,52,29,.642,70,48,22,.686,11,4,7,.364
+kupeccj01,C.J. Kupec,81,52,29,.642,70,48,22,.686,11,4,7,.364
+hudsolo01,Lou Hudson*,75,40,35,.533,73,39,34,.534,2,1,1,.500
+nixonno01,Norm Nixon,74,40,34,.541,72,39,33,.542,2,1,1,.500
+allenlu01,Lucius Allen,73,48,25,.658,66,45,21,.682,7,3,4,.429
+lamarbo01,Bo Lamar*,70,45,25,.643,60,41,19,.683,10,4,6,.400
+willina01,Nate Williams,69,32,37,.464,69,32,37,.464,0,0,0,
+washike01,Kermit Washington,67,40,27,.597,67,40,27,.597,0,0,0,
+neumajo01,Johnny Neumann*,65,41,24,.631,59,41,18,.695,6,0,6,.000
+edwarja01,James Edwards,53,24,29,.453,53,24,29,.453,0,0,0,
+dantlad01,Adrian Dantley,49,30,19,.612,47,29,18,.617,2,1,1,.500
+robisda01,Dave Robisch*,48,29,19,.604,46,28,18,.609,2,1,1,.500
+carrke01,Kenny Carr,45,29,16,.644,44,28,16,.636,1,1,0,1.000
+wilkeja01,Jamaal Wilkes,44,19,25,.432,42,18,24,.429,2,1,1,.500
+scottch01,Charlie Scott,42,25,17,.595,40,24,16,.600,2,1,1,.500
+hillmda01,Darnell Hillman,35,11,24,.314,35,11,24,.314,0,0,0,
+davisbr01,Brad Davis,30,20,10,.667,30,20,10,.667,0,0,0,
+bradldu01,Dudley Bradley,29,14,15,.483,29,14,15,.483,0,0,0,
+busedo01,Don Buse,29,14,15,.483,29,14,15,.483,0,0,0,
+davisjo01,Johnny Davis,29,14,15,.483,29,14,15,.483,0,0,0,
+knighbi01,Billy Knight,29,14,15,.483,29,14,15,.483,0,0,0,
+orrlo01,Louis Orr,29,14,15,.483,29,14,15,.483,0,0,0,
+johnscl01,Clemon Johnson,28,14,14,.500,28,14,14,.500,0,0,0,
+mcginge01,George McGinnis,28,13,15,.464,28,13,15,.464,0,0,0,
+roberma01,Marv Roberts*,25,16,9,.640,25,16,9,.640,0,0,0,
+digreer01,Ernie DiGregorio,24,8,16,.333,24,8,16,.333,0,0,0,
+bantomi01,Mike Bantom*,24,13,11,.542,24,13,11,.542,0,0,0,
+coxwe01,Wesley Cox,23,9,14,.391,23,9,14,.391,0,0,0,
+coughjo01,John Coughran,19,7,12,.368,19,7,12,.368,0,0,0,
+warneco01,Cornell Warner,16,7,9,.438,11,5,6,.455,5,2,3,.400
+sichtje01,Jerry Sichting,16,10,6,.625,16,10,6,.625,0,0,0,
+wilsobu01,Bubba Wilson,16,7,9,.438,16,7,9,.438,0,0,0,
+roberto01,Tony Robertson,12,5,7,.417,12,5,7,.417,0,0,0,
+carrojo01,Joe Barry Carroll,10,6,4,.600,10,6,4,.600,0,0,0,
+brownri01,Rickey Brown,10,6,4,.600,10,6,4,.600,0,0,0,
+smithla01,Larry Smith,10,6,4,.600,10,6,4,.600,0,0,0,
+kingbe01,Bernard King,10,6,4,.600,10,6,4,.600,0,0,0,
+freewo01,World B. Free,10,6,4,.600,10,6,4,.600,0,0,0,
+johnsch02,Cheese Johnson,9,2,7,.222,9,2,7,.222,0,0,0,
+eppsra01,Ray Epps,9,4,5,.444,9,4,5,.444,0,0,0,
+reidbi01,Billy Reid,9,5,4,.556,9,5,4,.556,0,0,0,

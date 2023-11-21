@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+selvyfr01,Frank Selvy*,146,88,58,.603,133,82,51,.617,13,6,7,.462
+larusru01,Rudy LaRusso,145,84,61,.579,132,78,54,.591,13,6,7,.462
+westje01,Jerry West,144,86,58,.597,131,80,51,.611,13,6,7,.462
+krebsji01,Jim Krebs*,142,82,60,.577,130,77,53,.592,12,5,7,.417
+hundlho01,Hot Rod Hundley*,140,80,60,.571,127,74,53,.583,13,6,7,.462
+hawkito01,Tom Hawkins*,121,67,54,.554,108,61,47,.565,13,6,7,.462
+felixra01,Ray Felix*,121,67,54,.554,108,61,47,.565,13,6,7,.462
+bayloel01,Elgin Baylor,113,70,43,.619,100,64,36,.640,13,6,7,.462
+leonasl01,Slick Leonard*,37,17,20,.459,33,15,18,.455,4,2,2,.500
+yateswa01,Wayne Yates*,35,18,17,.514,30,16,14,.533,5,2,3,.400
+mcneibo01,Bob McNeill,31,16,15,.516,27,15,12,.556,4,1,3,.250
+ellisle01,Leroy Ellis,27,20,7,.741,27,20,7,.741,0,0,0,
+barnedi01,Dick Barnett,27,20,7,.741,27,20,7,.741,0,0,0,
+wileyge01,Gene Wiley*,23,18,5,.783,23,18,5,.783,0,0,0,
+simsbo01,Bob Sims,18,12,6,.667,18,12,6,.667,0,0,0,
+alcorga01,Gary Alcorn*,14,8,6,.571,14,8,6,.571,0,0,0,
+smithbo01,Bobby Smith,3,3,0,1.000,3,3,0,1.000,0,0,0,
+johnsro01,Ron Johnson,2,1,1,.500,2,1,1,.500,0,0,0,

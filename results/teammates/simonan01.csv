@@ -1,0 +1,62 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+lillada01,Damian Lillard*,232,119,113,.513,218,115,103,.528,14,4,10,.286
+littlna01,Nassir Little,173,84,89,.486,170,83,87,.488,3,1,2,.333
+mccolcj01,CJ McCollum*,167,84,83,.503,152,80,72,.526,15,4,11,.267
+nurkiju01,Jusuf Nurkić*,162,86,76,.531,152,84,68,.553,10,2,8,.200
+anthoca01,Carmelo Anthony*,125,61,64,.488,115,59,56,.513,10,2,8,.200
+covinro01,Robert Covington*,111,60,51,.541,105,58,47,.552,6,2,4,.333
+trentga02,Gary Trent Jr.*,106,55,51,.519,102,55,47,.539,4,0,4,.000
+watfotr01,Trendon Watford,81,35,46,.432,81,35,46,.432,0,0,0,
+kanteen01,Enes Freedom,81,47,34,.580,71,43,28,.606,10,4,6,.400
+whiteha01,Hassan Whiteside*,67,31,36,.463,63,31,32,.492,4,0,4,.000
+powelno01,Norman Powell*,67,30,37,.448,61,28,33,.459,6,2,4,.333
+hoodro01,Rodney Hood,66,36,30,.545,61,34,27,.557,5,2,3,.400
+ellebcj01,CJ Elleby,65,35,30,.538,63,34,29,.540,2,1,1,.500
+eubandr01,Drew Eubanks*,64,25,39,.391,64,25,39,.391,0,0,0,
+sharpsh01,Shaedon Sharpe,61,26,35,.426,61,26,35,.426,0,0,0,
+hartjo01,Josh Hart,55,27,28,.491,55,27,28,.491,0,0,0,
+grantje01,Jerami Grant,55,24,31,.436,55,24,31,.436,0,0,0,
+hezonma01,Mario Hezonja*,53,21,32,.396,49,21,28,.429,4,0,4,.000
+jonesde02,Derrick Jones Jr.*,52,28,24,.538,50,27,23,.540,2,1,1,.500
+browngr01,Greg Brown III,43,22,21,.512,43,22,21,.512,0,0,0,
+bazemke01,Kent Bazemore*,43,18,25,.419,43,18,25,.419,0,0,0,
+labissk01,Skal Labissière,42,21,21,.500,39,20,19,.513,3,1,2,.333
+mclembe01,Ben McLemore,41,18,23,.439,41,18,23,.439,0,0,0,
+walkeja01,Jabari Walker,39,18,21,.462,39,18,21,.462,0,0,0,
+gilesha01,Harry Giles,37,22,15,.595,36,22,14,.611,1,0,1,.000
+winslju01,Justise Winslow,34,18,16,.529,34,18,16,.529,0,0,0,
+johnske07,Keon Johnson,34,11,23,.324,34,11,23,.324,0,0,0,
+tollian01,Anthony Tolliver*,33,14,19,.424,33,14,19,.424,0,0,0,
+colliza01,Zach Collins*,33,25,8,.758,28,23,5,.821,5,2,3,.400
+snellto01,Tony Snell*,32,13,19,.406,32,13,19,.406,0,0,0,
+nancela02,Larry Nance Jr.*,32,14,18,.438,32,14,18,.438,0,0,0,
+blevike01,Keljin Blevins,32,16,16,.500,30,15,15,.500,2,1,1,.500
+smithde03,Dennis Smith Jr.,31,15,16,.484,31,15,16,.484,0,0,0,
+laymaja01,Jake Layman,25,19,6,.760,20,17,3,.850,5,2,3,.400
+zelleco01,Cody Zeller*,24,13,11,.542,24,13,11,.542,0,0,0,
+aminual01,Al-Farouq Aminu,24,18,6,.750,19,16,3,.842,5,2,3,.400
+swanica01,Caleb Swanigan,24,11,13,.458,24,11,13,.458,0,0,0,
+turneev01,Evan Turner,23,17,6,.739,18,15,3,.833,5,2,3,.400
+gabriwe01,Wenyen Gabriel*,21,7,14,.333,18,7,11,.389,3,0,3,.000
+arizatr01,Trevor Ariza,20,9,11,.450,20,9,11,.450,0,0,0,
+curryse01,Seth Curry*,20,17,3,.850,15,15,0,1.000,5,2,3,.400
+leoname01,Meyers Leonard,18,13,5,.722,14,11,3,.786,4,2,2,.500
+harklma01,Maurice Harkless,16,11,5,.688,11,9,2,.818,5,2,3,.400
+hoardja01,Jaylen Hoard,16,7,9,.438,13,7,6,.538,3,0,3,.000
+holliro01,Rondae Hollis-Jefferson,16,7,9,.438,11,6,5,.545,5,1,4,.200
+paytoga02,Gary Payton II,15,8,7,.533,15,8,7,.533,0,0,0,
+leaftj01,T.J. Leaf,10,7,3,.700,7,6,1,.857,3,1,2,.333
+reddica01,Cam Reddish,9,1,8,.111,9,1,8,.111,0,0,0,
+stausni01,Nik Stauskas,9,7,2,.778,9,7,2,.778,0,0,0,
+brownmo01,Moses Brown,9,4,5,.444,9,4,5,.444,0,0,0,
+thybuma01,Matisse Thybulle,8,1,7,.125,8,1,7,.125,0,0,0,
+butlejo01,John Butler,7,2,5,.286,7,2,5,.286,0,0,0,
+hugheel01,Elijah Hughes,6,3,3,.500,6,3,3,.500,0,0,0,
+willibr03,Brandon Williams,6,0,6,.000,6,0,6,.000,0,0,0,
+knoxke01,Kevin Knox*,5,1,4,.200,5,1,4,.200,0,0,0,
+baldwwa01,Wade Baldwin,5,3,2,.600,5,3,2,.600,0,0,0,
+arcidry01,Ryan Arcidiacono,4,1,3,.250,4,1,3,.250,0,0,0,
+adamsja01,Jaylen Adams,3,0,3,.000,0,0,0,,3,0,3,.000
+mcgrica01,Cameron McGriff,2,0,2,.000,2,0,2,.000,0,0,0,
+cumbeja01,Jarron Cumberland,2,0,2,.000,2,0,2,.000,0,0,0,
+perryre01,Reggie Perry,1,0,1,.000,1,0,1,.000,0,0,0,

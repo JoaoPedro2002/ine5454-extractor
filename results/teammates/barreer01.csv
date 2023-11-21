@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+sharmbi01,Bill Sharman,140,74,66,.529,131,71,60,.542,9,3,6,.333
+cousybo01,Bob Cousy,140,74,66,.529,131,71,60,.542,9,3,6,.333
+macaued01,Ed Macauley*,137,72,65,.526,129,69,60,.535,8,3,5,.375
+nichoja01,Jack Nichols*,116,64,52,.552,107,61,46,.570,9,3,6,.333
+hemridi01,Dick Hemric,74,39,35,.527,71,38,33,.535,3,1,2,.333
+loscuji01,Jim Loscutoff*,74,39,35,.527,71,38,33,.535,3,1,2,.333
+morrire01,Red Morrison,74,39,35,.527,71,38,33,.535,3,1,2,.333
+risenar01,Arnie Risen,71,37,34,.521,68,36,32,.529,3,1,2,.333
+brannbo01,Bob Brannum,65,34,31,.523,59,32,27,.542,6,2,4,.333
+palazto01,Togo Palazzi,65,34,31,.523,63,33,30,.524,2,1,1,.500
+harribo01,Bob Harris,64,33,31,.516,58,31,27,.534,6,2,4,.333
+coopech01,Chuck Cooper,64,33,31,.516,58,31,27,.534,6,2,4,.333
+donhabo01,Bob Donham,61,31,30,.508,55,29,26,.527,6,2,4,.333
+barksdo01,Don Barksdale,56,31,25,.554,50,29,21,.580,6,2,4,.333
+mikaned01,Ed Mikan*,9,3,6,.333,9,3,6,.333,0,0,0,

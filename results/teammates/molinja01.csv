@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hutchme01,Mel Hutchins*,32,15,17,.469,32,15,17,.469,0,0,0,
+phillan01,Andy Phillip*,32,15,17,.469,32,15,17,.469,0,0,0,
+scolafr01,Fred Scolari*,32,15,17,.469,32,15,17,.469,0,0,0,
+foustla01,Larry Foust*,32,15,17,.469,32,15,17,.469,0,0,0,
+meinemo01,Monk Meineke,32,15,17,.469,32,15,17,.469,0,0,0,
+brianfr01,Frankie Brian,24,11,13,.458,24,11,13,.458,0,0,0,
+yardlge01,George Yardley*,23,12,11,.522,23,12,11,.522,0,0,0,
+murrake01,Ken Murray*,20,8,12,.400,20,8,12,.400,0,0,0,
+schaufr01,Fred Schaus*,20,8,12,.400,20,8,12,.400,0,0,0,
+sharech01,Chuck Share*,18,11,7,.611,18,11,7,.611,0,0,0,
+zasloma01,Max Zaslofsky*,10,4,6,.400,10,4,6,.400,0,0,0,
+sinicze01,Zeke Sinicola,9,4,5,.444,9,4,5,.444,0,0,0,

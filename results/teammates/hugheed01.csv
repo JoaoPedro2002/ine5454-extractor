@@ -1,0 +1,30 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+englial01,Alex English,85,43,42,.506,85,43,42,.506,0,0,0,
+rasmubl01,Blair Rasmussen,85,42,43,.494,85,42,43,.494,0,0,0,
+adamsmi01,Michael Adams,80,41,39,.512,80,41,39,.512,0,0,0,
+leverfa01,Fat Lever,80,41,39,.512,80,41,39,.512,0,0,0,
+daviswa03,Walter Davis,78,40,38,.513,78,40,38,.513,0,0,0,
+laneje01,Jerome Lane,74,37,37,.500,74,37,37,.500,0,0,0,
+hanzlbi01,Bill Hanzlik,61,32,29,.525,61,32,29,.525,0,0,0,
+schayda01,Danny Schayes,59,28,31,.475,59,28,31,.475,0,0,0,
+lichtto01,Todd Lichti,57,31,26,.544,57,31,26,.544,0,0,0,
+kemptti01,Tim Kempton,54,29,25,.537,54,29,25,.537,0,0,0,
+dunntr01,T.R. Dunn,49,27,22,.551,49,27,22,.551,0,0,0,
+turneel01,Elston Turner,26,11,15,.423,26,11,15,.423,0,0,0,
+coopewa01,Wayne Cooper,25,11,14,.440,25,11,14,.440,0,0,0,
+hansebo01,Bob Hansen,18,9,9,.500,11,5,6,.455,7,4,3,.571
+malonka01,Karl Malone,18,9,9,.500,11,5,6,.455,7,4,3,.571
+baileth01,Thurl Bailey,18,9,9,.500,11,5,6,.455,7,4,3,.571
+stockjo01,John Stockton,18,9,9,.500,11,5,6,.455,7,4,3,.571
+eatonma01,Mark Eaton,18,9,9,.500,11,5,6,.455,7,4,3,.571
+iavarma01,Marc Iavaroni,18,9,9,.500,11,5,6,.455,7,4,3,.571
+turpime01,Melvin Turpin,16,7,9,.438,11,5,6,.455,5,2,3,.400
+kofoeba01,Bart Kofoed,16,9,7,.562,9,5,4,.556,7,4,3,.571
+rothsc01,Scott Roth,15,7,8,.467,10,5,5,.500,5,2,3,.400
+greenri01,Rickey Green,15,7,8,.467,10,5,5,.500,5,2,3,.400
+carrojo01,Joe Barry Carroll,13,7,6,.538,13,7,6,.538,0,0,0,
+englewa01,Wayne Engelstad,11,8,3,.727,11,8,3,.727,0,0,0,
+tripuke01,Kelly Tripucka,10,3,7,.300,8,3,5,.375,2,0,2,.000
+nattca01,Calvin Natt,9,4,5,.444,9,4,5,.444,0,0,0,
+higgimi01,Mike Higgins,5,2,3,.400,5,2,3,.400,0,0,0,
+vinceja01,Jay Vincent,1,0,1,.000,1,0,1,.000,0,0,0,

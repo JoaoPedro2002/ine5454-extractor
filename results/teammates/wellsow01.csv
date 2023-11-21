@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+newlimi01,Mike Newlin,37,25,12,.676,33,22,11,.667,4,3,1,.750
+kunneke01,Kevin Kunnert,37,25,12,.676,33,22,11,.667,4,3,1,.750
+tomjaru01,Rudy Tomjanovich,37,25,12,.676,33,22,11,.667,4,3,1,.750
+ratleed01,Ed Ratleff,36,24,12,.667,32,21,11,.656,4,3,1,.750
+murphca01,Calvin Murphy,35,23,12,.657,31,20,11,.645,4,3,1,.750
+rileyro01,Ron Riley,35,25,10,.714,31,22,9,.710,4,3,1,.750
+abdulza01,Zaid Abdul-Aziz,31,20,11,.645,28,18,10,.643,3,2,1,.667
+wohlda01,Dave Wohl,31,21,10,.677,28,18,10,.643,3,3,0,1.000
+bailegu01,Gus Bailey,29,23,6,.793,25,20,5,.800,4,3,1,.750
+hawesst01,Steve Hawes,29,20,9,.690,25,17,8,.680,4,3,1,.750
+meelycl01,Cliff Meely,24,16,8,.667,24,16,8,.667,0,0,0,

@@ -1,0 +1,28 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+millela01,Larry Miller,74,25,49,.338,70,25,45,.357,4,0,4,.000
+willich02,Chuck Williams,74,24,50,.324,70,24,46,.343,4,0,4,.000
+moorege01,Gene Moore*,74,25,49,.338,70,25,45,.357,4,0,4,.000
+johnsst01,Stew Johnson*,71,24,47,.338,67,24,43,.358,4,0,4,.000
+kuberst01,Steve Kuberski,67,46,21,.687,63,44,19,.698,4,2,2,.500
+nelsodo01,Don Nelson,67,46,21,.687,63,44,19,.698,4,2,2,.500
+havlijo01,John Havlicek,66,46,20,.697,62,44,18,.710,4,2,2,.500
+chanedo01,Don Chaney,66,45,21,.682,62,43,19,.694,4,2,2,.500
+finkeha01,Hank Finkel*,65,46,19,.708,62,44,18,.710,3,2,1,.667
+cowenda01,Dave Cowens,63,43,20,.683,59,41,18,.695,4,2,2,.500
+hillsi01,Simmie Hill,62,21,41,.339,58,21,37,.362,4,0,4,.000
+whitejo01,Jo Jo White*,61,43,18,.705,57,41,16,.719,4,2,2,.500
+taylool01,Ollie Taylor,60,20,40,.333,56,20,36,.357,4,0,4,.000
+williar01,Art Williams*,58,41,17,.707,54,39,15,.722,4,2,2,.500
+adamsge01,George Adams,56,21,35,.375,53,21,32,.396,3,0,3,.000
+robbire01,Red Robbins*,52,12,40,.231,48,12,36,.250,4,0,4,.000
+morgare01,Rex Morgan,47,33,14,.702,44,32,12,.727,3,1,2,.333
+sandeto01,Tom Sanders*,41,32,9,.780,37,30,7,.811,4,2,2,.500
+baconhe01,Henry Bacon,39,15,24,.385,37,15,22,.405,2,0,2,.000
+chambje01,Jerry Chambers,38,12,26,.316,38,12,26,.316,0,0,0,
+dinwibi01,Bill Dinwiddie,30,20,10,.667,30,20,10,.667,0,0,0,
+glovecl01,Clarence Glover,21,16,5,.762,18,15,3,.833,3,1,2,.333
+barremi01,Mike Barrett,18,3,15,.167,18,3,15,.167,0,0,0,
+williwi01,Willie Williams,15,9,6,.600,15,9,6,.600,0,0,0,
+raymocr01,Craig Raymond,4,1,3,.250,4,1,3,.250,0,0,0,
+smithpe01,Pete Smith,3,1,2,.333,3,1,2,.333,0,0,0,
+johnsri01,Rich Johnson*,1,0,1,.000,1,0,1,.000,0,0,0,

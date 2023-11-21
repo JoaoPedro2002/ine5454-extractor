@@ -1,0 +1,31 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+iwundwe01,Wes Iwundu,31,13,18,.419,28,13,15,.464,3,0,3,.000
+rosste01,Terrence Ross,30,13,17,.433,27,13,14,.481,3,0,3,.000
+birchkh01,Khem Birch,30,14,16,.467,27,14,13,.519,3,0,3,.000
+vucevni01,Nikola Vučević*,29,12,17,.414,26,12,14,.462,3,0,3,.000
+augusdj01,D.J. Augustin,29,14,15,.483,26,14,12,.538,3,0,3,.000
+fournev01,Evan Fournier*,28,13,15,.464,25,13,12,.520,3,0,3,.000
+gordoaa01,Aaron Gordon,25,11,14,.440,22,11,11,.500,3,0,3,.000
+isaacjo01,Jonathan Isaac,22,11,11,.500,19,11,8,.579,3,0,3,.000
+fultzma01,Markelle Fultz,19,6,13,.316,19,6,13,.316,0,0,0,
+jeffeam01,Amile Jefferson,18,10,8,.556,18,10,8,.556,0,0,0,
+bambamo01,Mo Bamba,16,6,10,.375,16,6,10,.375,0,0,0,
+martija01,Jarell Martin,13,8,5,.615,10,8,2,.800,3,0,3,.000
+grantje02,Jerian Grant,13,8,5,.615,10,8,2,.800,3,0,3,.000
+cartemi01,Michael Carter-Williams,12,3,9,.250,9,3,6,.333,3,0,3,.000
+magetjo01,Josh Magette,7,3,4,.429,7,3,4,.429,0,0,0,
+briscis01,Isaiah Briscoe,7,5,2,.714,7,5,2,.714,0,0,0,
+lawvi01,Vic Law,7,1,6,.143,7,1,6,.143,0,0,0,
+clarkga01,Gary Clark,6,2,4,.333,6,2,4,.333,0,0,0,
+johnsbj01,B.J. Johnson,6,3,3,.500,6,3,3,.500,0,0,0,
+ennisja01,James Ennis III,5,2,3,.400,5,2,3,.400,0,0,0,
+robyis01,Isaiah Roby,3,0,3,.000,3,0,3,.000,0,0,0,
+simpsza01,Zavier Simpson,3,0,3,.000,3,0,3,.000,0,0,0,
+hoardja01,Jaylen Hoard,3,0,3,.000,3,0,3,.000,0,0,0,
+krejcvi01,Vit Krejci,3,0,3,.000,3,0,3,.000,0,0,0,
+kalaige01,Georgios Kalaitzakis,3,0,3,.000,3,0,3,.000,0,0,0,
+simmojo02,Jonathon Simmons,2,1,1,.500,2,1,1,.500,0,0,0,
+aminual01,Al-Farouq Aminu,2,0,2,.000,2,0,2,.000,0,0,0,
+robinje02,Jeremiah Robinson-Earl*,1,0,1,.000,1,0,1,.000,0,0,0,
+caupatr01,Troy Caupain,1,1,0,1.000,1,1,0,1.000,0,0,0,
+waterli01,Lindy Waters III*,1,0,1,.000,1,0,1,.000,0,0,0,

@@ -1,0 +1,15 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+kimbato01,Toby Kimball,30,28,2,.933,28,27,1,.964,2,1,1,.500
+abdulka01,Kareem Abdul-Jabbar,30,28,2,.933,28,27,1,.964,2,1,1,.500
+dandrbo01,Bob Dandridge,29,27,2,.931,27,26,1,.963,2,1,1,.500
+blockjo01,John Block,29,27,2,.931,27,26,1,.963,2,1,1,.500
+allenlu01,Lucius Allen,29,27,2,.931,27,26,1,.963,2,1,1,.500
+mcglojo01,Jon McGlocklin,26,25,1,.962,26,25,1,.962,0,0,0,
+roberos01,Oscar Robertson,25,24,1,.960,23,23,0,1.000,2,1,1,.500
+perrycu01,Curtis Perry,19,17,2,.895,17,16,1,.941,2,1,1,.500
+lowerch01,Charlie Lowery,16,14,2,.875,14,13,1,.929,2,1,1,.500
+joneswa02,Wali Jones,15,13,2,.867,13,12,1,.923,2,1,1,.500
+dinwibi01,Bill Dinwiddie,10,10,0,1.000,10,10,0,1.000,0,0,0,
+smithgr01,Greg Smith,10,10,0,1.000,10,10,0,1.000,0,0,0,
+webbje01,Jeff Webb,9,9,0,1.000,9,9,0,1.000,0,0,0,
+mclemmc01,McCoy McLemore,4,4,0,1.000,4,4,0,1.000,0,0,0,

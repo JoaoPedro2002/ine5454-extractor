@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+humphja01,Jay Humphries,91,51,40,.560,89,51,38,.573,2,0,2,.000
+roberfr01,Fred Roberts,91,51,40,.560,89,51,38,.573,2,0,2,.000
+roberal01,Alvin Robertson,89,50,39,.562,87,50,37,.575,2,0,2,.000
+grayeje01,Jeff Grayer,83,47,36,.566,81,47,34,.580,2,0,2,.000
+sikmaja01,Jack Sikma,78,46,32,.590,76,46,30,.605,2,0,2,.000
+lohaubr01,Brad Lohaus,72,40,32,.556,70,40,30,.571,2,0,2,.000
+piercri01,Ricky Pierce,63,31,32,.492,61,31,30,.508,2,0,2,.000
+andergr01,Greg Anderson,60,34,26,.567,58,34,24,.586,2,0,2,.000
+brownto01,Tony Brown,48,24,24,.500,46,24,22,.522,2,0,2,.000
+presspa01,Paul Pressey,44,25,19,.568,42,25,17,.595,2,0,2,.000
+horfoti01,Tito Horford,33,14,19,.424,31,14,17,.452,2,0,2,.000
+schayda01,Danny Schayes,32,19,13,.594,32,19,13,.594,0,0,0,
+hensost01,Steve Henson,29,18,11,.621,29,18,11,.621,0,0,0,
+brickfr01,Frank Brickowski,28,18,10,.643,28,18,10,.643,0,0,0,
+breuera01,Randy Breuer,19,11,8,.579,19,11,8,.579,0,0,0,
+connele01,Lester Conner,15,9,6,.600,15,9,6,.600,0,0,0,
+krystla01,Larry Krystkowiak,12,7,5,.583,12,7,5,.583,0,0,0,
+colembe01,Ben Coleman,9,4,5,.444,9,4,5,.444,0,0,0,
+dunlemi01,Mike Dunleavy,5,2,3,.400,5,2,3,.400,0,0,0,
+ellisda01,Dale Ellis,5,3,2,.600,5,3,2,.600,0,0,0,
+hendege01,Gerald Henderson,4,2,2,.500,4,2,2,.500,0,0,0,
+dantlad01,Adrian Dantley,3,3,0,1.000,3,3,0,1.000,0,0,0,
+stephev01,Everette Stephens,2,1,1,.500,2,1,1,.500,0,0,0,

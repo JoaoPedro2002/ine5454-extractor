@@ -1,0 +1,22 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+burleto01,Tom Burleson,160,82,78,.512,145,76,69,.524,15,6,9,.400
+wattssl01,Slick Watts,160,82,78,.512,145,76,69,.524,15,6,9,.400
+brownfr01,Fred Brown,154,80,74,.519,140,74,66,.529,14,6,8,.429
+grayle01,Leonard Gray,133,68,65,.511,124,64,60,.516,9,4,5,.444
+derliro01,Rod Derline,106,47,59,.443,96,46,50,.479,10,1,9,.100
+clarkar01,Archie Clark*,77,40,37,.519,68,36,32,.529,9,4,5,.444
+sealsbr01,Bruce Seals,77,38,39,.494,71,36,35,.507,6,2,4,.333
+gillihe01,Herm Gilliam*,77,38,39,.494,71,36,35,.507,6,2,4,.333
+foxji01,Jim Fox*,76,39,37,.513,68,35,33,.515,8,4,4,.500
+hummejo01,John Hummer,74,35,39,.473,65,33,32,.508,9,2,7,.222
+haywosp01,Spencer Haywood,68,34,34,.500,59,30,29,.508,9,4,5,.444
+bantomi01,Mike Bantom*,62,31,31,.500,56,29,27,.518,6,2,4,.333
+norwowi01,Willie Norwood*,60,30,30,.500,54,28,26,.519,6,2,4,.333
+jackswa01,Wardell Jackson,48,24,24,.500,48,24,24,.500,0,0,0,
+oleynfr01,Frank Oleynick,48,23,25,.479,48,23,25,.479,0,0,0,
+carlsal01,Al Carlson,28,15,13,.536,28,15,13,.536,0,0,0,
+abdulza01,Zaid Abdul-Aziz,27,14,13,.519,22,12,10,.545,5,2,3,.400
+tolsode01,Dean Tolson,22,8,14,.364,18,8,10,.444,4,0,4,.000
+briskjo01,John Brisker*,16,7,9,.438,16,7,9,.438,0,0,0,
+shortge01,Gene Short,7,1,6,.143,7,1,6,.143,0,0,0,
+mcintke01,Kenny McIntosh,3,1,2,.333,3,1,2,.333,0,0,0,

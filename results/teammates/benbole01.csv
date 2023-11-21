@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+boerwto01,Tom Boerwinkle*,107,41,66,.383,105,40,65,.381,2,1,1,.500
+johnsmi01,Mickey Johnson,105,37,68,.352,103,36,67,.350,2,1,1,.500
+vanlino01,Norm Van Lier,103,40,63,.388,101,39,62,.386,2,1,1,.500
+lovebo01,Bob Love,100,35,65,.350,98,34,64,.347,2,1,1,.500
+wilsobo03,Bobby Wilson,87,30,57,.345,85,29,56,.341,2,1,1,.500
+pondecl01,Cliff Pondexter,69,19,50,.275,69,19,50,.275,0,0,0,
+laskojo01,John Laskowski,68,19,49,.279,68,19,49,.279,0,0,0,
+marinja01,Jack Marin,63,18,45,.286,63,18,45,.286,0,0,0,
+sloanje01,Jerry Sloan*,58,27,31,.466,56,26,30,.464,2,1,1,.500
+guokama02,Matt Guokas,56,25,31,.446,54,24,30,.444,2,1,1,.500
+thurmna01,Nate Thurmond,51,23,28,.451,49,22,27,.449,2,1,1,.500
+pattest01,Steve Patterson,50,16,34,.320,50,16,34,.320,0,0,0,
+garrero01,Rowland Garrett,49,22,27,.449,47,21,26,.447,2,1,1,.500
+walkech01,Chet Walker,38,22,16,.579,36,21,15,.583,2,1,1,.500
+fernser01,Eric Fernsten,31,7,24,.226,31,7,24,.226,0,0,0,
+blockjo01,John Block,28,14,14,.500,27,14,13,.519,1,0,1,.000
+hewitbi01,Bill Hewitt,10,4,6,.400,10,4,6,.400,0,0,0,
+adelmri01,Rick Adelman*,8,3,5,.375,8,3,5,.375,0,0,0,

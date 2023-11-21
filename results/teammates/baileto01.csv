@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+robincl02,Clifford Robinson,78,47,31,.603,73,45,28,.616,5,2,3,.400
+longllu01,Luc Longley,66,38,28,.576,61,36,25,.590,5,2,3,.400
+kiddja01,Jason Kidd,66,41,25,.621,62,39,23,.629,4,2,2,.500
+livinra01,Randy Livingston,52,32,20,.615,47,30,17,.638,5,2,3,.400
+rogerro01,Rodney Rogers,51,31,20,.608,46,29,17,.630,5,2,3,.400
+guglito01,Tom Gugliotta,48,30,18,.625,48,30,18,.625,0,0,0,
+chapmre01,Rex Chapman,43,25,18,.581,43,25,18,.581,0,0,0,
+dayto01,Todd Day,40,21,19,.525,35,19,16,.543,5,2,3,.400
+blounco01,Corie Blount,34,24,10,.706,29,22,7,.759,5,2,3,.400
+hardaan01,Anfernee Hardaway,33,22,11,.667,28,20,8,.714,5,2,3,.400
+milleol01,Oliver Miller,30,15,15,.500,26,14,12,.538,4,1,3,.250
+mariosh01,Shawn Marion,28,19,9,.679,23,17,6,.739,5,2,3,.400
+mannida01,Danny Manning,27,16,11,.593,27,16,11,.593,0,0,0,
+mccloge01,George McCloud,26,15,11,.577,26,15,11,.577,0,0,0,
+morrich01,Chris Morris,23,13,10,.565,23,13,10,.565,0,0,0,
+garripa01,Pat Garrity,22,13,9,.591,22,13,9,.591,0,0,0,
+brownge02,Gerald Brown,22,12,10,.545,22,12,10,.545,0,0,0,
+kleinjo01,Joe Kleine,17,8,9,.471,17,8,9,.471,0,0,0,
+westma01,Mark West,17,11,6,.647,17,11,6,.647,0,0,0,
+macledo01,Don MacLean,11,8,3,.727,11,8,3,.727,0,0,0,
+johnske02,Kevin Johnson,8,3,5,.375,3,1,2,.333,5,2,3,.400
+davisbe01,Ben Davis,4,1,3,.250,4,1,3,.250,0,0,0,
+respesh01,Shawn Respert,4,2,2,.500,4,2,2,.500,0,0,0,
+simsal01,Alvin Sims,3,2,1,.667,3,2,1,.667,0,0,0,
+milicma01,Marko Milič,3,1,2,.333,3,1,2,.333,0,0,0,
+oliveji01,Jimmy Oliver,1,0,1,.000,1,0,1,.000,0,0,0,

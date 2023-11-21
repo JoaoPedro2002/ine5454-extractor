@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+weissbo01,Bob Weiss,76,50,26,.658,74,50,24,.676,2,0,2,.000
+boerwto01,Tom Boerwinkle*,76,50,26,.658,74,50,24,.676,2,0,2,.000
+lovebo01,Bob Love,75,49,26,.653,73,49,24,.671,2,0,2,.000
+sloanje01,Jerry Sloan*,74,49,25,.662,72,49,23,.681,2,0,2,.000
+walkech01,Chet Walker,74,48,26,.649,72,48,24,.667,2,0,2,.000
+foxji01,Jim Fox*,64,40,24,.625,62,40,22,.645,2,0,2,.000
+kingji01,Jim King,58,36,22,.621,56,36,20,.643,2,0,2,.000
+guokama02,Matt Guokas,54,34,20,.630,52,34,18,.654,2,0,2,.000
+baumjo01,Johnny Baum,46,30,16,.652,45,30,15,.667,1,0,1,.000
+raycl01,Clifford Ray,19,14,5,.737,19,14,5,.737,0,0,0,
+porteho01,Howard Porter,15,11,4,.733,15,11,4,.733,0,0,0,
+ruffnpa01,Paul Ruffner*,11,8,3,.727,10,8,2,.800,1,0,1,.000
+vanlino01,Norm Van Lier,10,9,1,.900,10,9,1,.900,0,0,0,
+mcintke01,Kenny McIntosh,9,7,2,.778,9,7,2,.778,0,0,0,
+holtaw01,A.W. Holt,6,5,1,.833,6,5,1,.833,0,0,0,
+paulkch01,Charlie Paulk*,6,4,2,.667,6,4,2,.667,0,0,0,
+dinkija01,Jackie Dinkins,2,2,0,1.000,2,2,0,1.000,0,0,0,
+halimsh01,Shaler Halimon*,1,1,0,1.000,1,1,0,1.000,0,0,0,

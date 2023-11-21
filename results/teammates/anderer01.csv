@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+ewingpa01,Patrick Ewing,29,24,5,.828,27,24,3,.889,2,0,2,.000
+oaklech01,Charles Oakley,29,24,5,.828,27,24,3,.889,2,0,2,.000
+willihe01,Herb Williams,26,22,4,.846,24,22,2,.917,2,0,2,.000
+anthogr01,Greg Anthony,25,21,4,.840,23,21,2,.913,2,0,2,.000
+masonan01,Anthony Mason,24,19,5,.792,22,19,3,.864,2,0,2,.000
+davishu01,Hubert Davis,24,19,5,.792,22,19,3,.864,2,0,2,.000
+smithch01,Charles Smith,22,17,5,.773,20,17,3,.850,2,0,2,.000
+blackro01,Rolando Blackman,22,19,3,.864,20,19,1,.950,2,0,2,.000
+starkjo01,John Starks,22,17,5,.773,20,17,3,.850,2,0,2,.000
+riverdo01,Doc Rivers,19,14,5,.737,17,14,3,.824,2,0,2,.000
+campbto01,Tony Campbell,18,13,5,.722,16,13,3,.812,2,0,2,.000
+bonnean01,Anthony Bonner,11,11,0,1.000,11,11,0,1.000,0,0,0,
+harpede01,Derek Harper,10,10,0,1.000,10,10,0,1.000,0,0,0,
+gaineco01,Corey Gaines,9,9,0,1.000,9,9,0,1.000,0,0,0,
+kimblbo01,Bo Kimble,6,4,2,.667,6,4,2,.667,0,0,0,
+paddige01,Gerald Paddio,2,2,0,1.000,2,2,0,1.000,0,0,0,

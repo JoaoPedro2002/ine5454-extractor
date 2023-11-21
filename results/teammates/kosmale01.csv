@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+architi01,Tiny Archibald,82,42,40,.512,76,40,36,.526,6,2,4,.333
+wedmasc01,Scott Wedman,81,42,39,.519,75,40,35,.533,6,2,4,.333
+walkeji01,Jimmy Walker,81,41,40,.506,75,39,36,.520,6,2,4,.333
+mcneila01,Larry McNeill,80,42,38,.525,74,40,34,.541,6,2,4,.333
+laceysa01,Sam Lacey*,80,41,39,.512,74,39,35,.527,6,2,4,.333
+behagro01,Ron Behagen,72,39,33,.542,66,37,29,.561,6,2,4,.333
+dantomi01,Mike D'Antoni,69,33,36,.478,65,32,33,.492,4,1,3,.250
+willina01,Nate Williams,42,21,21,.500,42,21,21,.500,0,0,0,
+johnsol01,Ollie Johnson*,39,19,20,.487,33,17,16,.515,6,2,4,.333
+maydo01,Don May,23,12,11,.522,23,12,11,.522,0,0,0,
+kojisdo01,Don Kojis*,21,9,12,.429,17,8,9,.471,4,1,3,.250
+durreke01,Ken Durrett,20,8,12,.400,20,8,12,.400,0,0,0,
+adelmri01,Rick Adelman*,18,10,8,.556,12,8,4,.667,6,2,4,.333
+robinbi01,Bill Robinzine,9,3,6,.333,9,3,6,.333,0,0,0,
+bigelbo01,Bob Bigelow,6,1,5,.167,6,1,5,.167,0,0,0,
+hansegl01,Glenn Hansen,2,0,2,.000,2,0,2,.000,0,0,0,
+winfile01,Lee Winfield*,2,1,1,.500,2,1,1,.500,0,0,0,
+roberri01,Rick Roberson,1,0,1,.000,1,0,1,.000,0,0,0,

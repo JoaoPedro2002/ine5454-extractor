@@ -1,0 +1,32 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+aytonde01,Deandre Ayton,92,56,36,.609,80,53,27,.662,12,3,9,.250
+bridgmi01,Mikal Bridges,90,58,32,.644,83,56,27,.675,7,2,5,.286
+craigto01,Torrey Craig,85,48,37,.565,74,45,29,.608,11,3,8,.273
+paulch01,Chris Paul,84,51,33,.607,73,48,25,.658,11,3,8,.273
+biyombi01,Bismack Biyombo*,83,50,33,.602,72,47,25,.653,11,3,8,.273
+bookede01,Devin Booker,78,55,23,.705,66,52,14,.788,12,3,9,.250
+shamela01,Landry Shamet,75,44,31,.587,63,41,22,.651,12,3,9,.250
+payneca01,Cameron Payne,71,44,27,.620,60,42,18,.700,11,2,9,.182
+leeda03,Damion Lee,61,31,30,.508,56,30,26,.536,5,1,4,.200
+okogijo01,Josh Okogie*,56,28,28,.500,51,27,24,.529,5,1,4,.200
+landajo01,Jock Landale,56,27,29,.482,51,27,24,.529,5,0,5,.000
+johnsca02,Cameron Johnson,50,34,16,.680,43,32,11,.744,7,2,5,.286
+mcgeeja01,JaVale McGee,45,33,12,.733,39,31,8,.795,6,2,4,.333
+paytoel01,Elfrid Payton,39,29,10,.744,37,29,8,.784,2,0,2,.000
+crowdja01,Jae Crowder,39,29,10,.744,32,27,5,.844,7,2,5,.286
+saricda01,Dario Šarić*,26,12,14,.462,26,12,14,.462,0,0,0,
+washidu02,Duane Washington Jr.,23,12,11,.522,23,12,11,.522,0,0,0,
+smithja04,Jalen Smith,22,18,4,.818,22,18,4,.818,0,0,0,
+leesa01,Saben Lee,22,13,9,.591,22,13,9,.591,0,0,0,
+rosste01,Terrence Ross,21,9,12,.429,17,9,8,.529,4,0,4,.000
+holidaa01,Aaron Holiday*,21,14,7,.667,16,13,3,.812,5,1,4,.200
+warretj01,T.J. Warren,15,9,6,.600,12,8,4,.667,3,1,2,.333
+duranke01,Kevin Durant*,12,7,5,.583,6,6,0,1.000,6,1,5,.167
+bazleda01,Darius Bazley,6,3,3,.500,6,3,3,.500,0,0,0,
+jacksju01,Justin Jackson,6,5,1,.833,6,5,1,.833,0,0,0,
+hutchch01,Chandler Hutchison*,4,3,1,.750,4,3,1,.750,0,0,0,
+lundbga01,Gabriel Lundberg,4,1,3,.250,4,1,3,.250,0,0,0,
+walkemj01,M.J. Walker,2,1,1,.500,2,1,1,.500,0,0,0,
+terryem01,Emanuel Terry,2,1,1,.500,2,1,1,.500,0,0,0,
+basspa01,Paris Bass,2,2,0,1.000,2,2,0,1.000,0,0,0,
+naderab01,Abdel Nader,1,1,0,1.000,1,1,0,1.000,0,0,0,

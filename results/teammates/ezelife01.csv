@@ -1,0 +1,28 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+thompkl01,Klay Thompson,218,155,63,.711,163,120,43,.736,55,35,20,.636
+greendr01,Draymond Green*,217,155,62,.714,163,120,43,.736,54,35,19,.648
+curryst01,Stephen Curry*,216,156,60,.722,166,124,42,.747,50,32,18,.640
+barneha02,Harrison Barnes,211,147,64,.697,156,112,44,.718,55,35,20,.636
+bogutan01,Andrew Bogut,155,117,38,.755,104,84,20,.808,51,33,18,.647
+livinsh01,Shaun Livingston,131,107,24,.817,88,78,10,.886,43,29,14,.674
+iguodan01,Andre Iguodala,131,107,24,.817,88,78,10,.886,43,29,14,.674
+barbole01,Leandro Barbosa,117,94,23,.803,75,66,9,.880,42,28,14,.667
+leeda02,David Lee,113,70,43,.619,95,59,36,.621,18,11,7,.611
+speigma01,Marreese Speights,111,90,21,.811,79,70,9,.886,32,20,12,.625
+landrca01,Carl Landry,89,49,40,.551,77,43,34,.558,12,6,6,.500
+jackja01,Jarrett Jack,87,50,37,.575,75,44,31,.587,12,6,6,.500
+rushbr01,Brandon Rush,78,63,15,.808,62,53,9,.855,16,10,6,.625
+bazemke01,Kent Bazemore*,67,35,32,.522,58,31,27,.534,9,4,5,.444
+jefferi01,Richard Jefferson,59,31,28,.525,52,27,25,.519,7,4,3,.571
+biedran01,Andris Biedriņš,53,26,27,.491,50,25,25,.500,3,1,2,.333
+clarkia01,Ian Clark,53,45,8,.849,38,36,2,.947,15,9,6,.600
+mcadoja01,James Michael McAdoo,46,39,7,.848,35,32,3,.914,11,7,4,.636
+jenkich01,Charles Jenkins,45,24,21,.533,45,24,21,.533,0,0,0,
+holidju01,Justin Holiday*,40,36,4,.900,36,32,4,.889,4,4,0,1.000
+varejan01,Anderson Varejão,19,13,6,.684,3,3,0,1.000,16,10,6,.625
+tylerje01,Jeremy Tyler,19,9,10,.474,19,9,10,.474,0,0,0,
+thompja02,Jason Thompson,19,17,2,.895,19,17,2,.895,0,0,0,
+kuzmiog01,Ognjen Kuzmić,10,8,2,.800,10,8,2,.800,0,0,0,
+machasc01,Scott Machado,5,1,4,.200,0,0,0,,5,1,4,.200
+thomama01,Malcolm Thomas,5,3,2,.600,5,3,2,.600,0,0,0,
+jonesdw02,Dwayne Jones,2,1,1,.500,0,0,0,,2,1,1,.500

@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+donalja01,James Donaldson,21,12,9,.571,20,12,8,.600,1,0,1,.000
+blackro01,Rolando Blackman,21,12,9,.571,20,12,8,.600,1,0,1,.000
+davisbr01,Brad Davis,21,12,9,.571,20,12,8,.600,1,0,1,.000
+vinceja01,Jay Vincent,20,12,8,.600,19,12,7,.632,1,0,1,.000
+ellisda01,Dale Ellis,20,12,8,.600,20,12,8,.600,0,0,0,
+wennibi01,Bill Wennington,20,11,9,.550,19,11,8,.579,1,0,1,.000
+perkisa01,Sam Perkins,19,12,7,.632,18,12,6,.667,1,0,1,.000
+harpede01,Derek Harper,19,11,8,.579,18,11,7,.611,1,0,1,.000
+aguirma01,Mark Aguirre,19,11,8,.579,18,11,7,.611,1,0,1,.000
+blabuw01,Uwe Blab,17,9,8,.529,17,9,8,.529,0,0,0,
+schrede01,Detlef Schrempf,16,7,9,.438,15,7,8,.467,1,0,1,.000

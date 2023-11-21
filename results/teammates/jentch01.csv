@@ -1,0 +1,25 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+thorpot01,Otis Thorpe,14,9,5,.643,3,1,2,.333,11,8,3,.727
+smithke01,Kenny Smith,14,9,5,.643,3,1,2,.333,11,8,3,.727
+horryro01,Robert Horry,14,9,5,.643,3,1,2,.333,11,8,3,.727
+cassesa01,Sam Cassell,14,9,5,.643,3,1,2,.333,11,8,3,.727
+olajuha01,Hakeem Olajuwon,13,9,4,.692,2,1,1,.500,11,8,3,.727
+maxweve01,Vernon Maxwell,12,9,3,.750,1,1,0,1.000,11,8,3,.727
+eliema01,Mario Elie,11,8,3,.727,0,0,0,,11,8,3,.727
+brooksc01,Scott Brooks,9,4,5,.444,6,3,3,.500,3,1,2,.333
+curetea01,Earl Cureton,8,4,4,.500,2,0,2,.000,6,4,2,.667
+herreca01,Carl Herrera,7,6,1,.857,0,0,0,,7,6,1,.857
+bullama01,Matt Bullard,5,3,2,.600,0,0,0,,5,3,2,.600
+wardch01,Charlie Ward,3,2,1,.667,3,2,1,.667,0,0,0,
+robinla01,Larry Robinson,3,1,2,.333,3,1,2,.333,0,0,0,
+wallajo01,John Wallace,3,2,1,.667,3,2,1,.667,0,0,0,
+houstal01,Allan Houston,3,2,1,.667,3,2,1,.667,0,0,0,
+ewingpa01,Patrick Ewing,3,2,1,.667,3,2,1,.667,0,0,0,
+willibu01,Buck Williams,3,2,1,.667,3,2,1,.667,0,0,0,
+johnsla02,Larry Johnson,3,2,1,.667,3,2,1,.667,0,0,0,
+rileyer01,Eric Riley,3,1,2,.333,3,1,2,.333,0,0,0,
+starkjo01,John Starks,3,2,1,.667,3,2,1,.667,0,0,0,
+mccarwa01,Walter McCarty,2,2,0,1.000,2,2,0,1.000,0,0,0,
+willihe01,Herb Williams,2,1,1,.500,2,1,1,.500,0,0,0,
+petruri01,Richard Petruška,2,1,1,.500,2,1,1,.500,0,0,0,
+oaklech01,Charles Oakley,2,1,1,.500,2,1,1,.500,0,0,0,

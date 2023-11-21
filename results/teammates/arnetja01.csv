@@ -1,0 +1,15 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+embrywa01,Wayne Embry,120,74,46,.617,111,71,40,.640,9,3,6,.333
+hawkito01,Tom Hawkins*,119,74,45,.622,110,71,39,.645,9,3,6,.333
+twymaja01,Jack Twyman,117,74,43,.632,108,71,37,.657,9,3,6,.333
+roberos01,Oscar Robertson,117,75,42,.641,108,72,36,.667,9,3,6,.333
+lucasje01,Jerry Lucas,112,71,41,.634,103,68,35,.660,9,3,6,.333
+smithad01,Adrian Smith,109,67,42,.615,103,66,37,.641,6,1,5,.167
+olsenbu01,Bud Olsen,101,66,35,.653,98,64,34,.653,3,2,1,.667
+thackto01,Tom Thacker*,85,49,36,.576,78,48,30,.615,7,1,6,.143
+bockhbu01,Bucky Bockhorn,56,34,22,.607,48,31,17,.646,8,3,5,.375
+hairsha01,Happy Hairston,51,28,23,.549,50,28,22,.560,1,0,1,.000
+wilsoge01,George Wilson*,35,22,13,.629,34,22,12,.647,1,0,1,.000
+stavela01,Larry Staverman,28,20,8,.714,23,18,5,.783,5,2,3,.400
+boozebo01,Bob Boozer*,19,13,6,.684,19,13,6,.684,0,0,0,
+mcglojo01,Jon McGlocklin,3,1,2,.333,3,1,2,.333,0,0,0,

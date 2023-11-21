@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+chambwi01,Wilt Chamberlain,60,36,24,.600,51,31,20,.608,9,5,4,.556
+meschto01,Tom Meschery,60,36,24,.600,51,31,20,.608,9,5,4,.556
+rodgegu01,Guy Rodgers,60,36,24,.600,51,31,20,.608,9,5,4,.556
+arizipa01,Paul Arizin,59,35,24,.593,50,30,20,.600,9,5,4,.556
+attleal01,Al Attles,55,34,21,.618,46,29,17,.630,9,5,4,.556
+conlied01,Ed Conlin*,51,29,22,.569,42,24,18,.571,9,5,4,.556
+luckete01,Ted Luckenbill*,46,27,19,.587,41,25,16,.610,5,2,3,.400
+golato01,Tom Gola,38,25,13,.658,32,21,11,.656,6,4,2,.667
+ruklijo01,Joe Ruklick*,30,19,11,.633,27,18,9,.667,3,1,2,.333
+radovfr01,Frank Radovich*,28,13,15,.464,25,12,13,.480,3,1,2,.333
+walkeho01,Horace Walker,8,1,7,.125,8,1,7,.125,0,0,0,
+bellawa01,Walt Bellamy,8,1,7,.125,8,1,7,.125,0,0,0,
+hattove01,Vern Hatton*,8,1,7,.125,8,1,7,.125,0,0,0,
+tyrach01,Charlie Tyra,8,1,7,.125,8,1,7,.125,0,0,0,
+leonasl01,Slick Leonard*,8,1,7,.125,8,1,7,.125,0,0,0,
+davisra01,Ralph Davis*,8,1,7,.125,8,1,7,.125,0,0,0,
+johnsan01,Andy Johnson,8,1,7,.125,8,1,7,.125,0,0,0,
+cableba01,Barney Cable*,8,1,7,.125,8,1,7,.125,0,0,0,
+deesar01,Archie Dees,6,0,6,.000,6,0,6,.000,0,0,0,
+turneja02,Jack Turner*,6,0,6,.000,6,0,6,.000,0,0,0,
+mcneibo01,Bob McNeill,3,2,1,.667,3,2,1,.667,0,0,0,
+bonsage01,George Bon Salle,2,0,2,.000,2,0,2,.000,0,0,0,
+carlho01,Howie Carl*,2,0,2,.000,2,0,2,.000,0,0,0,

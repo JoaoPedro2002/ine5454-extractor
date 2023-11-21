@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hawesst01,Steve Hawes,169,98,71,.580,156,92,64,.590,13,6,7,.462
+rollitr01,Tree Rollins,168,97,71,.577,155,91,64,.587,13,6,7,.462
+roundda01,Dan Roundfield,166,97,69,.584,153,91,62,.595,13,6,7,.462
+hillar01,Armond Hill,166,96,70,.578,153,90,63,.588,13,6,7,.462
+johnsed02,Eddie Johnson,164,97,67,.591,151,91,60,.603,13,6,7,.462
+drewjo01,John Drew,164,96,68,.585,151,90,61,.596,13,6,7,.462
+crissch01,Charlie Criss,140,82,58,.586,127,76,51,.598,13,6,7,.462
+mcmilto01,Tom McMillen,136,77,59,.566,127,72,55,.567,9,5,4,.556
+wilsori01,Rick Wilson,61,34,27,.557,60,33,27,.550,1,1,0,1.000
+furlote01,Terry Furlow,59,36,23,.610,50,31,19,.620,9,5,4,.556
+pellosa01,Sam Pellom,47,30,17,.638,44,29,15,.659,3,1,2,.333
+leebu01,Butch Lee,41,23,18,.561,41,23,18,.561,0,0,0,
+mcelrji01,Jim McElroy,35,23,12,.657,31,22,9,.710,4,1,3,.250
+brownjo01,John Brown,32,21,11,.656,28,20,8,.714,4,1,3,.250
+leero01,Ron Lee,30,16,14,.533,30,16,14,.533,0,0,0,
+herroke01,Keith Herron,9,5,4,.556,9,5,4,.556,0,0,0,

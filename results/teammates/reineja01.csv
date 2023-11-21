@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+bellch01,Charlie Bell,27,8,19,.296,27,8,19,.296,0,0,0,
+noelda01,David Noel,27,8,19,.296,27,8,19,.296,0,0,0,
+patteru01,Ruben Patterson,27,8,19,.296,27,8,19,.296,0,0,0,
+ilyaser01,Ersan İlyasova,25,8,17,.320,25,8,17,.320,0,0,0,
+willima01,Mo Williams,23,6,17,.261,23,6,17,.261,0,0,0,
+greerly01,Lynn Greer,23,8,15,.348,23,8,15,.348,0,0,0,
+hinriki01,Kirk Hinrich,22,10,12,.455,19,8,11,.421,3,2,1,.667
+gordobe01,Ben Gordon,22,10,12,.455,19,8,11,.421,3,2,1,.667
+duhonch01,Chris Duhon,22,10,12,.455,19,8,11,.421,3,2,1,.667
+nocioan01,Andrés Nocioni,21,10,11,.476,18,8,10,.444,3,2,1,.667
+chandty01,Tyson Chandler,20,9,11,.450,17,7,10,.412,3,2,1,.667
+harriot01,Othella Harrington,20,9,11,.450,17,7,10,.412,3,2,1,.667
+piatker01,Eric Piatkowski,20,10,10,.500,17,8,9,.471,3,2,1,.667
+griffad01,Adrian Griffin,20,8,12,.400,18,7,11,.389,2,1,1,.500
+boykiea01,Earl Boykins,18,3,15,.167,18,3,15,.167,0,0,0,
+reddmi01,Michael Redd,17,5,12,.294,17,5,12,.294,0,0,0,
+skinnbr01,Brian Skinner,17,5,12,.294,17,5,12,.294,0,0,0,
+davisan01,Antonio Davis,15,7,8,.467,12,5,7,.417,3,2,1,.667
+pargoja01,Jannero Pargo,13,5,8,.385,11,4,7,.364,2,1,1,.500
+bogutan01,Andrew Bogut,12,5,7,.417,12,5,7,.417,0,0,0,
+markoda01,Damir Markota,9,2,7,.222,9,2,7,.222,0,0,0,
+gadzuda01,Dan Gadzuric,9,3,6,.333,9,3,6,.333,0,0,0,
+denglu01,Luol Deng,8,3,5,.375,8,3,5,.375,0,0,0,
+villach01,Charlie Villanueva,8,4,4,.500,8,4,4,.500,0,0,0,
+curryed01,Eddy Curry,6,3,3,.500,6,3,3,.500,0,0,0,
+fundela01,Lawrence Funderburke,3,1,2,.333,1,0,1,.000,2,1,1,.500

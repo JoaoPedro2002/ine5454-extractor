@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+thoresk01,Skip Thoren,79,41,38,.519,67,36,31,.537,12,5,7,.417
+freemdo01,Donnie Freeman*,78,41,37,.526,66,36,30,.545,12,5,7,.417
+sidledo01,Don Sidle*,78,40,38,.513,66,35,31,.530,12,5,7,.417
+murrewi01,Willie Murrell,76,41,35,.539,64,36,28,.562,12,5,7,.417
+huntele01,Les Hunter,73,38,35,.521,63,34,29,.540,10,4,6,.400
+mcharma01,Maurice McHartley,58,33,25,.569,46,28,18,.609,12,5,7,.417
+thornda01,Dallas Thornton*,50,22,28,.440,43,21,22,.488,7,1,6,.143
+kellega01,Gary Keller*,50,22,28,.440,44,21,23,.477,6,1,5,.167
+anderan01,Andy Anderson*,40,22,18,.550,28,17,11,.607,12,5,7,.417
+inniger01,Ervin Inniger,32,18,14,.562,32,18,14,.562,0,0,0,
+iverswi01,Willie Iverson*,26,15,11,.577,26,15,11,.577,0,0,0,
+perryro01,Ron Perry*,20,7,13,.350,20,7,13,.350,0,0,0,
+bookebu01,Butch Booker,3,1,2,.333,3,1,2,.333,0,0,0,
+jonesni01,Nick Jones,3,1,2,.333,3,1,2,.333,0,0,0,
+cannola01,Larry Cannon*,3,1,2,.333,3,1,2,.333,0,0,0,
+cuetoal01,Al Cueto*,2,1,1,.500,2,1,1,.500,0,0,0,

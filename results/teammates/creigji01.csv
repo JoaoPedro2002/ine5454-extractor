@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hudsolo01,Lou Hudson*,32,13,19,.406,32,13,19,.406,0,0,0,
+drewjo01,John Drew,31,13,18,.419,31,13,18,.419,0,0,0,
+hendeto01,Tom Henderson,31,13,18,.419,31,13,18,.419,0,0,0,
+willobi01,Bill Willoughby*,30,12,18,.400,30,12,18,.400,0,0,0,
+brownjo01,John Brown,29,12,17,.414,29,12,17,.414,0,0,0,
+vanarto01,Tom Van Arsdale,29,12,17,.414,29,12,17,.414,0,0,0,
+hawkico01,Connie Hawkins,28,11,17,.393,28,11,17,.393,0,0,0,
+meminde01,Dean Meminger,24,11,13,.458,24,11,13,.458,0,0,0,
+sojoumi01,Mike Sojourner,22,12,10,.545,22,12,10,.545,0,0,0,
+hollawi01,Wilbur Holland,18,5,13,.278,18,5,13,.278,0,0,0,
+jonesdw01,Dwight Jones,18,10,8,.556,18,10,8,.556,0,0,0,
+duvalde01,Dennis DuVal,7,1,6,.143,7,1,6,.143,0,0,0,

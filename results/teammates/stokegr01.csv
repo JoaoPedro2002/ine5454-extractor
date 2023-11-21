@@ -1,0 +1,30 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+cheekma01,Maurice Cheeks,38,25,13,.658,31,21,10,.677,7,4,3,.571
+barklch01,Charles Barkley,36,25,11,.694,29,21,8,.724,7,4,3,.571
+catlete01,Terry Catledge,36,23,13,.639,29,19,10,.655,7,4,3,.571
+johnscl01,Clemon Johnson,33,21,12,.636,26,17,9,.654,7,4,3,.571
+ervinju01,Julius Erving*,33,22,11,.667,26,18,8,.692,7,4,3,.571
+threase01,Sedale Threatt,31,20,11,.645,24,16,8,.667,7,4,3,.571
+mosspe01,Perry Moss,31,21,10,.677,26,18,8,.692,5,3,2,.600
+jonesbo01,Bobby Jones,29,19,10,.655,22,15,7,.682,7,4,3,.571
+malonmo01,Moses Malone,24,15,9,.625,24,15,9,.625,0,0,0,
+greenke02,Kenny Green,15,9,6,.600,15,9,6,.600,0,0,0,
+aingeda01,Danny Ainge,11,1,10,.091,11,1,10,.091,0,0,0,
+turnehe02,Henry Turner,11,1,10,.091,11,1,10,.091,0,0,0,
+smithke01,Kenny Smith,11,1,10,.091,11,1,10,.091,0,0,0,
+allenra01,Randy Allen,11,1,10,.091,11,1,10,.091,0,0,0,
+tisdawa01,Wayman Tisdale,11,1,10,.091,11,1,10,.091,0,0,0,
+mccraro01,Rodney McCray,11,1,10,.091,11,1,10,.091,0,0,0,
+pressha01,Harold Pressley,11,1,10,.091,11,1,10,.091,0,0,0,
+delnevi01,Vinny Del Negro,11,1,10,.091,11,1,10,.091,0,0,0,
+woodle01,Leon Wood,10,7,3,.700,10,7,3,.700,0,0,0,
+jacksmi02,Michael Jackson,10,1,9,.100,10,1,9,.100,0,0,0,
+mcadobo01,Bob McAdoo,8,4,4,.500,8,4,4,.500,0,0,0,
+thomppa01,Paul Thompson,7,4,3,.571,7,4,3,.571,0,0,0,
+kitegr01,Greg Kite,6,1,5,.167,6,1,5,.167,0,0,0,
+sampsra01,Ralph Sampson,5,0,5,.000,5,0,5,.000,0,0,0,
+wintevo01,Voise Winters,4,3,1,.750,4,3,1,.750,0,0,0,
+youngmi01,Michael Young,4,2,2,.500,2,1,1,.500,2,1,1,.500
+ellispe01,Pervis Ellison,3,1,2,.333,3,1,2,.333,0,0,0,
+cartebu01,Butch Carter,2,1,1,.500,2,1,1,.500,0,0,0,
+toneyan01,Andrew Toney,1,0,1,.000,1,0,1,.000,0,0,0,

@@ -1,0 +1,34 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+foustla01,Larry Foust*,212,87,125,.410,200,83,117,.415,12,4,8,.333
+yardlge01,George Yardley*,151,72,79,.477,139,68,71,.489,12,4,8,.333
+hutchme01,Mel Hutchins*,146,72,74,.493,134,68,66,.507,12,4,8,.333
+houbrbo01,Bob Houbregs*,139,71,68,.511,127,67,60,.528,12,4,8,.333
+noblech01,Chuck Noble*,135,62,73,.459,123,58,65,.472,12,4,8,.333
+spearod01,Odie Spears*,83,41,42,.494,73,37,36,.507,10,4,6,.400
+phillan01,Andy Phillip*,77,39,38,.506,67,35,32,.522,10,4,6,.400
+shuege01,Gene Shue*,73,33,40,.452,71,33,38,.465,2,0,2,.000
+rochare01,Red Rocha*,73,33,40,.452,71,33,38,.465,2,0,2,.000
+kenvibi01,Billy Kenville*,72,33,39,.458,70,33,37,.471,2,0,2,.000
+flemied01,Ed Fleming,70,19,51,.271,70,19,51,.271,0,0,0,
+mikkeve01,Vern Mikkelsen*,70,19,51,.271,70,19,51,.271,0,0,0,
+krebsji01,Jim Krebs*,67,19,48,.284,67,19,48,.284,0,0,0,
+garmadi01,Dick Garmaker*,66,17,49,.258,66,17,49,.258,0,0,0,
+hundlho01,Hot Rod Hundley*,65,16,49,.246,65,16,49,.246,0,0,0,
+leonasl01,Slick Leonard*,64,17,47,.266,64,17,47,.266,0,0,0,
+thiebbi01,Bill Thieben*,59,27,32,.458,57,27,30,.474,2,0,2,.000
+spoelar01,Art Spoelstra,48,14,34,.292,48,14,34,.292,0,0,0,
+schnidi01,Dick Schnittker*,48,13,35,.271,48,13,35,.271,0,0,0,
+brianfr01,Frankie Brian,44,21,23,.477,34,17,17,.500,10,4,6,.400
+coopech01,Chuck Cooper,41,19,22,.463,32,15,17,.469,9,4,5,.444
+arnelje01,Jesse Arnelle,29,18,11,.621,29,18,11,.621,0,0,0,
+holstji01,Jim Holstein*,24,16,8,.667,24,16,8,.667,0,0,0,
+ingramc01,McCoy Ingram*,23,9,14,.391,23,9,14,.391,0,0,0,
+hannual01,Alex Hannum*,22,10,12,.455,22,10,12,.455,0,0,0,
+eriasbo01,Bo Erias,18,5,13,.278,18,5,13,.278,0,0,0,
+rosendi01,Dick Rosenthal*,16,7,9,.438,16,7,9,.438,0,0,0,
+burrobo01,Bob Burrow,13,2,11,.154,13,2,11,.154,0,0,0,
+selvyfr01,Frank Selvy*,12,3,9,.250,12,3,9,.250,0,0,0,
+zasloma01,Max Zaslofsky*,9,2,7,.222,9,2,7,.222,0,0,0,
+bielkdo01,Don Bielke,7,1,6,.143,7,1,6,.143,0,0,0,
+horanjo01,Johnny Horan,7,1,6,.143,7,1,6,.143,0,0,0,
+brownge01,George Brown,1,0,1,.000,1,0,1,.000,0,0,0,

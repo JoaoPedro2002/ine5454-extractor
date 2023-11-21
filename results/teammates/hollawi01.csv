@@ -1,0 +1,41 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+gilmoar01,Artis Gilmore*,246,114,132,.463,243,113,130,.465,3,1,2,.333
+johnsmi01,Mickey Johnson,244,113,131,.463,241,112,129,.465,3,1,2,.333
+mengejo01,John Mengelt,220,107,113,.486,217,106,111,.488,3,1,2,.333
+maysc01,Scott May,167,82,85,.491,164,81,83,.494,3,1,2,.333
+vanlino01,Norm Van Lier,160,80,80,.500,157,79,78,.503,3,1,2,.333
+landsma01,Mark Landsberger,142,62,80,.437,142,62,80,.437,0,0,0,
+pondecl01,Cliff Pondexter,122,61,61,.500,119,60,59,.504,3,1,2,.333
+brownjo01,John Brown,108,36,72,.333,108,36,72,.333,0,0,0,
+boerwto01,Tom Boerwinkle*,104,56,48,.538,101,55,46,.545,3,1,2,.333
+armstta01,Tate Armstrong,92,40,52,.435,92,40,52,.435,0,0,0,
+sheppst01,Steve Sheppard,86,33,53,.384,86,33,53,.384,0,0,0,
+theusre01,Reggie Theus,82,31,51,.378,82,31,51,.378,0,0,0,
+johnsol01,Ollie Johnson*,71,29,42,.408,71,29,42,.408,0,0,0,
+lloydsc01,Scott Lloyd,67,26,41,.388,67,26,41,.388,0,0,0,
+marinja01,Jack Marin,57,35,22,.614,54,34,20,.630,3,1,2,.333
+kroppto01,Tom Kropp,51,25,26,.490,50,25,25,.500,1,0,1,.000
+laskojo01,John Laskowski,44,21,23,.477,44,21,23,.477,0,0,0,
+dudlech01,Charles Dudley,43,12,31,.279,43,12,31,.279,0,0,0,
+weathni01,Nick Weatherspoon,41,22,19,.537,41,22,19,.537,0,0,0,
+russeca01,Cazzie Russell,36,15,21,.417,36,15,21,.417,0,0,0,
+hicksph01,Phil Hicks,36,24,12,.667,35,24,11,.686,1,0,1,.000
+hudsolo01,Lou Hudson*,32,7,25,.219,32,7,25,.219,0,0,0,
+hawkico01,Connie Hawkins,32,8,24,.250,32,8,24,.250,0,0,0,
+hendeto01,Tom Henderson,32,8,24,.250,32,8,24,.250,0,0,0,
+drewjo01,John Drew,31,8,23,.258,31,8,23,.258,0,0,0,
+willobi01,Bill Willoughby*,27,5,22,.185,27,5,22,.185,0,0,0,
+vanarto01,Tom Van Arsdale,26,6,20,.231,26,6,20,.231,0,0,0,
+meminde01,Dean Meminger,26,6,20,.231,26,6,20,.231,0,0,0,
+dickede01,Derrek Dickey,25,10,15,.400,25,10,15,.400,0,0,0,
+jonesdw01,Dwight Jones,23,6,17,.261,23,6,17,.261,0,0,0,
+sojoumi01,Mike Sojourner,21,6,15,.286,21,6,15,.286,0,0,0,
+creigji01,Jim Creighton,18,5,13,.278,18,5,13,.278,0,0,0,
+starrke01,Keith Starr,16,5,11,.312,16,5,11,.312,0,0,0,
+ardji01,Jim Ard*,14,6,8,.429,14,6,8,.429,0,0,0,
+lovebo01,Bob Love,11,0,11,.000,11,0,11,.000,0,0,0,
+duvalde01,Dennis DuVal,6,1,5,.167,6,1,5,.167,0,0,0,
+mccrapa01,Paul McCracken,6,0,6,.000,6,0,6,.000,0,0,0,
+fernser01,Eric Fernsten,5,0,5,.000,5,0,5,.000,0,0,0,
+wakefan01,Andre Wakefield,2,0,2,.000,2,0,2,.000,0,0,0,
+hansegl01,Glenn Hansen,2,0,2,.000,2,0,2,.000,0,0,0,

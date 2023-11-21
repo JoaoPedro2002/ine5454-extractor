@@ -1,0 +1,35 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+ehlocr01,Craig Ehlo,138,80,58,.580,133,78,55,.586,5,2,3,.400
+williho01,Hot Rod Williams,135,79,56,.585,130,77,53,.592,5,2,3,.400
+nancela01,Larry Nance,118,76,42,.644,113,74,39,.655,5,2,3,.400
+pricema01,Mark Price,105,66,39,.629,100,64,36,.640,5,2,3,.400
+daughbr01,Brad Daugherty,104,66,38,.635,99,64,35,.646,5,2,3,.400
+kerrst01,Steve Kerr,97,56,41,.577,92,54,38,.587,5,2,3,.400
+brownch01,Chucky Brown,75,40,35,.533,75,40,35,.533,0,0,0,
+ferryda01,Danny Ferry,68,43,25,.632,68,43,25,.632,0,0,0,
+jameshe01,Henry James,56,37,19,.661,56,37,19,.661,0,0,0,
+brandte01,Terrell Brandon,52,37,15,.712,52,37,15,.712,0,0,0,
+battljo01,John Battle,48,35,13,.729,48,35,13,.729,0,0,0,
+mortojo01,John Morton,46,23,23,.500,44,22,22,.500,2,1,1,.500
+mokespa01,Paul Mokeski,32,13,19,.406,29,12,17,.414,3,1,2,.333
+rollitr01,Tree Rollins,31,16,15,.516,28,14,14,.500,3,2,1,.667
+keysra01,Randolph Keys,23,8,15,.348,23,8,15,.348,0,0,0,
+paddige01,Gerald Paddio,22,11,11,.500,22,11,11,.500,0,0,0,
+willire01,Reggie Williams,19,8,11,.421,19,8,11,.421,0,0,0,
+valenda01,Darnell Valentine,19,10,9,.526,19,10,9,.526,0,0,0,
+dudlech02,Chris Dudley,19,8,11,.421,19,8,11,.421,0,0,0,
+chievde01,Derrick Chievous,18,10,8,.556,15,8,7,.533,3,2,1,.667
+oliveji01,Jimmy Oliver,14,11,3,.786,14,11,3,.786,0,0,0,
+harpero01,Ron Harper,5,1,4,.200,5,1,4,.200,0,0,0,
+seikaro01,Rony Seikaly,2,2,0,1.000,2,2,0,1.000,0,0,0,
+colesbi01,Bimbo Coles,2,2,0,1.000,2,2,0,1.000,0,0,0,
+askinke01,Keith Askins,2,2,0,1.000,2,2,0,1.000,0,0,0,
+longgr01,Grant Long,2,2,0,1.000,2,2,0,1.000,0,0,0,
+edwarke01,Kevin Edwards,2,2,0,1.000,2,2,0,1.000,0,0,0,
+ricegl01,Glen Rice,2,2,0,1.000,2,2,0,1.000,0,0,0,
+kesslal01,Alec Kessler,2,2,0,1.000,2,2,0,1.000,0,0,0,
+shawbr01,Brian Shaw,2,2,0,1.000,2,2,0,1.000,0,0,0,
+smithst01,Steve Smith,2,2,0,1.000,2,2,0,1.000,0,0,0,
+oggal01,Alan Ogg,1,1,0,1.000,1,1,0,1.000,0,0,0,
+babicmi01,Miloš Babić,1,1,0,1.000,1,1,0,1.000,0,0,0,
+vocega01,Gary Voce,1,0,1,.000,1,0,1,.000,0,0,0,

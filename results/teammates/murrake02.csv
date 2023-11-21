@@ -1,0 +1,20 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+barneha02,Harrison Barnes,87,50,37,.575,80,47,33,.588,7,3,4,.429
+mitchda01,Davion Mitchell,85,49,36,.576,78,46,32,.590,7,3,4,.429
+sabondo01,Domantas Sabonis*,84,49,35,.583,77,46,31,.597,7,3,4,.429
+monkma01,Malik Monk*,82,49,33,.598,75,46,29,.613,7,3,4,.429
+huertke01,Kevin Huerter*,80,46,34,.575,73,43,30,.589,7,3,4,.429
+lylestr01,Trey Lyles,79,45,34,.570,72,42,30,.583,7,3,4,.429
+foxde01,De'Aaron Fox,78,46,32,.590,71,43,28,.606,7,3,4,.429
+metuch01,Chimezie Metu,68,41,27,.603,65,40,25,.615,3,1,2,.333
+daviste02,Terence Davis,66,39,27,.591,62,37,25,.597,4,2,2,.500
+holmeri01,Richaun Holmes,41,22,19,.537,41,22,19,.537,0,0,0,
+okpalkz01,KZ Okpala,33,18,15,.545,33,18,15,.545,0,0,0,
+lenal01,Alex Len*,32,17,15,.531,25,14,11,.560,7,3,4,.429
+dellama01,Matthew Dellavedova,31,18,13,.581,31,18,13,.581,0,0,0,
+edwarke02,Kessler Edwards*,28,14,14,.500,22,12,10,.545,6,2,4,.333
+doziepj01,PJ Dozier,19,12,7,.632,16,11,5,.688,3,1,2,.333
+elliske01,Keon Ellis,15,6,9,.400,15,6,9,.400,0,0,0,
+quetane01,Neemias Queta,5,1,4,.200,5,1,4,.200,0,0,0,
+burtode02,Deonte Burton,2,1,1,.500,2,1,1,.500,0,0,0,
+monekch01,Chima Moneke,1,0,1,.000,1,0,1,.000,0,0,0,

@@ -1,0 +1,21 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jonesla01,Larry Jones*,79,35,44,.443,74,34,40,.459,5,1,4,.200
+robinsa01,Sam Robinson*,77,33,44,.429,72,32,40,.444,5,1,4,.200
+calvima01,Mack Calvin,76,34,42,.447,71,33,38,.465,5,1,4,.200
+daviswa02,Warren Davis*,63,26,37,.413,58,25,33,.431,5,1,4,.200
+franzro01,Ron Franz,58,25,33,.431,56,24,32,.429,2,1,1,.500
+washitr01,Trooper Washington*,51,25,26,.490,46,24,22,.522,5,1,4,.200
+hargeir01,Ira Harge,50,22,28,.440,45,21,24,.467,5,1,4,.200
+nelsoro01,Ron Nelson*,46,19,27,.413,45,18,27,.400,1,1,0,1.000
+niemari01,Rich Niemann*,40,21,19,.525,39,20,19,.513,1,1,0,1.000
+wrighlo01,Lonnie Wright*,35,17,18,.486,30,16,14,.533,5,1,4,.200
+tuckeal01,Al Tucker*,23,10,13,.435,18,9,9,.500,5,1,4,.200
+ohanlfr01,Fran O'Hanlon*,11,5,6,.455,11,5,6,.455,0,0,0,
+brookcl01,Clarence Brookins*,7,3,4,.429,7,3,4,.429,0,0,0,
+johnsri01,Rich Johnson*,7,3,4,.429,7,3,4,.429,0,0,0,
+stewade01,Dennis Stewart*,6,2,4,.333,6,2,4,.333,0,0,0,
+jabalwa01,Warren Jabali,6,3,3,.500,6,3,3,.500,0,0,0,
+beaslch01,Charlie Beasley*,5,2,3,.400,5,2,3,.400,0,0,0,
+wittmgr01,Greg Wittman*,5,3,2,.600,5,3,2,.600,0,0,0,
+longwi01,Willie Long*,3,1,2,.333,3,1,2,.333,0,0,0,
+piatkwa01,Walt Piatkowski*,3,2,1,.667,3,2,1,.667,0,0,0,

@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mitchmi01,Mike Mitchell,72,36,36,.500,67,34,33,.507,5,2,3,.400
+moorejo01,Johnny Moore,72,36,36,.500,67,34,33,.507,5,2,3,.400
+gilmoar01,Artis Gilmore*,71,36,35,.507,66,34,32,.515,5,2,3,.400
+paxsojo01,John Paxson,71,36,35,.507,66,34,32,.515,5,2,3,.400
+banksge01,Gene Banks,68,34,34,.500,67,34,33,.507,1,0,1,.000
+gervige01,George Gervin,64,30,34,.469,59,28,31,.475,5,2,3,.400
+roberal01,Alvin Robertson,64,33,31,.516,64,33,31,.516,0,0,0,
+iavarma01,Marc Iavaroni,47,24,23,.511,42,22,20,.524,5,2,3,.400
+knighbi01,Billy Knight,44,20,24,.455,39,18,21,.462,5,2,3,.400
+cookje01,Jeff Cook,44,23,21,.523,39,21,18,.538,5,2,3,.400
+roberfr01,Fred Roberts,22,9,13,.409,22,9,13,.409,0,0,0,
+jonesed01,Edgar Jones,18,10,8,.556,18,10,8,.556,0,0,0,
+mcnamma01,Mark McNamara,12,5,7,.417,12,5,7,.417,0,0,0,
+brewero01,Ron Brewer,9,4,5,.444,9,4,5,.444,0,0,0,
+thirdda01,David Thirdkill,7,3,4,.429,2,1,1,.500,5,2,3,.400
+whitero01,Rory White,3,1,2,.333,3,1,2,.333,0,0,0,
+nixonno01,Norm Nixon,3,1,2,.333,3,1,2,.333,0,0,0,
+crossje01,Jeff Cross,3,1,2,.333,3,1,2,.333,0,0,0,
+nimphku01,Kurt Nimphius,3,1,2,.333,3,1,2,.333,0,0,0,
+cagemi01,Michael Cage,3,1,2,.333,3,1,2,.333,0,0,0,
+edwarfr01,Franklin Edwards,3,1,2,.333,3,1,2,.333,0,0,0,
+towneli01,Linton Townes,3,0,3,.000,1,0,1,.000,2,0,2,.000
+johnsma01,Marques Johnson,3,1,2,.333,3,1,2,.333,0,0,0,
+maxwece01,Cedric Maxwell,3,1,2,.333,3,1,2,.333,0,0,0,
+valenda01,Darnell Valentine,3,1,2,.333,3,1,2,.333,0,0,0,
+gordola01,Lancaster Gordon,2,1,1,.500,2,1,1,.500,0,0,0,

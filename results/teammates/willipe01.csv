@@ -1,0 +1,15 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+dunntr01,T.R. Dunn,62,38,24,.613,58,37,21,.638,4,1,3,.250
+evansmi01,Mike Evans,61,37,24,.607,57,36,21,.632,4,1,3,.250
+englial01,Alex English,61,38,23,.623,57,37,20,.649,4,1,3,.250
+leverfa01,Fat Lever,59,36,23,.610,55,35,20,.636,4,1,3,.250
+schayda01,Danny Schayes,57,34,23,.596,53,33,20,.623,4,1,3,.250
+hanzlbi01,Bill Hanzlik,57,35,22,.614,54,34,20,.630,3,1,2,.333
+turneel01,Elston Turner,53,31,22,.585,49,30,19,.612,4,1,3,.250
+coopewa01,Wayne Cooper,53,34,19,.642,51,34,17,.667,2,0,2,.000
+rasmubl01,Blair Rasmussen,46,26,20,.565,42,25,17,.595,4,1,3,.250
+nattca01,Calvin Natt,46,28,18,.609,42,27,15,.643,4,1,3,.250
+whitewi01,Willie White,39,22,17,.564,35,21,14,.600,4,1,3,.250
+alarima01,Mark Alarie,5,4,1,.800,5,4,1,.800,0,0,0,
+walkeda01,Darrell Walker,5,4,1,.800,5,4,1,.800,0,0,0,
+martima01,Maurice Martin,5,4,1,.800,5,4,1,.800,0,0,0,

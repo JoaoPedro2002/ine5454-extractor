@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mikkeve01,Vern Mikkelsen*,231,144,87,.623,199,123,76,.618,32,21,11,.656
+martisl01,Slater Martin*,228,143,85,.627,196,122,74,.622,32,21,11,.656
+skoogwh01,Whitey Skoog*,226,140,86,.619,195,120,75,.615,31,20,11,.645
+pollaji01,Jim Pollard*,217,136,81,.627,185,115,70,.622,32,21,11,.656
+mikange01,George Mikan*,161,107,54,.665,136,89,47,.654,25,18,7,.720
+saulpe01,Pep Saul*,160,106,54,.662,135,88,47,.652,25,18,7,.720
+schnidi01,Dick Schnittker*,159,93,66,.585,132,77,55,.583,27,16,11,.593
+lovelcl01,Clyde Lovellette*,151,90,61,.596,131,78,53,.595,20,12,8,.600
+harribo02,Bob Harrison*,117,78,39,.667,105,69,36,.657,12,9,3,.750
+hitchle01,Lew Hitch*,95,63,32,.663,76,51,25,.671,19,12,7,.632
+kalafed01,Ed Kalafat*,70,37,33,.529,63,34,29,.540,7,3,4,.429
+watsobo01,Bobby Watson*,49,24,25,.490,49,24,25,.490,0,0,0,
+sundedo01,Don Sunderlage*,43,22,21,.512,43,22,21,.512,0,0,0,
+schulho01,Howie Schultz*,36,25,11,.694,36,25,11,.694,0,0,0,
+spearod01,Odie Spears*,27,17,10,.630,27,17,10,.630,0,0,0,
+hutchme01,Mel Hutchins*,27,17,10,.630,27,17,10,.630,0,0,0,
+houbrbo01,Bob Houbregs*,27,17,10,.630,27,17,10,.630,0,0,0,
+foustla01,Larry Foust*,27,17,10,.630,27,17,10,.630,0,0,0,
+noblech01,Chuck Noble*,27,17,10,.630,27,17,10,.630,0,0,0,
+yardlge01,George Yardley*,26,16,10,.615,26,16,10,.615,0,0,0,
+phillan01,Andy Phillip*,25,16,9,.640,25,16,9,.640,0,0,0,
+arnelje01,Jesse Arnelle,25,15,10,.600,25,15,10,.600,0,0,0,
+devlico01,Corky Devlin*,24,16,8,.667,24,16,8,.667,0,0,0,
+carnebo01,Bob Carney,19,9,10,.474,12,6,6,.500,7,3,4,.429
+brianfr01,Frankie Brian,4,2,2,.500,4,2,2,.500,0,0,0,
+fritsji01,Jim Fritsche*,3,1,2,.333,3,1,2,.333,0,0,0,

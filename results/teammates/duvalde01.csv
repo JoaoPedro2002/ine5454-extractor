@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+porteke01,Kevin Porter,42,35,7,.833,37,31,6,.838,5,4,1,.800
+hayesel01,Elvin Hayes,42,35,7,.833,37,31,6,.838,5,4,1,.800
+robintr01,Truck Robinson,42,35,7,.833,37,31,6,.838,5,4,1,.800
+weathni01,Nick Weatherspoon,42,35,7,.833,37,31,6,.838,5,4,1,.800
+kozelto01,Tom Kozelko,42,35,7,.833,37,31,6,.838,5,4,1,.800
+haskicl01,Clem Haskins,41,34,7,.829,37,31,6,.838,4,3,1,.750
+riordmi01,Mike Riordan,38,32,6,.842,33,28,5,.848,5,4,1,.800
+gibbsdi01,Dick Gibbs,38,31,7,.816,34,28,6,.824,4,3,1,.750
+unselwe01,Wes Unseld,38,32,6,.842,33,28,5,.848,5,4,1,.800
+cheniph01,Phil Chenier,38,31,7,.816,33,27,6,.818,5,4,1,.800
+jonesji01,Jimmy Jones,36,30,6,.833,32,26,6,.812,4,4,0,1.000
+willobi01,Bill Willoughby*,13,2,11,.154,13,2,11,.154,0,0,0,
+vanarto01,Tom Van Arsdale,13,2,11,.154,13,2,11,.154,0,0,0,
+brownjo01,John Brown,13,2,11,.154,13,2,11,.154,0,0,0,
+drewjo01,John Drew,13,2,11,.154,13,2,11,.154,0,0,0,
+hudsolo01,Lou Hudson*,13,2,11,.154,13,2,11,.154,0,0,0,
+hendeto01,Tom Henderson,13,2,11,.154,13,2,11,.154,0,0,0,
+sojoumi01,Mike Sojourner,12,2,10,.167,12,2,10,.167,0,0,0,
+hawkico01,Connie Hawkins,11,1,10,.091,11,1,10,.091,0,0,0,
+creigji01,Jim Creighton,7,1,6,.143,7,1,6,.143,0,0,0,
+hollawi01,Wilbur Holland,6,1,5,.167,6,1,5,.167,0,0,0,
+jonesdw01,Dwight Jones,5,1,4,.200,5,1,4,.200,0,0,0,
+washist01,Stan Washington,1,1,0,1.000,1,1,0,1.000,0,0,0,

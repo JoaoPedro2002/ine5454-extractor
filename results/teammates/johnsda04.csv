@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+pattepa01,Patrick Patterson,33,21,12,.636,31,21,10,.677,2,0,2,.000
+georgpa01,Paul George*,33,21,12,.636,31,21,10,.677,2,0,2,.000
+feltora01,Raymond Felton,33,21,12,.636,31,21,10,.677,2,0,2,.000
+grantje01,Jerami Grant,33,21,12,.636,31,21,10,.677,2,0,2,.000
+huestjo01,Josh Huestis,32,21,11,.656,30,21,9,.700,2,0,2,.000
+westbru01,Russell Westbrook*,31,20,11,.645,29,20,9,.690,2,0,2,.000
+abrinal01,Álex Abrines,30,19,11,.633,28,19,9,.679,2,0,2,.000
+anthoca01,Carmelo Anthony*,30,19,11,.633,28,19,9,.679,2,0,2,.000
+fergute01,Terrance Ferguson,29,19,10,.655,27,19,8,.704,2,0,2,.000
+adamsst01,Steven Adams,27,16,11,.593,25,16,9,.640,2,0,2,.000
+roberan03,Andre Roberson,17,12,5,.706,17,12,5,.706,0,0,0,
+collini01,Nick Collison,11,7,4,.636,11,7,4,.636,0,0,0,
+singlky01,Kyle Singler,8,4,4,.500,8,4,4,.500,0,0,0,
+breweco01,Corey Brewer,7,4,3,.571,5,4,1,.800,2,0,2,.000
+hamilda02,Daniel Hamilton,6,5,1,.833,6,5,1,.833,0,0,0,
+doziepj01,PJ Dozier,2,1,1,.500,2,1,1,.500,0,0,0,

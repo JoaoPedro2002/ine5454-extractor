@@ -1,0 +1,36 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+turnemy01,Myles Turner,107,56,51,.523,102,53,49,.520,5,3,2,.600
+youngth01,Thaddeus Young,83,46,37,.554,82,45,37,.549,1,1,0,1.000
+robingl02,Glenn Robinson III,78,38,40,.487,73,35,38,.479,5,3,2,.600
+ellismo01,Monta Ellis,76,37,39,.487,72,35,37,.486,4,2,2,.500
+allenla01,Lavoy Allen,73,36,37,.493,69,34,35,.493,4,2,2,.500
+georgpa01,Paul George*,71,36,35,.507,67,34,33,.507,4,2,2,.500
+milescj01,C.J. Miles,68,33,35,.485,64,31,33,.484,4,2,2,.500
+stephla01,Lance Stephenson,57,32,25,.561,56,31,25,.554,1,1,0,1.000
+jeffeal01,Al Jefferson,54,26,28,.481,54,26,28,.481,0,0,0,
+josepco01,Cory Joseph,54,29,25,.537,53,28,25,.528,1,1,0,1.000
+sabondo01,Domantas Sabonis*,52,29,23,.558,51,28,23,.549,1,1,0,1.000
+bogdabo02,Bojan Bogdanović,52,28,24,.538,51,27,24,.529,1,1,0,1.000
+oladivi01,Victor Oladipo*,47,29,18,.617,46,28,18,.609,1,1,0,1.000
+collida01,Darren Collison,41,20,21,.488,40,19,21,.475,1,1,0,1.000
+hilljo01,Jordan Hill,41,19,22,.463,37,17,20,.459,4,2,2,.500
+leaftj01,T.J. Leaf,40,23,17,.575,39,22,17,.564,1,1,0,1.000
+hillso01,Solomon Hill,40,20,20,.500,36,18,18,.500,4,2,2,.500
+stuckro01,Rodney Stuckey,39,17,22,.436,35,15,20,.429,4,2,2,.500
+hillge01,George Hill,38,18,20,.474,34,16,18,.471,4,2,2,.500
+mahinia01,Ian Mahinmi,36,18,18,.500,32,16,16,.500,4,2,2,.500
+teaguje01,Jeff Teague,33,18,15,.545,33,18,15,.545,0,0,0,
+brookaa01,Aaron Brooks,28,17,11,.607,28,17,11,.607,0,0,0,
+serapke01,Kevin Séraphin,25,13,12,.520,25,13,12,.520,0,0,0,
+poythal01,Alex Poythress,23,9,14,.391,23,9,14,.391,0,0,0,
+budinch01,Chase Budinger,23,10,13,.435,23,10,13,.435,0,0,0,
+niangge01,Georges Niang,20,10,10,.500,20,10,10,.500,0,0,0,
+chrisra01,Rakeem Christmas,16,9,7,.562,16,9,7,.562,0,0,0,
+wilkida02,Damien Wilkins,15,7,8,.467,15,7,8,.467,0,0,0,
+anigbik01,Ike Anigbogu,11,5,6,.455,11,5,6,.455,0,0,0,
+lawsoty01,Ty Lawson,8,4,4,.500,4,2,2,.500,4,2,2,.500
+booketr01,Trevor Booker,7,3,4,.429,6,2,4,.333,1,1,0,1.000
+whittsh01,Shayne Whittington,6,4,2,.667,6,4,2,.667,0,0,0,
+moorebe01,Ben Moore,2,1,1,.500,2,1,1,.500,0,0,0,
+sumneed01,Edmond Sumner*,1,0,1,.000,1,0,1,.000,0,0,0,
+mckintr01,Trey McKinney-Jones,1,1,0,1.000,1,1,0,1.000,0,0,0,

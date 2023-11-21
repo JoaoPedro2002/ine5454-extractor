@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hightwa01,Wayne Hightower*,85,45,40,.529,76,41,35,.539,9,4,5,.444
+meschto01,Tom Meschery,85,45,40,.529,76,41,35,.539,9,4,5,.444
+rodgegu01,Guy Rodgers,85,45,40,.529,76,41,35,.539,9,4,5,.444
+thurmna01,Nate Thurmond,82,44,38,.537,73,40,33,.548,9,4,5,.444
+chambwi01,Wilt Chamberlain,82,45,37,.549,73,41,32,.562,9,4,5,.444
+attleal01,Al Attles,76,41,35,.539,67,37,30,.552,9,4,5,.444
+phillga01,Gary Phillips*,66,36,30,.545,58,32,26,.552,8,4,4,.500
+leege01,George Lee,61,34,27,.557,53,30,23,.566,8,4,4,.500
+searske01,Kenny Sears*,54,31,23,.574,47,28,19,.596,7,3,4,.429
+windsjo01,John Windsor*,12,9,3,.750,12,9,3,.750,0,0,0,
+mclemmc01,McCoy McLemore,9,3,6,.333,9,3,6,.333,0,0,0,
+koperbu01,Bud Koper,7,2,5,.286,7,2,5,.286,0,0,0,
+krameba01,Barry Kramer,4,2,2,.500,4,2,2,.500,0,0,0,
+bellawa01,Walt Bellamy,3,2,1,.667,3,2,1,.667,0,0,0,
+johnsgu01,Gus Johnson,3,2,1,.667,3,2,1,.667,0,0,0,
+howelba01,Bailey Howell,3,2,1,.667,3,2,1,.667,0,0,0,
+loughke01,Kevin Loughery,3,2,1,.667,3,2,1,.667,0,0,0,
+ferrybo01,Bob Ferry,3,2,1,.667,3,2,1,.667,0,0,0,
+joneswa02,Wali Jones,3,2,1,.667,3,2,1,.667,0,0,0,
+ohldo01,Don Ohl,3,2,1,.667,3,2,1,.667,0,0,0,
+greensi01,Si Green*,2,1,1,.500,2,1,1,.500,0,0,0,
+huntele01,Les Hunter,2,2,0,1.000,2,2,0,1.000,0,0,0,
+braddga01,Gary Bradds*,2,1,1,.500,2,1,1,.500,0,0,0,

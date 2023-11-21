@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+ballagr01,Greg Ballard,44,25,19,.568,40,21,19,.525,4,4,0,1.000
+unselwe01,Wes Unseld,44,25,19,.568,40,21,19,.525,4,4,0,1.000
+greveke01,Kevin Grevey,43,25,18,.581,39,21,18,.538,4,4,0,1.000
+hayesel01,Elvin Hayes,43,25,18,.581,39,21,18,.538,4,4,0,1.000
+dandrbo01,Bob Dandridge,41,24,17,.585,37,20,17,.541,4,4,0,1.000
+kupchmi01,Mitch Kupchak,37,22,15,.595,33,18,15,.545,4,4,0,1.000
+hendeto01,Tom Henderson,37,24,13,.649,33,20,13,.606,4,4,0,1.000
+wrighla01,Larry Wright,35,19,16,.543,31,15,16,.484,4,4,0,1.000
+pacejo01,Joe Pace,28,16,12,.571,26,14,12,.538,2,2,0,1.000
+johnsch01,Charles Johnson*,27,17,10,.630,23,13,10,.565,4,4,0,1.000
+cheniph01,Phil Chenier,12,8,4,.667,12,8,4,.667,0,0,0,

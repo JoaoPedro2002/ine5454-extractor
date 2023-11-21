@@ -1,0 +1,37 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+ewingpa01,Patrick Ewing,128,64,64,.500,122,63,59,.516,6,1,5,.167
+jacksma01,Mark Jackson,118,57,61,.483,112,56,56,.500,6,1,5,.167
+wilkige01,Gerald Wilkins,115,59,56,.513,109,58,51,.532,6,1,5,.167
+oaklech01,Charles Oakley,112,59,53,.527,106,58,48,.547,6,1,5,.167
+vandeki01,Kiki Vandeweghe,94,43,51,.457,88,42,46,.477,6,1,5,.167
+wilkied01,Eddie Lee Wilkins,90,46,44,.511,86,45,41,.523,4,1,3,.250
+tucketr01,Trent Tucker,90,43,47,.478,84,42,42,.500,6,1,5,.167
+cheekma01,Maurice Cheeks,89,43,46,.483,83,42,41,.506,6,1,5,.167
+starkjo01,John Starks,80,42,38,.525,77,42,35,.545,3,0,3,.000
+walkeke01,Kenny Walker,74,35,39,.473,68,34,34,.500,6,1,5,.167
+mustaje01,Jerrod Mustaf,52,25,27,.481,49,25,24,.510,3,0,3,.000
+newmajo01,Johnny Newman,33,16,17,.485,30,15,15,.500,3,1,2,.333
+masonan01,Anthony Mason,24,13,11,.542,24,13,11,.542,0,0,0,
+anthogr01,Greg Anthony,24,13,11,.542,24,13,11,.542,0,0,0,
+grayst01,Stuart Gray,24,11,13,.458,21,10,11,.476,3,1,2,.333
+mcdanxa01,Xavier McDaniel,24,13,11,.542,24,13,11,.542,0,0,0,
+grantgr01,Greg Grant,19,8,11,.421,19,8,11,.421,0,0,0,
+mooretr01,Tracy Moore,15,1,14,.067,15,1,14,.067,0,0,0,
+mccraro01,Rodney McCray,15,1,14,.067,15,1,14,.067,0,0,0,
+iuzzomi01,Mike Iuzzolino,15,1,14,.067,15,1,14,.067,0,0,0,
+smithdo03,Doug Smith,15,1,14,.067,15,1,14,.067,0,0,0,
+hodgedo01,Donald Hodge,15,1,14,.067,15,1,14,.067,0,0,0,
+howarbr01,Brian Howard,14,1,13,.071,14,1,13,.071,0,0,0,
+willihe01,Herb Williams,14,1,13,.071,14,1,13,.071,0,0,0,
+blackro01,Rolando Blackman,13,1,12,.077,13,1,12,.077,0,0,0,
+whitera01,Randy White,13,0,13,.000,13,0,13,.000,0,0,0,
+stricro02,Rod Strickland,13,8,5,.615,13,8,5,.615,0,0,0,
+myerspe01,Pete Myers,10,6,4,.600,10,6,4,.600,0,0,0,
+mccorti01,Tim McCormick,9,4,5,.444,9,4,5,.444,0,0,0,
+daviste01,Terry Davis,9,0,9,.000,9,0,9,.000,0,0,0,
+winchke01,Kennard Winchester,8,4,4,.500,8,4,4,.500,0,0,0,
+butlegr01,Greg Butler,8,4,4,.500,8,4,4,.500,0,0,0,
+eddiepa01,Patrick Eddie,4,3,1,.750,4,3,1,.750,0,0,0,
+harpede01,Derek Harper,4,0,4,.000,4,0,4,.000,0,0,0,
+garrito01,Tom Garrick,3,0,3,.000,3,0,3,.000,0,0,0,
+mckinca01,Carlton McKinney,2,2,0,1.000,2,2,0,1.000,0,0,0,

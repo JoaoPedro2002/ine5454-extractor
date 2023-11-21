@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+beaslch01,Charlie Beasley*,59,32,27,.542,56,29,27,.518,3,3,0,1.000
+powelci01,Cincy Powell,58,32,26,.552,55,29,26,.527,3,3,0,1.000
+beasljo01,John Beasley*,58,32,26,.552,55,29,26,.527,3,3,0,1.000
+wilsobo02,Bobby Wilson,56,32,24,.571,53,29,24,.547,3,3,0,1.000
+lochmri01,Riney Lochmann*,48,28,20,.583,46,26,20,.565,2,2,0,1.000
+holmade01,Dennis Holman*,43,25,18,.581,40,22,18,.550,3,3,0,1.000
+hagancl01,Cliff Hagan*,42,22,20,.524,42,22,20,.524,0,0,0,
+mcharma01,Maurice McHartley,40,23,17,.575,37,20,17,.541,3,3,0,1.000
+peekri01,Rich Peek*,39,21,18,.538,36,18,18,.500,3,3,0,1.000
+vergabo01,Bob Verga,28,14,14,.500,28,14,14,.500,0,0,0,
+burnsji01,Jim Burns*,22,13,9,.591,22,13,9,.591,0,0,0,
+russeru01,Rubin Russell*,17,8,9,.471,17,8,9,.471,0,0,0,
+mcgriel01,Elton McGriff,14,9,5,.643,11,6,5,.545,3,3,0,1.000
+dabicmi01,Mike Dabich,3,1,2,.333,3,1,2,.333,0,0,0,
+wileyge01,Gene Wiley*,1,0,1,.000,1,0,1,.000,0,0,0,

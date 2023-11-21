@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+schaufr01,Fred Schaus*,134,72,62,.537,126,68,58,.540,8,4,4,.500
+kerrija01,Jack Kerris*,130,69,61,.531,122,65,57,.533,8,4,4,.500
+johnsra01,Ralph Johnson*,98,49,49,.500,90,45,45,.500,8,4,4,.500
+armstcu01,Curly Armstrong*,98,54,44,.551,91,51,40,.560,7,3,4,.429
+kluehdu01,Duane Klueh,82,37,45,.451,77,36,41,.468,5,1,4,.200
+carpebo01,Bob Carpenter*,80,47,33,.588,75,44,31,.587,5,3,2,.600
+foustla01,Larry Foust*,71,33,38,.465,68,32,36,.471,3,1,2,.333
+harribo01,Bob Harris,69,42,27,.609,64,39,25,.609,5,3,2,.600
+wagercl01,Clint Wager*,59,36,23,.610,54,33,21,.611,5,3,2,.600
+klierle01,Leo Klier,59,36,23,.610,57,36,21,.632,2,0,2,.000
+ottendo01,Don Otten,52,21,31,.404,49,20,29,.408,3,1,2,.333
+mehendi01,Dick Mehen*,46,19,27,.413,43,18,25,.419,3,1,2,.333
+henrybi01,Bill Henry,38,24,14,.632,38,24,14,.632,0,0,0,
+blackch01,Charlie Black,36,23,13,.639,36,23,13,.639,0,0,0,
+riffeji01,Jim Riffey*,34,11,23,.324,34,11,23,.324,0,0,0,
+burriar01,Art Burris*,31,14,17,.452,31,14,17,.452,0,0,0,
+niemiri01,Richie Niemiera*,29,19,10,.655,29,19,10,.655,0,0,0,
+schulho01,Howie Schultz*,27,16,11,.593,22,13,9,.591,5,3,2,.600
+murrake01,Ken Murray*,17,8,9,.471,14,7,7,.500,3,1,2,.333
+hargijo01,John Hargis,14,10,4,.714,14,10,4,.714,0,0,0,
+nagelje01,Jerry Nagel,11,7,4,.636,10,6,4,.600,1,1,0,1.000
+mahnkjo01,John Mahnken*,2,2,0,1.000,2,2,0,1.000,0,0,0,

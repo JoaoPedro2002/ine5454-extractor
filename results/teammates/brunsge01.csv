@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+cartege01,George Carter*,15,5,10,.333,13,5,8,.385,2,0,2,.000
+melchbi01,Bill Melchionni*,15,5,10,.333,13,5,8,.385,2,0,2,.000
+washitr01,Trooper Washington*,15,5,10,.333,13,5,8,.385,2,0,2,.000
+lackebo01,Bob Lackey,15,5,10,.333,13,5,8,.385,2,0,2,.000
+paultbi01,Billy Paultz*,15,5,10,.333,13,5,8,.385,2,0,2,.000
+choneji01,Jim Chones,14,4,10,.286,12,4,8,.333,2,0,2,.000
+baumjo01,Johnny Baum,11,2,9,.182,9,2,7,.222,2,0,2,.000
+rochejo01,John Roche,11,3,8,.273,10,3,7,.300,1,0,1,.000
+gregoga01,Gary Gregor,8,1,7,.125,8,1,7,.125,0,0,0,
+taylobr01,Brian Taylor*,5,1,4,.200,3,1,2,.333,2,0,2,.000
+mahonbr01,Brian Mahoney,3,2,1,.667,3,2,1,.667,0,0,0,
+ardji01,Jim Ard*,3,1,2,.333,3,1,2,.333,0,0,0,

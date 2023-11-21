@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+henrido01,Don Henriksen*,17,4,13,.235,16,4,12,.250,1,0,1,.000
+baechji01,Jim Baechtold*,17,4,13,.235,16,4,12,.250,1,0,1,.000
+hoffmpa01,Paul Hoffman*,17,4,13,.235,16,4,12,.250,1,0,1,.000
+barksdo01,Don Barksdale,12,3,9,.250,12,3,9,.250,0,0,0,
+milleed01,Eddie Miller,11,1,10,.091,10,1,9,.100,1,0,1,.000
+kerrija01,Jack Kerris*,11,1,10,.091,10,1,9,.100,1,0,1,.000
+obriera01,Ralph O'Brien,10,1,9,.100,10,1,9,.100,0,0,0,
+lumppra01,Ray Lumpp,9,1,8,.111,8,1,7,.125,1,0,1,.000
+buntdi01,Dick Bunt,8,1,7,.125,7,1,6,.143,1,0,1,.000
+osheake01,Kevin O'Shea*,6,3,3,.500,6,3,3,.500,0,0,0,
+ratkoge01,George Ratkovicz*,6,3,3,.500,6,3,3,.500,0,0,0,
+miasest01,Stan Miasek*,6,3,3,.500,6,3,3,.500,0,0,0,
+kudelfr01,Frank Kudelka*,6,3,3,.500,6,3,3,.500,0,0,0,
+scolafr01,Fred Scolari*,6,3,3,.500,6,3,3,.500,0,0,0,
+minorda01,Dave Minor*,5,3,2,.600,5,3,2,.600,0,0,0,

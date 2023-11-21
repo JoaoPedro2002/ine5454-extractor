@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+barnhle01,Leo Barnhorst,67,24,43,.358,65,24,41,.369,2,0,2,.000
+lavoybo01,Bob Lavoy*,66,24,42,.364,64,24,40,.375,2,0,2,.000
+grabojo01,Joe Graboski*,66,24,42,.364,64,24,40,.375,2,0,2,.000
+walthpa01,Paul Walther*,63,22,41,.349,61,22,39,.361,2,0,2,.000
+toshebi01,Bill Tosheff,63,22,41,.349,61,22,39,.361,2,0,2,.000
+paytome01,Mel Payton,62,23,39,.371,60,23,37,.383,2,0,2,.000
+zawolze01,Zeke Zawoluk,43,16,27,.372,41,16,25,.390,2,0,2,.000
+mikaned01,Ed Mikan*,42,13,29,.310,40,13,27,.325,2,0,2,.000
+obriera01,Ralph O'Brien,29,7,22,.241,29,7,22,.241,0,0,0,
+hanrado01,Don Hanrahan,13,3,10,.231,13,3,10,.231,0,0,0,
+hermskl01,Kleggie Hermsen*,4,0,4,.000,4,0,4,.000,0,0,0,
+naberbo01,Bob Naber,3,0,3,.000,3,0,3,.000,0,0,0,

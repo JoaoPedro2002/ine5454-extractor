@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+wesleda01,David Wesley,50,23,27,.460,46,22,24,.478,4,1,3,.250
+reidjr01,J.R. Reid,49,24,25,.490,45,23,22,.511,4,1,3,.250
+ricegl01,Glen Rice,43,24,19,.558,39,23,16,.590,4,1,3,.250
+masonan01,Anthony Mason,42,23,19,.548,38,22,16,.579,4,1,3,.250
+geigema01,Matt Geiger,42,24,18,.571,39,23,16,.590,3,1,2,.333
+armstbj01,B.J. Armstrong,40,19,21,.475,36,18,18,.500,4,1,3,.250
+phillbo01,Bobby Phills,37,17,20,.459,33,16,17,.485,4,1,3,.250
+beckco01,Corey Beck,32,18,14,.562,28,17,11,.607,4,1,3,.250
+divacvl01,Vlade Divac,25,13,12,.520,21,12,9,.571,4,1,3,.250
+royaldo01,Donald Royal,21,13,8,.619,18,12,6,.667,3,1,2,.333
+maxweve01,Vernon Maxwell,17,11,6,.647,17,11,6,.647,0,0,0,
+curryde01,Dell Curry,17,8,9,.471,13,7,6,.538,4,1,3,.250
+farmeto01,Tony Farmer,15,8,7,.533,15,8,7,.533,0,0,0,
+persoch01,Chuck Person,8,0,8,.000,8,0,8,.000,0,0,0,
+brownch01,Chucky Brown,8,0,8,.000,8,0,8,.000,0,0,0,
+davisri01,Ricky Davis,8,0,8,.000,8,0,8,.000,0,0,0,
+shackch01,Charles Shackleford,7,0,7,.000,7,0,7,.000,0,0,0,
+millebr01,Brad Miller,7,0,7,.000,7,0,7,.000,0,0,0,
+colemde01,Derrick Coleman,7,0,7,.000,7,0,7,.000,0,0,0,
+recasel01,Eldridge Recasner,6,0,6,.000,6,0,6,.000,0,0,0,
+wolfjo01,Joe Wolf,2,0,2,.000,2,0,2,.000,0,0,0,
+grayeje01,Jeff Grayer,1,1,0,1.000,1,1,0,1.000,0,0,0,
+mcdonmi01,Michael McDonald,1,1,0,1.000,1,1,0,1.000,0,0,0,

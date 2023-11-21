@@ -1,0 +1,14 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+moedo01,Doug Moe,80,48,32,.600,75,46,29,.613,5,2,3,.400
+brownla01,Larry Brown*,80,48,32,.600,75,46,29,.613,5,2,3,.400
+jonesji01,Jimmy Jones,80,48,32,.600,75,46,29,.613,5,2,3,.400
+bransje01,Jesse Branson,80,48,32,.600,75,46,29,.613,5,2,3,.400
+govange01,Gerald Govan*,78,48,30,.615,73,46,27,.630,5,2,3,.400
+morelja01,Jackie Moreland*,78,46,32,.590,73,44,29,.603,5,2,3,.400
+robbire01,Red Robbins*,75,46,29,.613,70,44,26,.629,5,2,3,.400
+praddma01,Mal Pradd*,26,18,8,.692,25,18,7,.720,1,0,1,.000
+comeajo01,John Comeaux*,24,17,7,.708,24,17,7,.708,0,0,0,
+widbyro01,Ron Widby*,18,13,5,.722,16,12,4,.750,2,1,1,.500
+dicksjo01,John Dickson*,18,14,4,.778,18,14,4,.778,0,0,0,
+stroure01,Red Stroud,7,7,0,1.000,7,7,0,1.000,0,0,0,
+,,1,0,1,.000,1,0,1,.000,0,0,0,

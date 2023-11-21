@@ -1,0 +1,30 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+gallaha01,Harry Gallatin*,318,184,134,.579,285,167,118,.586,33,17,16,.515
+simmoco01,Connie Simmons*,305,177,128,.580,272,160,112,.588,33,17,16,.515
+mcguidi01,Dick McGuire*,301,177,124,.588,268,160,108,.597,33,17,16,.515
+cliftna01,Nat Clifton*,253,146,107,.577,225,132,93,.587,28,14,14,.500
+vandeer01,Ernie Vandeweghe*,218,138,80,.633,189,122,67,.646,29,16,13,.552
+braunca01,Carl Braun*,195,118,77,.605,176,109,67,.619,19,9,10,.474
+lumppra01,Ray Lumpp,175,97,78,.554,157,87,70,.554,18,10,8,.556
+mcguial01,Alfred McGuire*,148,88,60,.595,138,82,56,.594,10,6,4,.600
+zasloma01,Max Zaslofsky*,147,82,65,.558,133,74,59,.556,14,8,6,.571
+kaftage01,George Kaftan*,95,50,45,.526,86,45,41,.523,9,5,4,.556
+rittete01,Tex Ritter*,92,49,43,.533,84,44,40,.524,8,5,3,.625
+noelpa01,Paul Noel*,57,33,24,.579,52,30,22,.577,5,3,2,.600
+baechji01,Jim Baechtold*,53,29,24,.547,50,29,21,.580,3,0,3,.000
+vanbrbu01,Butch van Breda Kolff*,48,29,19,.604,47,29,18,.617,1,0,1,.000
+donovha01,Harry Donovan*,40,19,21,.475,37,17,20,.459,3,2,1,.667
+lavelto01,Tony Lavelli*,32,17,15,.531,29,16,13,.552,3,1,2,.333
+schaufr01,Fred Schaus*,27,11,16,.407,24,11,13,.458,3,0,3,.000
+ackerdo01,Don Ackerman,26,9,17,.346,23,9,14,.391,3,0,3,.000
+surhodi01,Dick Surhoff*,25,12,13,.480,21,11,10,.524,4,1,3,.250
+jamesge01,Gene James*,22,12,10,.545,21,11,10,.524,1,1,0,1.000
+buntdi01,Dick Bunt,15,9,6,.600,15,9,6,.600,0,0,0,
+raikesh01,Sherwin Raiken,10,4,6,.400,6,2,4,.333,4,2,2,.500
+scherhe01,Herb Scherer*,5,0,5,.000,5,0,5,.000,0,0,0,
+smithed01,Ed Smith*,5,3,2,.600,5,3,2,.600,0,0,0,
+smythjo01,Joe Smyth,4,1,3,.250,4,1,3,.250,0,0,0,
+polsora01,Ralph Polson,3,2,1,.667,3,2,1,.667,0,0,0,
+ellefra01,Ray Ellefson,3,1,2,.333,3,1,2,.333,0,0,0,
+fleisje01,Jerry Fleishman*,2,0,2,.000,0,0,0,,2,0,2,.000
+barteed01,Ed Bartels*,1,1,0,1.000,1,1,0,1.000,0,0,0,

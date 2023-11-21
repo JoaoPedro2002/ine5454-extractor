@@ -1,0 +1,11 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+crawffr01,Freddie Crawford,31,24,7,.774,28,21,7,.750,3,3,0,1.000
+eganjo01,Johnny Egan*,31,24,7,.774,28,21,7,.750,3,3,0,1.000
+countme01,Mel Counts,31,24,7,.774,28,21,7,.750,3,3,0,1.000
+hewitbi01,Bill Hewitt,30,23,7,.767,27,20,7,.741,3,3,0,1.000
+chambwi01,Wilt Chamberlain,30,23,7,.767,27,20,7,.741,3,3,0,1.000
+hawkito01,Tom Hawkins*,28,21,7,.750,25,18,7,.720,3,3,0,1.000
+erickke01,Keith Erickson,28,22,6,.786,25,19,6,.760,3,3,0,1.000
+andercl01,Cliff Anderson,26,20,6,.769,23,17,6,.739,3,3,0,1.000
+bayloel01,Elgin Baylor,26,20,6,.769,23,17,6,.739,3,3,0,1.000
+westje01,Jerry West,22,19,3,.864,19,16,3,.842,3,3,0,1.000

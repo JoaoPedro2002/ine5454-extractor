@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+willibu01,Buck Williams,50,28,22,.560,48,28,20,.583,2,0,2,.000
+cookda01,Darwin Cook,50,28,22,.560,48,28,20,.583,2,0,2,.000
+dawkida01,Darryl Dawkins,49,28,21,.571,47,28,19,.596,2,0,2,.000
+gminsmi01,Mike Gminski,49,27,22,.551,47,27,20,.574,2,0,2,.000
+walkefo01,Foots Walker,48,27,21,.562,46,27,19,.587,2,0,2,.000
+kingal01,Albert King,47,25,22,.532,45,25,20,.556,2,0,2,.000
+elmorle01,Len Elmore,47,26,21,.553,45,26,19,.578,2,0,2,.000
+birdsot01,Otis Birdsong,35,21,14,.600,33,21,12,.636,2,0,2,.000
+richami01,Micheal Ray Richardson,25,12,13,.480,23,12,11,.522,2,0,2,.000
+okoremi01,Mike O'Koren,24,11,13,.458,22,11,11,.500,2,0,2,.000
+floydsl01,Sleepy Floyd,18,12,6,.667,18,12,6,.667,0,0,0,
+johnsmi01,Mickey Johnson,16,11,5,.688,16,11,5,.688,0,0,0,
+willobi01,Bill Willoughby*,10,5,5,.500,10,5,5,.500,0,0,0,
+vanbrja01,Jan van Breda Kolff,9,6,3,.667,9,6,3,.667,0,0,0,
+fordph01,Phil Ford,7,4,3,.571,7,4,3,.571,0,0,0,
+baileja01,James Bailey,6,3,3,.500,6,3,3,.500,0,0,0,

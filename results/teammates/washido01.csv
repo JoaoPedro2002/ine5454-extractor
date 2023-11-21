@@ -1,0 +1,20 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jonesbo01,Bobby Jones,54,43,11,.796,50,41,9,.820,4,2,2,.500
+robisda01,Dave Robisch*,54,43,11,.796,50,41,9,.820,4,2,2,.500
+vanbrja01,Jan van Breda Kolff,53,43,10,.811,50,41,9,.820,3,2,1,.667
+beckby01,Byron Beck*,53,42,11,.792,49,40,9,.816,4,2,2,.500
+simpsra01,Ralph Simpson*,52,42,10,.808,48,40,8,.833,4,2,2,.500
+greenmi01,Mike Green*,51,42,9,.824,47,40,7,.851,4,2,2,.500
+taylofa01,Fatty Taylor,47,37,10,.787,43,35,8,.814,4,2,2,.500
+calvima01,Mack Calvin,47,38,9,.809,43,36,7,.837,4,2,2,.500
+terrycl01,Claude Terry*,47,37,10,.787,43,35,8,.814,4,2,2,.500
+mcfarpa01,Pat McFarland*,46,37,9,.804,43,36,7,.837,3,1,2,.333
+hamiljo01,Joe Hamilton*,6,2,4,.333,6,2,4,.333,0,0,0,
+greenst01,Steve Green,6,2,4,.333,6,2,4,.333,0,0,0,
+boonero01,Ron Boone*,6,2,4,.333,6,2,4,.333,0,0,0,
+dentora01,Randy Denton,6,2,4,.333,6,2,4,.333,0,0,0,
+eakinji01,Jim Eakins*,6,2,4,.333,6,2,4,.333,0,0,0,
+smithal01,Al Smith*,6,2,4,.333,6,2,4,.333,0,0,0,
+kennego01,Goo Kennedy*,6,2,4,.333,6,2,4,.333,0,0,0,
+rochejo01,John Roche,6,2,4,.333,6,2,4,.333,0,0,0,
+gardnke01,Ken Gardner*,4,1,3,.250,4,1,3,.250,0,0,0,

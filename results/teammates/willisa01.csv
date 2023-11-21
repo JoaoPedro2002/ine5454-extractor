@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+smithgr01,Greg Smith,67,21,46,.313,65,20,45,.308,2,1,1,.500
+chapple01,Len Chappell*,67,21,46,.313,65,20,45,.308,2,1,1,.500
+mcglojo01,Jon McGlocklin,66,19,47,.288,64,18,46,.281,2,1,1,.500
+rodgegu01,Guy Rodgers,64,19,45,.297,62,18,44,.290,2,1,1,.500
+cunnidi01,Dick Cunningham*,63,19,44,.302,61,18,43,.295,2,1,1,.500
+robinfl01,Flynn Robinson,59,19,40,.322,57,18,39,.316,2,1,1,.500
+embrywa01,Wayne Embry,51,14,37,.275,51,14,37,.275,0,0,0,
+abdulza01,Zaid Abdul-Aziz,36,13,23,.361,34,12,22,.353,2,1,1,.500
+hetzefr01,Fred Hetzel*,32,8,24,.250,32,8,24,.250,0,0,0,
+gambeda01,Dave Gambee*,22,4,18,.182,22,4,18,.182,0,0,0,
+niemari01,Rich Niemann*,17,3,14,.176,17,3,14,.176,0,0,0,
+dandrbo01,Bob Dandridge,13,6,7,.462,11,5,6,.455,2,1,1,.500
+abdulka01,Kareem Abdul-Jabbar,13,6,7,.462,11,5,6,.455,2,1,1,.500
+greacbo01,Bob Greacen*,12,6,6,.500,11,5,6,.455,1,1,0,1.000
+crawffr01,Freddie Crawford,12,6,6,.500,10,5,5,.500,2,1,1,.500
+paulkch01,Charlie Paulk*,11,4,7,.364,11,4,7,.364,0,0,0,
+weissbo01,Bob Weiss,6,1,5,.167,6,1,5,.167,0,0,0,
+lovebo01,Bob Love,6,1,5,.167,6,1,5,.167,0,0,0,

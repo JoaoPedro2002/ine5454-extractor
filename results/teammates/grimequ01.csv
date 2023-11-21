@@ -1,0 +1,26 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+quickim01,Immanuel Quickley,121,64,57,.529,115,61,54,.530,6,3,3,.500
+randlju01,Julius Randle,114,60,54,.526,106,56,50,.528,8,4,4,.500
+barrerj01,RJ Barrett,111,58,53,.523,102,54,48,.529,9,4,5,.444
+toppiob01,Obi Toppin,111,56,55,.505,102,52,50,.510,9,4,5,.444
+robinmi01,Mitchell Robinson,102,55,47,.539,93,51,42,.548,9,4,5,.444
+mcbrimi01,Miles McBride,88,46,42,.523,82,44,38,.537,6,2,4,.333
+harteis01,Isaiah Hartenstein*,80,45,35,.562,71,41,30,.577,9,4,5,.444
+simsje01,Jericho Sims,67,38,29,.567,67,38,29,.567,0,0,0,
+brunsja01,Jalen Brunson,66,38,28,.576,57,34,23,.596,9,4,5,.444
+fournev01,Evan Fournier*,63,31,32,.492,63,31,32,.492,0,0,0,
+burksal01,Alec Burks,45,21,24,.467,45,21,24,.467,0,0,0,
+hartjo01,Josh Hart,34,21,13,.618,25,17,8,.680,9,4,5,.444
+gibsota01,Taj Gibson,28,13,15,.464,28,13,15,.464,0,0,0,
+rosede01,Derrick Rose,28,11,17,.393,27,10,17,.370,1,1,0,1.000
+walkeke02,Kemba Walker*,21,9,12,.429,21,9,12,.429,0,0,0,
+reddica01,Cam Reddish,18,6,12,.333,18,6,12,.333,0,0,0,
+noelne01,Nerlens Noel,16,6,10,.375,16,6,10,.375,0,0,0,
+knoxke01,Kevin Knox*,12,4,8,.333,12,4,8,.333,0,0,0,
+mykhasv01,Svi Mykhailiuk,11,6,5,.545,11,6,5,.545,0,0,0,
+arcidry01,Ryan Arcidiacono,11,7,4,.636,11,7,4,.636,0,0,0,
+jeffrda01,DaQuan Jeffries,2,1,1,.500,0,0,0,,2,1,1,.500
+keelstr01,Trevor Keels,2,2,0,1.000,2,2,0,1.000,0,0,0,
+moonema01,Matt Mooney,1,1,0,1.000,1,1,0,1.000,0,0,0,
+seldewa01,Wayne Selden,1,1,0,1.000,1,1,0,1.000,0,0,0,
+hallty01,Tyler Hall,1,1,0,1.000,1,1,0,1.000,0,0,0,

@@ -1,0 +1,35 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+vanardi01,Dick Van Arsdale,50,20,30,.400,48,20,28,.417,2,0,2,.000
+bellawa01,Walt Bellamy,50,20,30,.400,48,20,28,.417,2,0,2,.000
+reedwi01,Willis Reed,49,20,29,.408,47,20,27,.426,2,0,2,.000
+russeca01,Cazzie Russell,48,20,28,.417,46,20,26,.435,2,0,2,.000
+stallda01,Dave Stallworth,46,21,25,.457,46,21,25,.457,0,0,0,
+barnedi01,Dick Barnett,43,21,22,.488,43,21,22,.488,0,0,0,
+komivho01,Howard Komives*,42,16,26,.381,40,16,24,.400,2,0,2,.000
+bryanem01,Em Bryant*,40,15,25,.375,38,15,23,.395,2,0,2,.000
+meschto01,Tom Meschery,36,8,28,.222,36,8,28,.222,0,0,0,
+rulebo01,Bob Rule,36,8,28,.222,36,8,28,.222,0,0,0,
+weissbo01,Bob Weiss,36,8,28,.222,36,8,28,.222,0,0,0,
+tuckeal01,Al Tucker*,36,8,28,.222,36,8,28,.222,0,0,0,
+murredo01,Dorie Murrey,35,7,28,.200,35,7,28,.200,0,0,0,
+kronto01,Tommy Kron,34,7,27,.206,34,7,27,.206,0,0,0,
+wilsoge01,George Wilson*,34,7,27,.206,34,7,27,.206,0,0,0,
+abdulma01,Walt Hazzard*,34,8,26,.235,34,8,26,.235,0,0,0,
+johnsne02,Neil Johnson*,32,11,21,.344,30,11,19,.367,2,0,2,.000
+olsenbu01,Bud Olsen,32,5,27,.156,32,5,27,.156,0,0,0,
+thornro01,Rod Thorn*,30,7,23,.233,30,7,23,.233,0,0,0,
+deutsda01,Dave Deutsch,19,7,12,.368,18,7,11,.389,1,0,1,.000
+lottpl01,Plummer Lott*,19,3,16,.158,19,3,16,.158,0,0,0,
+crawffr01,Freddie Crawford,15,2,13,.133,13,2,11,.154,2,0,2,.000
+moliswa01,Wayne Molis*,14,5,9,.357,13,5,8,.385,1,0,1,.000
+carrida01,Darel Carrier*,2,1,1,.500,2,1,1,.500,0,0,0,
+lacefre01,Reggie Lacefield*,2,1,1,.500,2,1,1,.500,0,0,0,
+rascobo01,Bobby Rascoe,2,1,1,.500,2,1,1,.500,0,0,0,
+dampilo01,Louie Dampier*,2,1,1,.500,2,1,1,.500,0,0,0,
+leaksma01,Manny Leaks*,2,1,1,.500,2,1,1,.500,0,0,0,
+ligongo01,Goose Ligon,2,1,1,.500,2,1,1,.500,0,0,0,
+caldwji01,Jim Caldwell,2,1,1,.500,2,1,1,.500,0,0,0,
+moorege01,Gene Moore*,2,1,1,.500,2,1,1,.500,0,0,0,
+jonesjo01,Johnny Jones,2,1,1,.500,2,1,1,.500,0,0,0,
+mahafra01,Randy Mahaffey,2,1,1,.500,2,1,1,.500,0,0,0,
+smithsa01,Sam Smith*,2,1,1,.500,2,1,1,.500,0,0,0,

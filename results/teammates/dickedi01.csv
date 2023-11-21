@@ -1,0 +1,10 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+brannbo01,Bob Brannum,47,29,18,.617,44,28,16,.636,3,1,2,.333
+donhabo01,Bob Donham,47,29,18,.617,44,28,16,.636,3,1,2,.333
+macaued01,Ed Macauley*,47,29,18,.617,44,28,16,.636,3,1,2,.333
+cousybo01,Bob Cousy,47,29,18,.617,44,28,16,.636,3,1,2,.333
+harribo01,Bob Harris,47,29,18,.617,44,28,16,.636,3,1,2,.333
+coopech01,Chuck Cooper,47,29,18,.617,44,28,16,.636,3,1,2,.333
+mahnkjo01,John Mahnken*,46,29,17,.630,43,28,15,.651,3,1,2,.333
+mckinbo01,Bones McKinney,45,28,17,.622,42,27,15,.643,3,1,2,.333
+sharmbi01,Bill Sharman,42,28,14,.667,41,27,14,.659,1,1,0,1.000

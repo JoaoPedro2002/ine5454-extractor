@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+schecos01,Ossie Schectman*,3,1,2,.333,3,1,2,.333,0,0,0,
+byrneto01,Tommy Byrnes*,3,1,2,.333,3,1,2,.333,0,0,0,
+hertzso01,Sonny Hertzberg*,3,1,2,.333,3,1,2,.333,0,0,0,
+cluggbo01,Bob Cluggish*,3,1,2,.333,3,1,2,.333,0,0,0,
+fitzgbo01,Bob Fitzgerald*,3,1,2,.333,3,1,2,.333,0,0,0,
+gottlle01,Leo Gottlieb*,3,1,2,.333,3,1,2,.333,0,0,0,
+stutzst01,Stan Stutz*,3,1,2,.333,3,1,2,.333,0,0,0,
+palmebu01,Bud Palmer,3,1,2,.333,3,1,2,.333,0,0,0,
+murphjo01,John Murphy*,2,0,2,.000,2,0,2,.000,0,0,0,
+murphdi01,Dick Murphy*,2,1,1,.500,2,1,1,.500,0,0,0,
+militna01,Nat Militzok*,2,1,1,.500,2,1,1,.500,0,0,0,
+freyfr01,Frido Frey,1,0,1,.000,1,0,1,.000,0,0,0,

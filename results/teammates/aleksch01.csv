@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+floydsl01,Sleepy Floyd,74,19,55,.257,74,19,55,.257,0,0,0,
+connele01,Lester Conner,72,19,53,.264,72,19,53,.264,0,0,0,
+smithla01,Larry Smith,72,19,53,.264,72,19,53,.264,0,0,0,
+whiteje01,Jerome Whitehead,71,18,53,.254,71,18,53,.254,0,0,0,
+shortpu01,Purvis Short,70,18,52,.257,70,18,52,.257,0,0,0,
+wilsoot01,Othell Wilson,66,18,48,.273,66,18,48,.273,0,0,0,
+johnsmi01,Mickey Johnson,61,15,46,.246,61,15,46,.246,0,0,0,
+plummga01,Gary Plummer,58,14,44,.241,58,14,44,.241,0,0,0,
+bratzmi01,Mike Bratz,51,12,39,.235,51,12,39,.235,0,0,0,
+thibepe01,Peter Thibeaux,46,9,37,.196,46,9,37,.196,0,0,0,
+burttst01,Steve Burtt,42,9,33,.214,42,9,33,.214,0,0,0,
+teaglte01,Terry Teagle,16,4,12,.250,16,4,12,.250,0,0,0,

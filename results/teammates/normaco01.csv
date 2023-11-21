@@ -1,0 +1,30 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+freewo01,World B. Free,79,41,38,.519,78,40,38,.513,1,1,0,1.000
+leecl01,Clyde Lee,78,39,39,.500,77,38,39,.494,1,1,0,1.000
+cartefr01,Fred Carter,78,39,39,.500,77,38,39,.494,1,1,0,1.000
+catchha01,Harvey Catchings,77,38,39,.494,76,37,39,.487,1,1,0,1.000
+collido01,Doug Collins,73,36,37,.493,72,35,37,.486,1,1,0,1.000
+mixst01,Steve Mix,67,38,29,.567,66,37,29,.561,1,1,0,1.000
+mcginge01,George McGinnis,63,38,25,.603,62,37,25,.597,1,1,0,1.000
+bryanjo01,Joe Bryant,59,34,25,.576,58,33,25,.569,1,1,0,1.000
+cunnibi01,Billy Cunningham,32,15,17,.469,32,15,17,.469,0,0,0,
+dawkida01,Darryl Dawkins,31,15,16,.484,31,15,16,.484,0,0,0,
+ellisle01,Leroy Ellis,30,10,20,.333,29,9,20,.310,1,1,0,1.000
+washike01,Kermit Washington,22,8,14,.364,22,8,14,.364,0,0,0,
+kunneke01,Kevin Kunnert,22,8,14,.364,22,8,14,.364,0,0,0,
+smithra01,Randy Smith,22,8,14,.364,22,8,14,.364,0,0,0,
+weathni01,Nick Weatherspoon,22,8,14,.364,22,8,14,.364,0,0,0,
+natersw01,Swen Nater*,22,8,14,.364,22,8,14,.364,0,0,0,
+wickssi01,Sidney Wicks,21,7,14,.333,21,7,14,.333,0,0,0,
+boydfr01,Freddie Boyd,16,3,13,.188,16,3,13,.188,0,0,0,
+baskeje01,Jerry Baskerville,16,5,11,.312,16,5,11,.312,0,0,0,
+bigelbo01,Bob Bigelow,13,4,9,.308,13,4,9,.308,0,0,0,
+willifr01,Freeman Williams,13,2,11,.154,13,2,11,.154,0,0,0,
+smithdo02,Don Smith,12,1,11,.083,12,1,11,.083,0,0,0,
+bristal01,Allan Bristow,12,1,11,.083,12,1,11,.083,0,0,0,
+durreke01,Ken Durrett,10,1,9,.100,10,1,9,.100,0,0,0,
+joneswa02,Wali Jones,9,5,4,.556,8,4,4,.500,1,1,0,1.000
+tschojo01,John Tschogl,7,0,7,.000,7,0,7,.000,0,0,0,
+whiteje01,Jerome Whitehead,6,1,5,.167,6,1,5,.167,0,0,0,
+lloydsc01,Scott Lloyd,5,2,3,.400,5,2,3,.400,0,0,0,
+pietkst01,Stan Pietkiewicz,4,0,4,.000,4,0,4,.000,0,0,0,

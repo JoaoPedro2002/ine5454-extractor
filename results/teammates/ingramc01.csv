@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+krebsji01,Jim Krebs*,23,9,14,.391,23,9,14,.391,0,0,0,
+devlico01,Corky Devlin*,23,9,14,.391,23,9,14,.391,0,0,0,
+foustla01,Larry Foust*,23,9,14,.391,23,9,14,.391,0,0,0,
+mikkeve01,Vern Mikkelsen*,23,9,14,.391,23,9,14,.391,0,0,0,
+garmadi01,Dick Garmaker*,23,9,14,.391,23,9,14,.391,0,0,0,
+flemied01,Ed Fleming,23,9,14,.391,23,9,14,.391,0,0,0,
+leonasl01,Slick Leonard*,22,8,14,.364,22,8,14,.364,0,0,0,
+hundlho01,Hot Rod Hundley*,20,7,13,.350,20,7,13,.350,0,0,0,
+schnidi01,Dick Schnittker*,11,5,6,.455,11,5,6,.455,0,0,0,
+eriasbo01,Bo Erias,11,4,7,.364,11,4,7,.364,0,0,0,
+spoelar01,Art Spoelstra,10,5,5,.500,10,5,5,.500,0,0,0,
+selvyfr01,Frank Selvy*,5,2,3,.400,5,2,3,.400,0,0,0,

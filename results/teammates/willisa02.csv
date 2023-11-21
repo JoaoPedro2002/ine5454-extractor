@@ -1,0 +1,43 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+carrojo01,Joe Barry Carroll,137,63,74,.460,137,63,74,.460,0,0,0,
+romarlo01,Lorenzo Romar,137,63,74,.460,137,63,74,.460,0,0,0,
+shortpu01,Purvis Short,122,60,62,.492,122,60,62,.492,0,0,0,
+ervinju01,Julius Erving*,116,76,40,.655,107,72,35,.673,9,4,5,.444
+jonesbo01,Bobby Jones,116,75,41,.647,107,71,36,.664,9,4,5,.444
+toneyan01,Andrew Toney,115,78,37,.678,106,74,32,.698,9,4,5,.444
+cheekma01,Maurice Cheeks,115,75,40,.652,106,71,35,.670,9,4,5,.444
+malonmo01,Moses Malone,111,74,37,.667,102,70,32,.686,9,4,5,.444
+richacl01,Clint Richardson,107,71,36,.664,98,67,31,.684,9,4,5,.444
+johnscl01,Clemon Johnson,103,70,33,.680,94,66,28,.702,9,4,5,.444
+brownri01,Rickey Brown,102,51,51,.500,102,51,51,.500,0,0,0,
+smithla01,Larry Smith,101,51,50,.505,101,51,50,.505,0,0,0,
+threase01,Sedale Threatt,93,58,35,.624,86,55,31,.640,7,3,4,.429
+connele01,Lester Conner,76,29,47,.382,76,29,47,.382,0,0,0,
+lloydle01,Lewis Lloyd,75,28,47,.373,75,28,47,.373,0,0,0,
+iavarma01,Marc Iavaroni,75,48,27,.640,72,47,25,.653,3,1,2,.333
+freewo01,World B. Free,73,40,33,.548,73,40,33,.548,0,0,0,
+kingbe01,Bernard King,58,32,26,.552,58,32,26,.552,0,0,0,
+hassejo01,Joe Hassett*,56,29,27,.518,56,29,27,.518,0,0,0,
+englech01,Chris Engler,55,21,34,.382,55,21,34,.382,0,0,0,
+galemi01,Mike Gale*,52,29,23,.558,52,29,23,.558,0,0,0,
+barklch01,Charles Barkley,51,34,17,.667,46,32,14,.696,5,2,3,.400
+edwarfr01,Franklin Edwards,50,30,20,.600,50,30,20,.600,0,0,0,
+parkeso01,Sonny Parker,49,27,22,.551,49,27,22,.551,0,0,0,
+brewero01,Ron Brewer,48,15,33,.312,48,15,33,.312,0,0,0,
+floydsl01,Sleepy Floyd,40,14,26,.350,40,14,26,.350,0,0,0,
+johnsmi01,Mickey Johnson,37,12,25,.324,37,12,25,.324,0,0,0,
+johnsge03,George Johnson,31,19,12,.613,27,17,10,.630,4,2,2,.500
+woodle01,Leon Wood,31,23,8,.742,27,21,6,.778,4,2,2,.500
+richami01,Micheal Ray Richardson,31,14,17,.452,31,14,17,.452,0,0,0,
+rautile01,Leo Rautins,27,16,11,.593,24,15,9,.625,3,1,2,.333
+smithde02,Derek Smith*,26,9,17,.346,26,9,17,.346,0,0,0,
+mcdowha01,Hank McDowell,23,11,12,.478,23,11,12,.478,0,0,0,
+matthwe01,Wes Matthews,17,10,7,.588,13,8,5,.615,4,2,2,.500
+kenonla01,Larry Kenon*,11,4,7,.364,11,4,7,.364,0,0,0,
+hayesst01,Steve Hayes,9,3,6,.333,9,3,6,.333,0,0,0,
+mannipa01,Pace Mannion,7,4,3,.571,7,4,3,.571,0,0,0,
+bratzmi01,Mike Bratz,7,4,3,.571,7,4,3,.571,0,0,0,
+tillida01,Darren Tillis,6,4,2,.667,6,4,2,.667,0,0,0,
+duerote01,Terry Duerod,5,3,2,.600,5,3,2,.600,0,0,0,
+kuczebr01,Bruce Kuczenski,3,1,2,.333,3,1,2,.333,0,0,0,
+jonesch01,Charles Jones,1,1,0,1.000,1,1,0,1.000,0,0,0,

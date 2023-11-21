@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+eddledi01,Dike Eddleman,24,14,10,.583,22,13,9,.591,2,1,1,.500
+walkebr01,Brady Walker*,24,11,13,.458,24,11,13,.458,0,0,0,
+kaftage01,George Kaftan*,24,11,13,.458,24,11,13,.458,0,0,0,
+hertzso01,Sonny Hertzberg*,24,11,13,.458,24,11,13,.458,0,0,0,
+todormi01,Mike Todorovich,24,14,10,.583,22,13,9,.591,2,1,1,.500
+shannho01,Howie Shannon,24,11,13,.458,24,11,13,.458,0,0,0,
+kinnebo01,Bob Kinney*,23,11,12,.478,23,11,12,.478,0,0,0,
+raydo01,Don Ray*,23,14,9,.609,21,13,8,.619,2,1,1,.500
+gibsode01,Dee Gibson,23,14,9,.609,21,13,8,.619,2,1,1,.500
+perkiwa01,Warren Perkins*,22,12,10,.545,20,11,9,.550,2,1,1,.500
+leedeed01,Ed Leede*,22,9,13,.409,22,9,13,.409,0,0,0,
+seminji01,Jim Seminoff,22,10,12,.455,22,10,12,.455,0,0,0,
+vancege01,Gene Vance*,22,14,8,.636,20,13,7,.650,2,1,1,.500
+lavelto01,Tony Lavelli*,21,10,11,.476,21,10,11,.476,0,0,0,
+oconnde01,Dermie O'Connell*,21,10,11,.476,21,10,11,.476,0,0,0,
+dollbo01,Bob Doll,21,9,12,.429,21,9,12,.429,0,0,0,
+kirkwa01,Walt Kirk,20,11,9,.550,18,10,8,.556,2,1,1,.500
+wiermu01,Murray Wier,20,11,9,.550,18,10,8,.556,2,1,1,.500
+henrybi01,Bill Henry,19,10,9,.526,17,9,8,.529,2,1,1,.500
+nichoja01,Jack Nichols*,18,10,8,.556,16,9,7,.562,2,1,1,.500
+ottendo01,Don Otten,6,4,2,.667,6,4,2,.667,0,0,0,
+mullajo01,Joe Mullaney*,4,3,1,.750,4,3,1,.750,0,0,0,
+nostrge01,George Nostrand,1,1,0,1.000,1,1,0,1.000,0,0,0,

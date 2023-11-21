@@ -1,0 +1,17 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+morrima01,Max Morris,64,23,41,.359,61,22,39,.361,3,1,2,.333
+schoomi01,Milt Schoon*,64,23,41,.359,61,22,39,.361,3,1,2,.333
+sobekch01,Chips Sobek,62,21,41,.339,59,20,39,.339,3,1,2,.333
+brannbo01,Bob Brannum,61,22,39,.361,58,21,37,.362,3,1,2,.333
+jorgeno01,Noble Jorgensen*,56,20,36,.357,53,19,34,.358,3,1,2,.333
+lautewa01,Walt Lautenbach,55,20,35,.364,55,20,35,.364,0,0,0,
+cookbo01,Bobby Cook*,51,20,31,.392,48,19,29,.396,3,1,2,.333
+phelaja01,Jack Phelan*,41,12,29,.293,38,11,27,.289,3,1,2,.333
+schuldi01,Dick Schulz*,31,8,23,.258,28,7,21,.250,3,1,2,.333
+mazzama01,Matt Mazza*,25,8,17,.320,25,8,17,.320,0,0,0,
+patrist01,Stan Patrick*,20,4,16,.200,18,4,14,.222,2,0,2,.000
+selbogl01,Glen Selbo*,12,4,8,.333,12,4,8,.333,0,0,0,
+wagneda01,Danny Wagner,11,6,5,.545,11,6,5,.545,0,0,0,
+chanejo01,John Chaney*,9,4,5,.444,9,4,5,.444,0,0,0,
+woodbo01,Bob Wood,6,3,3,.500,6,3,3,.500,0,0,0,
+gratedo01,Don Grate,2,1,1,.500,2,1,1,.500,0,0,0,

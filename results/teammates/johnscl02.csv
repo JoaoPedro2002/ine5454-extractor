@@ -1,0 +1,28 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+coopemi01,Michael Cooper,69,53,16,.768,55,43,12,.782,14,10,4,.714
+wilkeja01,Jamaal Wilkes,67,52,15,.776,53,42,11,.792,14,10,4,.714
+rambiku01,Kurt Rambis,67,51,16,.761,53,41,12,.774,14,10,4,.714
+johnsma02,Magic Johnson,67,52,15,.776,53,42,11,.792,14,10,4,.714
+abdulka01,Kareem Abdul-Jabbar,67,52,15,.776,53,42,11,.792,14,10,4,.714
+nixonno01,Norm Nixon,66,51,15,.773,52,41,11,.788,14,10,4,.714
+mcadobo01,Bob McAdoo,49,40,9,.816,37,31,6,.838,12,9,3,.750
+worthja01,James Worthy,44,35,9,.795,44,35,9,.795,0,0,0,
+landsma01,Mark Landsberger,43,34,9,.791,32,27,5,.844,11,7,4,.636
+mcgeemi01,Mike McGee,38,29,9,.763,29,23,6,.793,9,6,3,.667
+chambto01,Tom Chambers,28,15,13,.536,25,14,11,.560,3,1,2,.333
+sikmaja01,Jack Sikma,28,15,13,.536,25,14,11,.560,3,1,2,.333
+woodal01,Al Wood,28,15,13,.536,25,14,11,.560,3,1,2,.333
+willigu01,Gus Williams,27,15,12,.556,24,14,10,.583,3,1,2,.333
+hawesst01,Steve Hawes,27,15,12,.556,24,14,10,.583,3,1,2,.333
+vraneda01,Danny Vranes,27,15,12,.556,24,14,10,.583,3,1,2,.333
+sundvjo01,Jon Sundvold,25,14,11,.560,22,13,9,.591,3,1,2,.333
+jordaed01,Eddie Jordan,25,22,3,.880,22,20,2,.909,3,2,1,.667
+kingre01,Reggie King,23,14,9,.609,20,13,7,.650,3,1,2,.333
+mccrasc01,Scooter McCray,22,11,11,.500,19,10,9,.526,3,1,2,.333
+brownfr01,Fred Brown,21,11,10,.524,18,10,8,.556,3,1,2,.333
+jonesdw01,Dwight Jones,20,13,7,.650,17,11,6,.647,3,2,1,.667
+hayesst01,Steve Hayes,18,11,7,.611,18,11,7,.611,0,0,0,
+breweji01,Jim Brewer,12,10,2,.833,7,6,1,.857,5,4,1,.800
+mixst01,Steve Mix,4,2,2,.500,1,0,1,.000,3,2,1,.667
+batesbi01,Billy Ray Bates,3,1,2,.333,3,1,2,.333,0,0,0,
+mckenke01,Kevin McKenna,2,2,0,1.000,2,2,0,1.000,0,0,0,

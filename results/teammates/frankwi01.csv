@@ -1,0 +1,33 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+eakinji01,Jim Eakins*,73,32,41,.438,73,32,41,.438,0,0,0,
+twardda01,Dave Twardzik,72,32,40,.444,72,32,40,.444,0,0,0,
+barrmi01,Mike Barr,70,32,38,.457,70,32,38,.457,0,0,0,
+irvinge01,George Irvine*,69,31,38,.449,69,31,38,.449,0,0,0,
+taylofa01,Fatty Taylor,68,31,37,.456,68,31,37,.456,0,0,0,
+willibe01,Bernie Williams,62,29,33,.468,62,29,33,.468,0,0,0,
+gervige01,George Gervin,62,34,28,.548,60,33,27,.550,2,1,1,.500
+johnsne02,Neil Johnson*,61,26,35,.426,61,26,35,.426,0,0,0,
+ervinju01,Julius Erving*,61,30,31,.492,61,30,31,.492,0,0,0,
+sojouwi01,Willie Sojourner*,54,24,30,.444,54,24,30,.444,0,0,0,
+silasja01,James Silas*,35,24,11,.686,33,23,10,.697,2,1,1,.500
+karlge01,George Karl,34,23,11,.676,33,23,10,.697,1,0,1,.000
+dietrco01,Coby Dietrick,34,24,10,.706,32,23,9,.719,2,1,1,.500
+terrych01,Chuck Terry*,25,18,7,.720,23,17,6,.739,2,1,1,.500
+jonesri01,Rich Jones*,24,17,7,.708,22,16,6,.727,2,1,1,.500
+freemdo01,Donnie Freeman*,20,14,6,.700,18,13,5,.722,2,1,1,.500
+warrebo01,Bob Warren,19,13,6,.684,19,13,6,.684,0,0,0,
+natersw01,Swen Nater*,19,12,7,.632,17,11,6,.647,2,1,1,.500
+shephbi01,Billy Shepherd*,14,6,8,.429,14,6,8,.429,0,0,0,
+mueller01,Erwin Mueller,14,5,9,.357,14,5,9,.357,0,0,0,
+ligongo01,Goose Ligon,11,4,7,.364,11,4,7,.364,0,0,0,
+kenonla01,Larry Kenon*,10,6,4,.600,10,6,4,.600,0,0,0,
+galemi01,Mike Gale*,10,6,4,.600,10,6,4,.600,0,0,0,
+paultbi01,Billy Paultz*,10,6,4,.600,10,6,4,.600,0,0,0,
+lovest01,Stan Love,10,7,3,.700,10,7,3,.700,0,0,0,
+smithke02,Ken Smith,9,5,4,.556,9,5,4,.556,0,0,0,
+wardhe01,Henry Ward,8,5,3,.625,8,5,3,.625,0,0,0,
+sandeal01,Al Sanders,4,0,4,.000,4,0,4,.000,0,0,0,
+bristal01,Allan Bristow,4,3,1,.750,4,3,1,.750,0,0,0,
+wisesk01,Skip Wise,2,2,0,1.000,2,2,0,1.000,0,0,0,
+vanzade01,Dennis Van Zant,1,1,0,1.000,1,1,0,1.000,0,0,0,
+olberma01,Mark Olberding,1,0,1,.000,1,0,1,.000,0,0,0,

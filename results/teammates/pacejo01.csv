@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+greveke01,Kevin Grevey,87,47,40,.540,78,41,37,.526,9,6,3,.667
+hayesel01,Elvin Hayes,87,47,40,.540,78,41,37,.526,9,6,3,.667
+unselwe01,Wes Unseld,83,44,39,.530,77,40,37,.519,6,4,2,.667
+wrighla01,Larry Wright,82,43,39,.524,73,37,36,.507,9,6,3,.667
+kupchmi01,Mitch Kupchak,73,42,31,.575,64,36,28,.562,9,6,3,.667
+hendeto01,Tom Henderson,70,41,29,.586,61,35,26,.574,9,6,3,.667
+ballagr01,Greg Ballard,57,30,27,.526,48,24,24,.500,9,6,3,.667
+dandrbo01,Bob Dandridge,52,28,24,.538,44,22,22,.500,8,6,2,.750
+cheniph01,Phil Chenier,50,29,21,.580,50,29,21,.580,0,0,0,
+johnsch01,Charles Johnson*,33,17,16,.515,24,11,13,.458,9,6,3,.667
+walkeph01,Phil Walker,28,16,12,.571,26,14,12,.538,2,2,0,1.000
+weissbo01,Bob Weiss,25,14,11,.560,25,14,11,.560,0,0,0,
+riordmi01,Mike Riordan,24,12,12,.500,24,12,12,.500,0,0,0,
+bingda01,Dave Bing,22,10,12,.455,22,10,12,.455,0,0,0,
+grayle01,Leonard Gray,22,13,9,.591,22,13,9,.591,0,0,0,
+robintr01,Truck Robinson,12,5,7,.417,12,5,7,.417,0,0,0,
+weathni01,Nick Weatherspoon,5,2,3,.400,5,2,3,.400,0,0,0,
+jonesji01,Jimmy Jones,2,0,2,.000,2,0,2,.000,0,0,0,

@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+russebi01,Bill Russell,29,26,3,.897,28,25,3,.893,1,1,0,1.000
+havlijo01,John Havlicek,29,26,3,.897,28,25,3,.893,1,1,0,1.000
+joneskc01,K.C. Jones*,29,26,3,.897,28,25,3,.893,1,1,0,1.000
+sandeto01,Tom Sanders*,29,26,3,.897,28,25,3,.893,1,1,0,1.000
+kimbato01,Toby Kimball,28,26,2,.929,27,25,2,.926,1,1,0,1.000
+howelba01,Bailey Howell,28,26,2,.929,27,25,2,.926,1,1,0,1.000
+nelsodo01,Don Nelson,27,25,2,.926,26,24,2,.923,1,1,0,1.000
+barneji02,Jim Barnett,27,25,2,.926,26,24,2,.923,1,1,0,1.000
+jonessa01,Sam Jones,26,24,2,.923,25,23,2,.920,1,1,0,1.000
+embrywa01,Wayne Embry,26,24,2,.923,26,24,2,.923,0,0,0,
+siegfla01,Larry Siegfried,24,21,3,.875,23,20,3,.870,1,1,0,1.000
+greensi01,Si Green*,1,0,1,.000,1,0,1,.000,0,0,0,
+naullwi01,Willie Naulls*,1,0,1,.000,1,0,1,.000,0,0,0,
+thompjo01,John Thompson,1,0,1,.000,1,0,1,.000,0,0,0,
+bonharo01,Ron Bonham*,1,0,1,.000,1,0,1,.000,0,0,0,

@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hayesel01,Elvin Hayes,211,128,83,.607,186,116,70,.624,25,12,13,.480
+cheniph01,Phil Chenier,202,124,78,.614,177,112,65,.633,25,12,13,.480
+riordmi01,Mike Riordan,201,124,77,.617,178,114,64,.640,23,10,13,.435
+unselwe01,Wes Unseld,188,114,74,.606,163,102,61,.626,25,12,13,.480
+weathni01,Nick Weatherspoon,185,113,72,.611,160,101,59,.631,25,12,13,.480
+robintr01,Truck Robinson,152,94,58,.618,134,85,49,.634,18,9,9,.500
+porteke01,Kevin Porter,140,87,53,.621,120,78,42,.650,20,9,11,.450
+jonesji01,Jimmy Jones,132,84,48,.636,118,75,43,.636,14,9,5,.643
+haskicl01,Clem Haskins,125,76,49,.608,112,71,41,.634,13,5,8,.385
+bingda01,Dave Bing,72,42,30,.583,67,39,28,.582,5,3,2,.600
+gibbsdi01,Dick Gibbs,62,43,19,.694,56,40,16,.714,6,3,3,.500
+greveke01,Kevin Grevey,52,31,21,.596,50,30,20,.600,2,1,1,.500
+duvalde01,Dennis DuVal,42,35,7,.833,37,31,6,.838,5,4,1,.800
+nelsolo01,Louie Nelson*,39,22,17,.564,39,22,17,.564,0,0,0,
+clarkar01,Archie Clark*,38,20,18,.526,31,17,14,.548,7,3,4,.429
+stallda01,Dave Stallworth,32,16,16,.500,32,16,16,.500,0,0,0,
+leaksma01,Manny Leaks*,31,17,14,.548,29,15,14,.517,2,2,0,1.000
+weslewa01,Walt Wesley,30,14,16,.467,29,14,15,.483,1,0,1,.000
+kroppto01,Tom Kropp,24,16,8,.667,23,16,7,.696,1,0,1,.000
+rinalri01,Rich Rinaldi,6,4,2,.667,6,4,2,.667,0,0,0,
+patteto01,Tom Patterson,2,1,1,.500,2,1,1,.500,0,0,0,
+washist01,Stan Washington,1,1,0,1.000,1,1,0,1.000,0,0,0,

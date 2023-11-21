@@ -1,0 +1,25 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+moedo01,Doug Moe,95,58,37,.611,78,48,30,.615,17,10,7,.588
+brownla01,Larry Brown*,95,58,37,.611,78,48,30,.615,17,10,7,.588
+jonesji01,Jimmy Jones,95,58,37,.611,78,48,30,.615,17,10,7,.588
+govange01,Gerald Govan*,93,58,35,.624,76,48,28,.632,17,10,7,.588
+morelja01,Jackie Moreland*,93,56,37,.602,76,46,30,.605,17,10,7,.588
+robbire01,Red Robbins*,90,56,34,.622,73,46,27,.630,17,10,7,.588
+mitchle01,Leland Mitchell*,80,48,32,.600,75,46,29,.613,5,2,3,.400
+praddma01,Mal Pradd*,31,21,10,.677,25,18,7,.720,6,3,3,.500
+comeajo01,John Comeaux*,24,17,7,.708,24,17,7,.708,0,0,0,
+widbyro01,Ron Widby*,23,17,6,.739,17,13,4,.765,6,4,2,.667
+dicksjo01,John Dickson*,18,14,4,.778,18,14,4,.778,0,0,0,
+stroure01,Red Stroud,7,7,0,1.000,7,7,0,1.000,0,0,0,
+gambeda01,Dave Gambee*,5,5,0,1.000,5,5,0,1.000,0,0,0,
+biancal01,Al Bianchi,5,5,0,1.000,5,5,0,1.000,0,0,0,
+jackslu01,Luke Jackson,5,5,0,1.000,5,5,0,1.000,0,0,0,
+chambwi01,Wilt Chamberlain,5,5,0,1.000,5,5,0,1.000,0,0,0,
+cunnibi01,Billy Cunningham,5,5,0,1.000,5,5,0,1.000,0,0,0,
+walkech01,Chet Walker,5,5,0,1.000,5,5,0,1.000,0,0,0,
+joneswa02,Wali Jones,5,5,0,1.000,5,5,0,1.000,0,0,0,
+greerha01,Hal Greer,5,5,0,1.000,5,5,0,1.000,0,0,0,
+weissbo01,Bob Weiss,4,4,0,1.000,4,4,0,1.000,0,0,0,
+wardge01,Gerry Ward*,3,3,0,1.000,3,3,0,1.000,0,0,0,
+,,1,0,1,.000,1,0,1,.000,0,0,0,
+warlebe01,Ben Warley*,1,1,0,1.000,1,1,0,1.000,0,0,0,

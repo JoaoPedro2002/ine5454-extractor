@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+perkisa01,Sam Perkins,28,21,7,.750,28,21,7,.750,0,0,0,
+hawkihe01,Hersey Hawkins,28,21,7,.750,28,21,7,.750,0,0,0,
+johnser02,Ervin Johnson,28,21,7,.750,28,21,7,.750,0,0,0,
+kempsh01,Shawn Kemp,27,20,7,.741,27,20,7,.741,0,0,0,
+snower01,Eric Snow,27,20,7,.741,27,20,7,.741,0,0,0,
+paytoga01,Gary Payton,27,20,7,.741,27,20,7,.741,0,0,0,
+wingada01,David Wingate,26,20,6,.769,26,20,6,.769,0,0,0,
+brickfr01,Frank Brickowski,24,18,6,.750,24,18,6,.750,0,0,0,
+askewvi01,Vincent Askew,23,17,6,.739,23,17,6,.739,0,0,0,
+schefst01,Steve Scheffler,20,15,5,.750,20,15,5,.750,0,0,0,
+schrede01,Detlef Schrempf,19,14,5,.737,19,14,5,.737,0,0,0,
+mcmilna01,Nate McMillan,15,13,2,.867,15,13,2,.867,0,0,0,

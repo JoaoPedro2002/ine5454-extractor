@@ -1,0 +1,26 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+grossbo01,Bob Gross,82,54,28,.659,63,40,23,.635,19,14,5,.737
+steella01,Larry Steele,80,52,28,.650,62,39,23,.629,18,13,5,.722
+lucasma01,Maurice Lucas,79,53,26,.671,60,39,21,.650,19,14,5,.737
+hollili01,Lionel Hollins,79,51,28,.646,60,37,23,.617,19,14,5,.737
+gillihe01,Herm Gilliam*,79,52,27,.658,61,39,22,.639,18,13,5,.722
+davisjo01,Johnny Davis,76,49,27,.645,60,38,22,.633,16,11,5,.688
+calhoco01,Corky Calhoun,72,46,26,.639,60,37,23,.617,12,9,3,.750
+twardda01,Dave Twardzik,72,47,25,.653,58,38,20,.655,14,9,5,.643
+waltobi01,Bill Walton,65,49,16,.754,46,35,11,.761,19,14,5,.737
+walkewa01,Wally Walker,64,41,23,.641,54,34,20,.630,10,7,3,.700
+nealll01,Lloyd Neal,58,40,18,.690,39,26,13,.667,19,14,5,.737
+newlimi01,Mike Newlin,12,6,6,.500,12,6,6,.500,0,0,0,
+kunneke01,Kevin Kunnert,12,6,6,.500,12,6,6,.500,0,0,0,
+lucasjo01,John Lucas,12,6,6,.500,12,6,6,.500,0,0,0,
+jonesdw01,Dwight Jones,12,6,6,.500,12,6,6,.500,0,0,0,
+tomjaru01,Rudy Tomjanovich,12,6,6,.500,12,6,6,.500,0,0,0,
+malonmo01,Moses Malone,12,6,6,.500,12,6,6,.500,0,0,0,
+reidro01,Robert Reid,11,5,6,.455,11,5,6,.455,0,0,0,
+murphca01,Calvin Murphy,8,5,3,.625,8,5,3,.625,0,0,0,
+moffela01,Larry Moffett,8,5,3,.625,8,5,3,.625,0,0,0,
+ratleed01,Ed Ratleff,8,3,5,.375,8,3,5,.375,0,0,0,
+bondph01,Phil Bond,7,4,3,.571,7,4,3,.571,0,0,0,
+mayescl01,Clyde Mayes,5,1,4,.200,5,1,4,.200,0,0,0,
+johnsjo01,John Johnson,1,0,1,.000,1,0,1,.000,0,0,0,
+jamesaa01,Aaron James*,1,1,0,1.000,1,1,0,1.000,0,0,0,

@@ -1,0 +1,63 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+robindu01,Duncan Robinson,142,82,60,.577,123,73,50,.593,19,9,10,.474
+adebaba01,Bam Adebayo*,134,76,58,.567,117,68,49,.581,17,8,9,.471
+olynyke01,Kelly Olynyk,111,65,46,.586,98,58,40,.592,13,7,6,.538
+butleji01,Jimmy Butler*,111,70,41,.631,92,61,31,.663,19,9,10,.474
+dragigo01,Goran Dragić*,109,66,43,.606,94,59,35,.628,15,7,8,.467
+herroty01,Tyler Herro*,107,61,46,.570,88,52,36,.591,19,9,10,.474
+iguodan01,Andre Iguodala,87,48,39,.552,68,39,29,.574,19,9,10,.474
+jonesde02,Derrick Jones Jr.*,64,38,26,.594,53,32,21,.604,11,6,5,.545
+leoname01,Meyers Leonard,51,35,16,.686,48,33,15,.688,3,2,1,.667
+achiupr01,Precious Achiuwa*,50,23,27,.460,47,23,24,.489,3,0,3,.000
+vincega01,Gabe Vincent*,49,25,24,.510,45,24,21,.533,4,1,3,.250
+silvach01,Chris Silva,49,31,18,.633,49,31,18,.633,0,0,0,
+okpalkz01,KZ Okpala,39,20,19,.513,37,20,17,.541,2,0,2,.000
+westbru01,Russell Westbrook*,36,18,18,.500,36,18,18,.500,0,0,0,
+browntr01,Troy Brown Jr.*,33,15,18,.455,33,15,18,.455,0,0,0,
+crowdja01,Jae Crowder,32,17,15,.531,17,8,9,.471,15,9,6,.600
+gabriwe01,Wenyen Gabriel*,32,16,16,.500,32,16,16,.500,0,0,0,
+strusma01,Max Strus*,32,11,21,.344,30,11,19,.367,2,0,2,.000
+beverpa01,Patrick Beverley*,31,16,15,.516,31,16,15,.516,0,0,0,
+kispeco01,Corey Kispert,31,12,19,.387,31,12,19,.387,0,0,0,
+jamesle01,LeBron James*,30,14,16,.467,30,14,16,.467,0,0,0,
+gaffoda01,Daniel Gafford*,28,10,18,.357,28,10,18,.357,0,0,0,
+reaveau01,Austin Reaves*,28,13,15,.464,28,13,15,.464,0,0,0,
+wrighde01,Delon Wright*,28,12,16,.429,28,12,16,.429,0,0,0,
+schrode01,Dennis Schröder*,27,15,12,.556,27,15,12,.556,0,0,0,
+arizatr01,Trevor Ariza,27,12,15,.444,23,12,11,.522,4,0,4,.000
+avdijde01,Deni Avdija,27,11,16,.407,27,11,16,.407,0,0,0,
+bryanth01,Thomas Bryant,27,15,12,.556,27,15,12,.556,0,0,0,
+walkelo01,Lonnie Walker IV*,25,10,15,.400,25,10,15,.400,0,0,0,
+chrisma02,Max Christie,25,11,14,.440,25,11,14,.440,0,0,0,
+toscaju01,Juan Toscano-Anderson*,24,10,14,.417,24,10,14,.417,0,0,0,
+goodwjo01,Jordan Goodwin,23,8,15,.348,23,8,15,.348,0,0,0,
+gillan01,Anthony Gill*,21,5,16,.238,21,5,16,.238,0,0,0,
+davisan02,Anthony Davis*,21,9,12,.429,21,9,12,.429,0,0,0,
+porzikr01,Kristaps Porziņģis,20,8,12,.400,20,8,12,.400,0,0,0,
+bealbr01,Bradley Beal*,20,10,10,.500,20,10,10,.500,0,0,0,
+dedmode01,Dewayne Dedmon,19,11,8,.579,15,11,4,.733,4,0,4,.000
+gibsota01,Taj Gibson,18,8,10,.444,18,8,10,.444,0,0,0,
+morrimo01,Monte Morris,17,6,11,.353,17,6,11,.353,0,0,0,
+jonesda03,Damian Jones,17,4,13,.235,17,4,13,.235,0,0,0,
+davisjo06,Johnny Davis,16,4,12,.250,16,4,12,.250,0,0,0,
+kuzmaky01,Kyle Kuzma*,16,8,8,.500,16,8,8,.500,0,0,0,
+johnsja01,James Johnson,15,9,6,.600,15,9,6,.600,0,0,0,
+hillso01,Solomon Hill,13,5,8,.385,9,4,5,.444,4,1,3,.250
+winslju01,Justise Winslow,11,7,4,.636,11,7,4,.636,0,0,0,
+ryanma01,Matt Ryan,11,4,7,.364,11,4,7,.364,0,0,0,
+harklma01,Maurice Harkless,10,4,6,.400,10,4,6,.400,0,0,0,
+cooksxa01,Xavier Cooks,10,2,8,.200,10,2,8,.200,0,0,0,
+jacksqu01,Quenton Jackson,9,3,6,.333,9,3,6,.333,0,0,0,
+huffja01,Jay Huff,6,1,5,.167,6,1,5,.167,0,0,0,
+pippesc02,Scotty Pippen Jr.,5,1,4,.200,5,1,4,.200,0,0,0,
+bjeline01,Nemanja Bjelica,5,0,5,.000,3,0,3,.000,2,0,2,.000
+hasleud01,Udonis Haslem,5,4,1,.800,5,4,1,.800,0,0,0,
+bradlav01,Avery Bradley,5,2,3,.400,5,2,3,.400,0,0,0,
+maconda01,Daryl Macon,4,4,0,1.000,4,4,0,1.000,0,0,0,
+swideco01,Cole Swider,4,1,3,.250,4,1,3,.250,0,0,0,
+careyve01,Vernon Carey Jr.*,4,4,0,1.000,4,4,0,1.000,0,0,0,
+brownst02,Sterling Brown,4,2,2,.500,4,2,2,.500,0,0,0,
+bartowi01,Will Barton*,3,2,1,.667,3,2,1,.667,0,0,0,
+alexaky01,Kyle Alexander,2,0,2,.000,2,0,2,.000,0,0,0,
+toddis01,Isaiah Todd,2,0,2,.000,2,0,2,.000,0,0,0,
+bouyeja01,Jamaree Bouyea,1,0,1,.000,1,0,1,.000,0,0,0,

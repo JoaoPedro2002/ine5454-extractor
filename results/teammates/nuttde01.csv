@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+perkisa01,Sam Perkins,26,19,7,.731,25,18,7,.720,1,1,0,1.000
+tarplro01,Roy Tarpley,26,19,7,.731,25,18,7,.720,1,1,0,1.000
+donalja01,James Donaldson,26,19,7,.731,25,18,7,.720,1,1,0,1.000
+davisbr01,Brad Davis,26,19,7,.731,25,18,7,.720,1,1,0,1.000
+schrede01,Detlef Schrempf,25,18,7,.720,24,17,7,.708,1,1,0,1.000
+aguirma01,Mark Aguirre,24,18,6,.750,23,17,6,.739,1,1,0,1.000
+blackro01,Rolando Blackman,24,17,7,.708,23,16,7,.696,1,1,0,1.000
+wennibi01,Bill Wennington,22,17,5,.773,21,16,5,.762,1,1,0,1.000
+harpede01,Derek Harper,21,15,6,.714,20,14,6,.700,1,1,0,1.000
+blabuw01,Uwe Blab,16,13,3,.812,15,12,3,.800,1,1,0,1.000
+woodal01,Al Wood,13,10,3,.769,13,10,3,.769,0,0,0,

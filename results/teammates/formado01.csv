@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+dwanja01,Jack Dwan,53,41,12,.774,44,34,10,.773,9,7,2,.778
+mikange01,George Mikan*,53,41,12,.774,44,34,10,.773,9,7,2,.778
+ferriar01,Arnie Ferrin*,52,40,12,.769,43,33,10,.767,9,7,2,.778
+jarosto01,Tony Jaros*,52,41,11,.788,43,34,9,.791,9,7,2,.778
+schaehe01,Herm Schaefer*,51,39,12,.765,42,32,10,.762,9,7,2,.778
+carlsdo01,Don Carlson,48,37,11,.771,39,30,9,.769,9,7,2,.778
+pollaji01,Jim Pollard*,46,35,11,.761,37,28,9,.757,9,7,2,.778
+gardnea01,Earl Gardner,44,33,11,.750,37,28,9,.757,7,5,2,.714
+jorgejo01,Johnny Jorgensen,38,29,9,.763,31,24,7,.774,7,5,2,.714
+kachawh01,Whitey Kachan*,24,18,6,.750,17,13,4,.765,7,5,2,.714
+bloommi01,Mike Bloom*,10,8,2,.800,10,8,2,.800,0,0,0,
+smithdo01,Don Smith,1,1,0,1.000,1,1,0,1.000,0,0,0,

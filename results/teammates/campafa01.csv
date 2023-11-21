@@ -1,0 +1,44 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jokicni01,Nikola Jokić,137,84,53,.613,123,79,44,.642,14,5,9,.357
+greenja01,JaMychal Green,120,70,50,.583,106,65,41,.613,14,5,9,.357
+morrimo01,Monte Morris,112,65,47,.580,98,60,38,.612,14,5,9,.357
+bartowi01,Will Barton*,111,66,45,.595,104,65,39,.625,7,1,6,.143
+gordoaa01,Aaron Gordon,99,60,39,.606,85,55,30,.647,14,5,9,.357
+nnajize01,Zeke Nnaji,83,51,32,.614,77,50,27,.649,6,1,5,.167
+riverau01,Austin Rivers*,78,45,33,.577,64,40,24,.625,14,5,9,.357
+howarma02,Markus Howard,75,44,31,.587,66,40,26,.606,9,4,5,.444
+portemi01,Michael Porter Jr.,74,45,29,.608,64,41,23,.641,10,4,6,.400
+greenje02,Jeff Green,64,36,28,.562,60,35,25,.583,4,1,3,.250
+doziepj01,PJ Dozier,63,41,22,.651,63,41,22,.651,0,0,0,
+millspa01,Paul Millsap,62,42,20,.677,53,38,15,.717,9,4,5,.444
+cancavl01,Vlatko Čančar,56,32,24,.571,50,31,19,.620,6,1,5,.167
+hylanbo01,Bones Hyland,56,32,24,.571,52,31,21,.596,4,1,3,.250
+bolbo01,Bol Bol,47,25,22,.532,44,24,20,.545,3,1,2,.333
+murraja01,Jamal Murray,43,28,15,.651,43,28,15,.651,0,0,0,
+reedda01,Davon Reed,38,25,13,.658,38,25,13,.658,0,0,0,
+harteis01,Isaiah Hartenstein*,26,13,13,.500,26,13,13,.500,0,0,0,
+forbebr01,Bryn Forbes,26,16,10,.615,22,15,7,.682,4,1,3,.250
+harrish01,Shaquille Harrison,25,15,10,.600,16,11,5,.688,9,4,5,.444
+mcgeeja01,JaVale McGee,23,10,13,.435,19,9,10,.474,4,1,3,.250
+hamptrj01,R.J. Hampton,23,14,9,.609,23,14,9,.609,0,0,0,
+couside01,DeMarcus Cousins,21,14,7,.667,17,13,4,.765,4,1,3,.250
+harriga01,Gary Harris,18,11,7,.611,18,11,7,.611,0,0,0,
+cornepe01,Petr Cornelie,13,3,10,.231,13,3,10,.231,0,0,0,
+finnedo01,Dorian Finney-Smith,8,2,6,.250,8,2,6,.250,0,0,0,
+greenjo02,Josh Green,8,2,6,.250,8,2,6,.250,0,0,0,
+dinwisp01,Spencer Dinwiddie,8,2,6,.250,8,2,6,.250,0,0,0,
+hardati02,Tim Hardaway Jr.,7,2,5,.286,7,2,5,.286,0,0,0,
+woodch01,Christian Wood,7,2,5,.286,7,2,5,.286,0,0,0,
+bullore01,Reggie Bullock,7,2,5,.286,7,2,5,.286,0,0,0,
+doncilu01,Luka Dončić,7,2,5,.286,7,2,5,.286,0,0,0,
+poweldw01,Dwight Powell,6,1,5,.167,6,1,5,.167,0,0,0,
+klebima01,Maxi Kleber,5,1,4,.200,5,1,4,.200,0,0,0,
+ntilila01,Frank Ntilikina,5,1,4,.200,5,1,4,.200,0,0,0,
+pinsoth01,Theo Pinson,4,1,3,.250,4,1,3,.250,0,0,0,
+bertada01,Dāvis Bertāns*,4,1,3,.250,4,1,3,.250,0,0,0,
+ennisja01,James Ennis III,3,1,2,.333,3,1,2,.333,0,0,0,
+whittgr01,Greg Whittington,3,2,1,.667,3,2,1,.667,0,0,0,
+tuckera01,Rayjon Tucker,3,1,2,.333,3,1,2,.333,0,0,0,
+clarkga01,Gary Clark,2,2,0,1.000,2,2,0,1.000,0,0,0,
+jonesca03,Carlik Jones,2,1,1,.500,2,1,1,.500,0,0,0,
+hardyja02,Jaden Hardy,1,0,1,.000,1,0,1,.000,0,0,0,

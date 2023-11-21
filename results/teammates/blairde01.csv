@@ -1,0 +1,76 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+duncati01,Tim Duncan,294,207,87,.704,258,186,72,.721,36,21,15,.583
+bonnema01,Matt Bonner,278,190,88,.683,243,169,74,.695,35,21,14,.600
+parketo01,Tony Parker,276,196,80,.710,240,175,65,.729,36,21,15,.583
+ginobma01,Manu Ginóbili,266,188,78,.707,231,167,64,.723,35,21,14,.600
+nealga01,Gary Neal,234,161,73,.688,208,144,64,.692,26,17,9,.654
+jefferi01,Richard Jefferson,216,141,75,.653,202,136,66,.673,14,5,9,.357
+splitti01,Tiago Splitter,196,141,55,.719,176,128,48,.727,20,13,7,.650
+hillge01,George Hill,167,108,59,.647,153,103,50,.673,14,5,9,.357
+mcdyean01,Antonio McDyess,163,104,59,.638,149,99,50,.664,14,5,9,.357
+greenda02,Danny Green,155,112,43,.723,130,95,35,.731,25,17,8,.680
+leonaka01,Kawhi Leonard,125,95,30,.760,103,79,24,.767,22,16,6,.727
+anderja01,James Anderson,90,67,23,.744,83,61,22,.735,7,6,1,.857
+diawbo01,Boris Diaw,89,68,21,.764,72,57,15,.792,17,11,6,.647
+boganke01,Keith Bogans,87,52,35,.598,79,50,29,.633,8,2,6,.250
+masonro01,Roger Mason,85,50,35,.588,79,48,31,.608,6,2,4,.333
+ellismo01,Monta Ellis,84,49,35,.583,78,46,32,.590,6,3,3,.500
+caldejo01,José Calderón,83,49,34,.590,77,46,31,.597,6,3,3,.500
+cartevi01,Vince Carter,83,49,34,.590,77,46,31,.597,6,3,3,.500
+nowitdi01,Dirk Nowitzki,82,48,34,.585,76,45,31,.592,6,3,3,.500
+dalemsa01,Samuel Dalembert,82,48,34,.585,76,45,31,.592,6,3,3,.500
+crowdja01,Jae Crowder,80,47,33,.588,74,44,30,.595,6,3,3,.500
+mariosh01,Shawn Marion,78,44,34,.564,72,41,31,.569,6,3,3,.500
+millspa02,Patty Mills*,75,55,20,.733,60,43,17,.717,15,12,3,.800
+templga01,Garrett Temple,70,35,35,.500,64,33,31,.516,6,2,4,.333
+jacksst02,Stephen Jackson,67,51,16,.761,57,45,12,.789,10,6,4,.600
+josepco01,Cory Joseph,65,46,19,.708,53,36,17,.679,12,10,2,.833
+wrighbr03,Brandan Wright,59,35,24,.593,54,33,21,.611,5,2,3,.400
+decolna01,Nando De Colo,58,41,17,.707,54,38,16,.704,4,3,1,.750
+walljo01,John Wall,55,26,29,.473,55,26,29,.473,0,0,0,
+gortama01,Marcin Gortat,52,22,30,.423,52,22,30,.423,0,0,0,
+porteot01,Otto Porter Jr.,51,23,28,.451,51,23,28,.451,0,0,0,
+larkish01,Shane Larkin,48,26,22,.542,46,25,21,.543,2,1,1,.500
+hairsma01,Malik Hairston,47,35,12,.745,47,35,12,.745,0,0,0,
+ellinwa01,Wayne Ellington,46,23,23,.500,44,22,22,.500,2,1,1,.500
+harride01,Devin Harris,43,25,18,.581,37,22,15,.595,6,3,3,.500
+sessira01,Ramon Sessions,42,17,25,.405,42,17,25,.405,0,0,0,
+quinnch01,Chris Quinn,41,33,8,.805,41,33,8,.805,0,0,0,
+hilarne01,Nenê,38,16,22,.421,38,16,22,.421,0,0,0,
+bealbr01,Bradley Beal*,36,18,18,.500,36,18,18,.500,0,0,0,
+humphkr01,Kris Humphries,35,16,19,.457,35,16,19,.457,0,0,0,
+jamesbe01,Bernard James,32,18,14,.562,30,17,13,.567,2,1,1,.500
+goodedr01,Drew Gooden,31,17,14,.548,31,17,14,.548,0,0,0,
+mekelga01,Gal Mekel,30,17,13,.567,30,17,13,.567,0,0,0,
+dudleja01,Jared Dudley,29,12,17,.414,29,12,17,.414,0,0,0,
+mahinia01,Ian Mahinmi,28,17,11,.607,26,16,10,.615,2,1,1,.500
+butlera01,Rasual Butler,27,13,14,.481,27,13,14,.481,0,0,0,
+oubreke01,Kelly Oubre Jr.*,26,11,15,.423,26,11,15,.423,0,0,0,
+serapke01,Kevin Séraphin,26,14,12,.538,26,14,12,.538,0,0,0,
+finlemi01,Michael Finley,25,13,12,.520,25,13,12,.520,0,0,0,
+novakst01,Steve Novak,23,13,10,.565,22,13,9,.591,1,0,1,.000
+piercpa01,Paul Pierce,23,12,11,.522,23,12,11,.522,0,0,0,
+ratlith01,Theo Ratliff,21,15,6,.714,21,15,6,.714,0,0,0,
+udokaim01,Ime Udoka,20,16,4,.800,20,16,4,.800,0,0,0,
+baynear01,Aron Baynes,17,12,5,.706,13,8,5,.615,4,4,0,1.000
+webstma02,Martell Webster,16,5,11,.312,16,5,11,.312,0,0,0,
+millean02,Andre Miller,15,10,5,.667,15,10,5,.667,0,0,0,
+fordtj01,T.J. Ford,14,8,6,.571,14,8,6,.571,0,0,0,
+ledori01,Ricky Ledo,11,5,6,.455,11,5,6,.455,0,0,0,
+haislma01,Marcus Haislip,10,8,2,.800,10,8,2,.800,0,0,0,
+eddieja01,Jarell Eddie,10,5,5,.500,10,5,5,.500,0,0,0,
+owensla01,Larry Owens,7,5,2,.714,7,5,2,.714,0,0,0,
+mcgratr01,Tracy McGrady,5,4,1,.800,0,0,0,,5,4,1,.800
+geeal01,Alonzo Gee,5,5,0,1.000,5,5,0,1.000,0,0,0,
+holliry01,Ryan Hollins,4,2,2,.500,4,2,2,.500,0,0,0,
+bynumwi01,Will Bynum,4,2,2,.500,4,2,2,.500,0,0,0,
+dawsoer01,Eric Dawson,4,3,1,.750,4,3,1,.750,0,0,0,
+jacksce01,Cedric Jackson,3,3,0,1.000,3,3,0,1.000,0,0,0,
+thomama01,Malcolm Thomas,3,2,1,.667,3,2,1,.667,0,0,0,
+ricegl02,Glen Rice Jr.,3,2,1,.667,3,2,1,.667,0,0,0,
+murryto01,Toure' Murry,3,1,2,.333,3,1,2,.333,0,0,0,
+dentmju01,Justin Dentmon,2,2,0,1.000,2,2,0,1.000,0,0,0,
+dioguik01,Ike Diogu,2,1,1,.500,2,1,1,.500,0,0,0,
+simmobo01,Bobby Simmons,2,2,0,1.000,2,2,0,1.000,0,0,0,
+byarsde01,Derrick Byars,2,2,0,1.000,2,2,0,1.000,0,0,0,
+jeffeot01,Othyus Jeffers,1,1,0,1.000,1,1,0,1.000,0,0,0,

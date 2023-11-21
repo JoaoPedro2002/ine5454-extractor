@@ -1,0 +1,20 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hollajo01,Joe Holland*,137,73,64,.533,128,69,59,.539,9,4,5,.444
+beardra01,Ralph Beard,132,72,60,.545,124,68,56,.548,8,4,4,.500
+mcmulma01,Mal McMullen*,112,59,53,.527,106,56,50,.528,6,3,3,.500
+barkecl01,Cliff Barker*,105,59,46,.562,96,55,41,.573,9,4,5,.444
+walthpa01,Paul Walther*,101,53,48,.525,92,49,43,.533,9,4,5,.444
+halebr01,Bruce Hale*,95,51,44,.537,88,47,41,.534,7,4,3,.571
+joneswa01,Wah Wah Jones*,87,52,35,.598,82,49,33,.598,5,3,2,.600
+barnhle01,Leo Barnhorst,69,32,37,.464,66,31,35,.470,3,1,2,.333
+lavoybo01,Bob Lavoy*,63,29,34,.460,60,28,32,.467,3,1,2,.333
+shaefca01,Carl Shaeffer*,55,33,22,.600,49,30,19,.612,6,3,3,.500
+evansbo01,Bob Evans*,47,25,22,.532,46,25,21,.543,1,0,1,.000
+hawkima01,Marshall Hawkins*,40,20,20,.500,39,20,19,.513,1,0,1,.000
+mrazoch01,Chuck Mrazovich*,23,11,12,.478,23,11,12,.478,0,0,0,
+volkefl01,Floyd Volker*,15,9,6,.600,15,9,6,.600,0,0,0,
+lofgrdo01,Don Lofgran*,14,7,7,.500,13,6,7,.462,1,1,0,1.000
+mahnkjo01,John Mahnken*,13,5,8,.385,10,4,6,.400,3,1,2,.333
+parkija01,Jack Parkinson*,3,2,1,.667,3,2,1,.667,0,0,0,
+blevile01,Leon Blevins,2,1,1,.500,2,1,1,.500,0,0,0,
+mogusle01,Leo Mogus*,1,1,0,1.000,1,1,0,1.000,0,0,0,

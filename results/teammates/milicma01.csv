@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+robincl02,Clifford Robinson,46,32,14,.696,44,32,12,.727,2,0,2,.000
+kiddja01,Jason Kidd,46,32,14,.696,44,32,12,.727,2,0,2,.000
+mccloge01,George McCloud,40,27,13,.675,38,27,11,.711,2,0,2,.000
+mannida01,Danny Manning,38,26,12,.684,38,26,12,.684,0,0,0,
+mcdyean01,Antonio McDyess,34,23,11,.676,32,23,9,.719,2,0,2,.000
+chapmre01,Rex Chapman,34,24,10,.706,33,24,9,.727,1,0,1,.000
+nashst01,Steve Nash,34,23,11,.676,32,23,9,.719,2,0,2,.000
+williho01,Hot Rod Williams,32,21,11,.656,30,21,9,.700,2,0,2,.000
+bryanma01,Mark Bryant,30,19,11,.633,28,19,9,.679,2,0,2,.000
+cebalce01,Cedric Ceballos,19,14,5,.737,19,14,5,.737,0,0,0,
+johnske02,Kevin Johnson,19,12,7,.632,17,12,5,.706,2,0,2,.000
+scottde01,Dennis Scott,15,10,5,.667,13,10,3,.769,2,0,2,.000
+thompbr01,Brooks Thompson,11,7,4,.636,11,7,4,.636,0,0,0,
+garripa01,Pat Garrity,11,8,3,.727,11,8,3,.727,0,0,0,
+morrich01,Chris Morris,10,7,3,.700,10,7,3,.700,0,0,0,
+kleinjo01,Joe Kleine,8,5,3,.625,8,5,3,.625,0,0,0,
+longllu01,Luc Longley,8,6,2,.750,8,6,2,.750,0,0,0,
+guglito01,Tom Gugliotta,8,6,2,.750,8,6,2,.750,0,0,0,
+brownge02,Gerald Brown,7,4,3,.571,7,4,3,.571,0,0,0,
+respesh01,Shawn Respert,6,4,2,.667,6,4,2,.667,0,0,0,
+llamaho01,Horacio Llamas,3,2,1,.667,3,2,1,.667,0,0,0,
+baileto01,Toby Bailey,3,1,2,.333,3,1,2,.333,0,0,0,
+brownmi01,Mike Brown,1,0,1,.000,0,0,0,,1,0,1,.000

@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+riebeme01,Mel Riebe,22,11,11,.500,22,11,11,.500,0,0,0,
+spectar01,Art Spector*,22,11,11,.500,22,11,11,.500,0,0,0,
+sadowed01,Ed Sadowski,21,10,11,.476,21,10,11,.476,0,0,0,
+ehlerbu01,Bulbs Ehlers,21,10,11,.476,21,10,11,.476,0,0,0,
+simmoco01,Connie Simmons*,20,10,10,.500,20,10,10,.500,0,0,0,
+stumpge01,Gene Stump*,19,8,11,.421,19,8,11,.421,0,0,0,
+mariasa01,Saul Mariaschin,19,10,9,.526,19,10,9,.526,0,0,0,
+hankice01,Cecil Hankins,18,9,9,.500,18,9,9,.500,0,0,0,
+garfija01,Jack Garfinkel*,17,9,8,.529,17,9,8,.529,0,0,0,
+munroge01,George Munroe*,6,1,5,.167,6,1,5,.167,0,0,0,
+noszkst01,Stan Noszka*,5,2,3,.400,5,2,3,.400,0,0,0,
+hoefech01,Charlie Hoefer,4,3,1,.750,4,3,1,.750,0,0,0,

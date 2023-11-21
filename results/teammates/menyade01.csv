@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+lentzle01,Leary Lentz,73,27,46,.370,70,27,43,.386,3,0,3,.000
+fraziwi01,Will Frazier,71,26,45,.366,68,26,42,.382,3,0,3,.000
+beckear01,Art Becker*,71,26,45,.366,68,26,42,.382,3,0,3,.000
+pettwje01,Jerry Pettway,71,25,46,.352,68,25,43,.368,3,0,3,.000
+hamoojo01,Joe Hamood*,69,25,44,.362,66,25,41,.379,3,0,3,.000
+haleha01,Hal Hale*,65,22,43,.338,62,22,40,.355,3,0,3,.000
+somerwi01,Willie Somerset*,61,25,36,.410,58,25,33,.431,3,0,3,.000
+mannigu01,Guy Manning*,56,19,37,.339,53,19,34,.358,3,0,3,.000
+moliswa01,Wayne Molis*,38,13,25,.342,38,13,25,.342,0,0,0,
+riedybo01,Bob Riedy,18,6,12,.333,18,6,12,.333,0,0,0,
+schurro01,Roger Schurig,16,4,12,.250,16,4,12,.250,0,0,0,
+hardyda01,Darrell Hardy*,13,3,10,.231,13,3,10,.231,0,0,0,

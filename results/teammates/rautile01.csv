@@ -1,0 +1,25 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+johnscl01,Clemon Johnson,31,19,12,.613,28,18,10,.643,3,1,2,.333
+toneyan01,Andrew Toney,31,19,12,.613,28,18,10,.643,3,1,2,.333
+iavarma01,Marc Iavaroni,31,19,12,.613,28,18,10,.643,3,1,2,.333
+malonmo01,Moses Malone,30,18,12,.600,27,17,10,.630,3,1,2,.333
+jonesbo01,Bobby Jones,27,18,9,.667,24,17,7,.708,3,1,2,.333
+willisa02,Sam Williams,27,16,11,.593,24,15,9,.625,3,1,2,.333
+ervinju01,Julius Erving*,27,17,10,.630,24,16,8,.667,3,1,2,.333
+cheekma01,Maurice Cheeks,26,17,9,.654,23,16,7,.696,3,1,2,.333
+threase01,Sedale Threatt,26,14,12,.538,23,13,10,.565,3,1,2,.333
+richacl01,Clint Richardson,24,16,8,.667,21,15,6,.714,3,1,2,.333
+edwarfr01,Franklin Edwards,21,15,6,.714,21,15,6,.714,0,0,0,
+matthwe01,Wes Matthews,10,4,6,.400,7,3,4,.429,3,1,2,.333
+johnsed02,Eddie Johnson,4,2,2,.500,4,2,2,.500,0,0,0,
+willike02,Kevin Willis,4,2,2,.500,4,2,2,.500,0,0,0,
+brownri01,Rickey Brown,4,2,2,.500,4,2,2,.500,0,0,0,
+levincl01,Cliff Levingston,4,2,2,.500,4,2,2,.500,0,0,0,
+wilkido01,Dominique Wilkins,4,2,2,.500,4,2,2,.500,0,0,0,
+carran01,Antoine Carr,4,2,2,.500,4,2,2,.500,0,0,0,
+glennmi01,Mike Glenn,4,2,2,.500,4,2,2,.500,0,0,0,
+riverdo01,Doc Rivers,4,2,2,.500,4,2,2,.500,0,0,0,
+willisl01,Sly Williams,4,2,2,.500,4,2,2,.500,0,0,0,
+rollitr01,Tree Rollins,3,1,2,.333,3,1,2,.333,0,0,0,
+eavesje01,Jerry Eaves,3,1,2,.333,3,1,2,.333,0,0,0,
+russewa01,Walker Russell,1,1,0,1.000,1,1,0,1.000,0,0,0,

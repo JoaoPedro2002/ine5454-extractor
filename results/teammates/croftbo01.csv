@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hamiljo01,Joe Hamilton*,34,12,22,.353,29,11,18,.379,5,1,4,.200
+freemdo01,Donnie Freeman*,34,12,22,.353,29,11,18,.379,5,1,4,.200
+moorege01,Gene Moore*,34,12,22,.353,29,11,18,.379,5,1,4,.200
+jonesri01,Rich Jones*,34,12,22,.353,29,11,18,.379,5,1,4,.200
+beasljo01,John Beasley*,34,12,22,.353,29,11,18,.379,5,1,4,.200
+carrida01,Darel Carrier*,32,18,14,.562,32,18,14,.562,0,0,0,
+dampilo01,Louie Dampier*,32,18,14,.562,32,18,14,.562,0,0,0,
+ligongo01,Goose Ligon,32,18,14,.562,32,18,14,.562,0,0,0,
+powelci01,Cincy Powell,32,18,14,.562,32,18,14,.562,0,0,0,
+isselda01,Dan Issel*,32,18,14,.562,32,18,14,.562,0,0,0,
+simonwa01,Walt Simon*,32,18,14,.562,32,18,14,.562,0,0,0,
+prattmi01,Mike Pratt,29,17,12,.586,29,17,12,.586,0,0,0,
+bedelbo01,Bob Bedell*,29,9,20,.310,25,8,17,.320,4,1,3,.250
+tartle01,Levern Tart*,27,6,21,.222,22,5,17,.227,5,1,4,.200
+hightwa01,Wayne Hightower*,27,7,20,.259,22,6,16,.273,5,1,4,.200
+huntele01,Les Hunter,26,16,10,.615,26,16,10,.615,0,0,0,
+beaslch01,Charlie Beasley*,25,8,17,.320,21,7,14,.333,4,1,3,.250
+wrighho01,Howie Wright,22,13,9,.591,22,13,9,.591,0,0,0,
+smithsa01,Sam Smith*,16,11,5,.688,16,11,5,.688,0,0,0,
+willial01,Al Williams,10,6,4,.600,10,6,4,.600,0,0,0,
+braddga01,Gary Bradds*,4,2,2,.500,4,2,2,.500,0,0,0,
+hamilde01,Dennis Hamilton,2,0,2,.000,2,0,2,.000,0,0,0,

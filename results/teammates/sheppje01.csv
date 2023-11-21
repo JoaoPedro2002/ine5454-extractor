@@ -1,0 +1,14 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+longgr01,Grant Long,22,12,10,.545,18,10,8,.556,4,2,2,.500
+westma01,Mark West,22,12,10,.545,18,10,8,.556,4,2,2,.500
+mutomdi01,Dikembe Mutombo,22,12,10,.545,18,10,8,.556,4,2,2,.500
+corbity01,Tyrone Corbin,21,12,9,.571,17,10,7,.588,4,2,2,.500
+johnsan02,Anthony Johnson,21,12,9,.571,17,10,7,.588,4,2,2,.500
+blaylmo01,Mookie Blaylock,21,12,9,.571,17,10,7,.588,4,2,2,.500
+crawfch01,Chris Crawford,20,12,8,.600,17,10,7,.588,3,2,1,.667
+mcleoro01,Roshown McLeod,18,9,9,.500,14,7,7,.500,4,2,2,.500
+grayed01,Ed Gray,17,9,8,.529,13,7,6,.538,4,2,2,.500
+smithst01,Steve Smith,13,9,4,.692,9,7,2,.778,4,2,2,.500
+hendeal01,Alan Henderson,12,6,6,.500,11,5,6,.455,1,1,0,1.000
+ellisla01,LaPhonso Ellis,6,4,2,.667,6,4,2,.667,0,0,0,
+willish01,Shammond Williams,2,2,0,1.000,2,2,0,1.000,0,0,0,

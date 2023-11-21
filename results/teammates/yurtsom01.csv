@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+robindu01,Duncan Robinson,74,49,25,.662,59,41,18,.695,15,8,7,.533
+vincega01,Gabe Vincent*,73,49,24,.671,57,40,17,.702,16,9,7,.562
+strusma01,Max Strus*,72,49,23,.681,55,40,15,.727,17,9,8,.529
+martica02,Caleb Martin*,66,42,24,.636,49,33,16,.673,17,9,8,.529
+lowryky01,Kyle Lowry*,64,40,24,.625,52,35,17,.673,12,5,7,.417
+herroty01,Tyler Herro*,59,42,17,.712,52,37,15,.712,7,5,2,.714
+butleji01,Jimmy Butler*,59,38,21,.644,42,29,13,.690,17,9,8,.529
+tuckepj01,P.J. Tucker,56,37,19,.661,47,32,15,.681,9,5,4,.556
+adebaba01,Bam Adebayo*,55,36,19,.655,38,27,11,.711,17,9,8,.529
+dedmode01,Dewayne Dedmon,50,34,16,.680,42,29,13,.690,8,5,3,.625
+highsha01,Haywood Highsmith,41,25,16,.610,25,17,8,.680,16,8,8,.500
+okpalkz01,KZ Okpala,21,14,7,.667,21,14,7,.667,0,0,0,
+oladivi01,Victor Oladipo*,20,10,10,.500,11,5,6,.455,9,5,4,.556
+guyky01,Kyle Guy,16,13,3,.812,16,13,3,.812,0,0,0,
+hasleud01,Udonis Haslem,15,12,3,.800,13,11,2,.846,2,1,1,.500
+loveke01,Kevin Love*,14,8,6,.571,8,5,3,.625,6,3,3,.500
+garrema01,Marcus Garrett,12,11,1,.917,12,11,1,.917,0,0,0,
+zelleco01,Cody Zeller*,10,4,6,.400,3,1,2,.333,7,3,4,.429
+morrima02,Markieff Morris,9,7,2,.778,9,7,2,.778,0,0,0,
+jovicni01,Nikola Jović,7,3,4,.429,0,0,0,,7,3,4,.429
+silvach01,Chris Silva,7,5,2,.714,7,5,2,.714,0,0,0,
+cainja01,Jamal Cain,4,2,2,.500,4,2,2,.500,0,0,0,
+smartja01,Javonte Smart,4,3,1,.750,4,3,1,.750,0,0,0,
+robinor01,Orlando Robinson,2,1,1,.500,2,1,1,.500,0,0,0,
+muldemy01,Mychal Mulder*,2,1,1,.500,2,1,1,.500,0,0,0,
+stausni01,Nik Stauskas,2,1,1,.500,2,1,1,.500,0,0,0,

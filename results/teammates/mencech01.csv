@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mikkeve01,Vern Mikkelsen*,152,70,82,.461,142,66,76,.465,10,4,6,.400
+schnidi01,Dick Schnittker*,150,68,82,.453,140,64,76,.457,10,4,6,.400
+lovelcl01,Clyde Lovellette*,148,68,80,.459,138,64,74,.464,10,4,6,.400
+garmadi01,Dick Garmaker*,148,69,79,.466,138,65,73,.471,10,4,6,.400
+kalafed01,Ed Kalafat*,145,68,77,.469,135,64,71,.474,10,4,6,.400
+skoogwh01,Whitey Skoog*,98,44,54,.449,94,42,52,.447,4,2,2,.500
+leonasl01,Slick Leonard*,78,36,42,.462,72,34,38,.472,6,2,4,.333
+dukeswa01,Walter Dukes*,77,36,41,.468,71,34,37,.479,6,2,4,.333
+paxsoji01,Jim Paxson*,77,36,41,.468,71,34,37,.479,6,2,4,.333
+martisl01,Slater Martin*,74,34,40,.459,70,32,38,.457,4,2,2,.500
+hitchle01,Lew Hitch*,71,33,38,.465,67,31,36,.463,4,2,2,.500
+mikange01,George Mikan*,40,21,19,.525,36,19,17,.528,4,2,2,.500
+willibo01,Bob Williams*,24,7,17,.292,24,7,17,.292,0,0,0,
+horanjo01,Johnny Horan,12,7,5,.583,12,7,5,.583,0,0,0,
+feierro01,Ron Feiereisel,10,2,8,.200,10,2,8,.200,0,0,0,

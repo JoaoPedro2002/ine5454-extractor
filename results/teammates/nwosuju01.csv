@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+persoch01,Chuck Person,25,17,8,.680,23,16,7,.696,2,1,1,.500
+johnsav01,Avery Johnson,25,17,8,.680,23,16,7,.696,2,1,1,.500
+reidjr01,J.R. Reid,25,17,8,.680,23,16,7,.696,2,1,1,.500
+elliose01,Sean Elliott,25,17,8,.680,23,16,7,.696,2,1,1,.500
+robinda01,David Robinson,25,17,8,.680,23,16,7,.696,2,1,1,.500
+delnevi01,Vinny Del Negro,22,15,7,.682,20,14,6,.700,2,1,1,.500
+cummite01,Terry Cummings,20,15,5,.750,18,14,4,.778,2,1,1,.500
+haleyja01,Jack Haley,15,12,3,.800,13,11,2,.846,2,1,1,.500
+anderwi01,Willie Anderson,15,11,4,.733,13,10,3,.769,2,1,1,.500
+riverdo01,Doc Rivers,14,12,2,.857,12,11,1,.917,2,1,1,.500
+whitnch01,Chris Whitney,10,4,6,.400,10,4,6,.400,0,0,0,
+malonmo01,Moses Malone,9,4,5,.444,9,4,5,.444,0,0,0,
+eisleho01,Howard Eisley,8,7,1,.875,8,7,1,.875,0,0,0,
+rodmade01,Dennis Rodman,5,4,1,.800,3,3,0,1.000,2,1,1,.500
+crowdco01,Corey Crowder,4,2,2,.500,4,2,2,.500,0,0,0,

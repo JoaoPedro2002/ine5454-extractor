@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+howelba01,Bailey Howell,27,23,4,.852,24,21,3,.875,3,2,1,.667
+nelsodo01,Don Nelson,27,23,4,.852,24,21,3,.875,3,2,1,.667
+havlijo01,John Havlicek,27,23,4,.852,24,21,3,.875,3,2,1,.667
+sandeto01,Tom Sanders*,27,23,4,.852,24,21,3,.875,3,2,1,.667
+russebi01,Bill Russell,26,22,4,.846,23,20,3,.870,3,2,1,.667
+embrywa01,Wayne Embry,25,21,4,.840,22,19,3,.864,3,2,1,.667
+jonessa01,Sam Jones,24,20,4,.833,21,18,3,.857,3,2,1,.667
+thackto01,Tom Thacker*,23,19,4,.826,20,17,3,.850,3,2,1,.667
+jonesjo01,Johnny Jones,23,21,2,.913,21,19,2,.905,2,2,0,1.000
+siegfla01,Larry Siegfried,22,19,3,.864,19,17,2,.895,3,2,1,.667
+grahama01,Mal Graham,17,14,3,.824,16,13,3,.812,1,1,0,1.000

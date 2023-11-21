@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jonesst01,Steve Jones*,31,12,19,.387,30,12,18,.400,1,0,1,.000
+jonesri01,Rich Jones*,31,12,19,.387,30,12,18,.400,1,0,1,.000
+hamiljo01,Joe Hamilton*,29,12,17,.414,28,12,16,.429,1,0,1,.000
+jonesco01,Collis Jones*,29,11,18,.379,28,11,17,.393,1,0,1,.000
+chapple01,Len Chappell*,26,11,15,.423,25,11,14,.440,1,0,1,.000
+hillsi01,Simmie Hill,24,11,13,.458,23,11,12,.478,1,0,1,.000
+freemdo01,Donnie Freeman*,24,10,14,.417,23,10,13,.435,1,0,1,.000
+johnsge01,George Johnson,22,10,12,.455,21,10,11,.476,1,0,1,.000
+kennego01,Goo Kennedy*,21,11,10,.524,21,11,10,.524,0,0,0,
+halimsh01,Shaler Halimon*,18,7,11,.389,17,7,10,.412,1,0,1,.000
+niemari01,Rich Niemann*,11,1,10,.091,11,1,10,.091,0,0,0,
+congdje01,Jeff Congdon*,9,3,6,.333,9,3,6,.333,0,0,0,
+beasljo01,John Beasley*,6,1,5,.167,6,1,5,.167,0,0,0,
+moorege01,Gene Moore*,5,1,4,.200,5,1,4,.200,0,0,0,
+netolbo01,Bob Netolicky*,3,1,2,.333,3,1,2,.333,0,0,0,
+swiftsk01,Skeeter Swift,3,1,2,.333,3,1,2,.333,0,0,0,
+dietrco01,Coby Dietrick,3,1,2,.333,3,1,2,.333,0,0,0,
+truitan01,Ansley Truitt*,2,0,2,.000,2,0,2,.000,0,0,0,
+maloymi01,Mike Maloy,2,0,2,.000,2,0,2,.000,0,0,0,
+sanforo01,Ron Sanford,1,0,1,.000,1,0,1,.000,0,0,0,
+peeplge01,George Peeples*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+quickbo01,Bob Quick*,1,0,1,.000,1,0,1,.000,0,0,0,

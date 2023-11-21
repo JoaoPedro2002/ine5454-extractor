@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+noelne01,Nerlens Noel,3,1,2,.333,3,1,2,.333,0,0,0,
+ferreyo01,Yogi Ferrell,3,1,2,.333,3,1,2,.333,0,0,0,
+bareajo01,J.J. Barea,3,1,2,.333,3,1,2,.333,0,0,0,
+nowitdi01,Dirk Nowitzki,3,1,2,.333,3,1,2,.333,0,0,0,
+barneha02,Harrison Barnes,3,1,2,.333,3,1,2,.333,0,0,0,
+smithde03,Dennis Smith Jr.,3,1,2,.333,3,1,2,.333,0,0,0,
+poweldw01,Dwight Powell,3,1,2,.333,3,1,2,.333,0,0,0,
+mcderdo01,Doug McDermott*,3,1,2,.333,3,1,2,.333,0,0,0,
+colliky01,Kyle Collinsworth,2,1,1,.500,2,1,1,.500,0,0,0,
+finnedo01,Dorian Finney-Smith,2,1,1,.500,2,1,1,.500,0,0,0,
+klebima01,Maxi Kleber,2,0,2,.000,2,0,2,.000,0,0,0,
+motlejo01,Johnathan Motley,1,0,1,.000,1,0,1,.000,0,0,0,

@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+thompmy01,Mychal Thompson,200,107,93,.535,181,98,83,.541,19,9,10,.474
+paxsoji02,Jim Paxson,193,103,90,.534,173,94,79,.543,20,9,11,.450
+valenda01,Darnell Valentine,179,99,80,.553,159,90,69,.566,20,9,11,.450
+carrke01,Kenny Carr,173,95,78,.549,153,86,67,.562,20,9,11,.450
+drexlcl01,Clyde Drexler,168,92,76,.548,155,86,69,.555,13,6,7,.462
+coopewa01,Wayne Cooper,120,66,54,.550,108,61,47,.565,12,5,7,.417
+leverfa01,Fat Lever,119,66,53,.555,107,61,46,.570,12,5,7,.417
+nattca01,Calvin Natt,118,64,54,.542,106,59,47,.557,12,5,7,.417
+lampje01,Jeff Lamp,89,49,40,.551,85,47,38,.553,4,2,2,.500
+coltest01,Steve Colter,82,41,41,.500,74,37,37,.500,8,4,4,.500
+bowiesa01,Sam Bowie,80,40,40,.500,72,36,36,.500,8,4,4,.500
+kerseje01,Jerome Kersey,80,41,39,.512,73,38,35,.521,7,3,4,.429
+vandeki01,Kiki Vandeweghe,77,39,38,.506,69,35,34,.507,8,4,4,.500
+thompbe01,Bernard Thompson,59,31,28,.525,57,31,26,.544,2,0,2,.000
+verhope01,Pete Verhoeven,52,37,15,.712,49,36,13,.735,3,1,2,.333
+schefto01,Tom Scheffler,42,23,19,.548,39,22,17,.564,3,1,2,.333
+towneli01,Linton Townes,25,13,12,.520,19,11,8,.579,6,2,4,.333
+piotrto01,Tom Piotrowski,18,16,2,.889,18,16,2,.889,0,0,0,
+busedo01,Don Buse,16,9,7,.562,11,7,4,.636,5,2,3,.400
+jordaed01,Eddie Jordan,13,6,7,.462,13,6,7,.462,0,0,0,
+judkije01,Jeff Judkins,10,5,5,.500,10,5,5,.500,0,0,0,
+mcdowha01,Hank McDowell,9,4,5,.444,7,4,3,.571,2,0,2,.000

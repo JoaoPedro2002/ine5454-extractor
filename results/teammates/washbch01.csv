@@ -1,0 +1,32 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+carrojo01,Joe Barry Carroll,48,19,29,.396,43,19,24,.442,5,0,5,.000
+floydsl01,Sleepy Floyd,48,19,29,.396,43,19,24,.442,5,0,5,.000
+mullich01,Chris Mullin,46,19,27,.413,41,19,22,.463,5,0,5,.000
+higgiro01,Rod Higgins,45,16,29,.356,40,16,24,.400,5,0,5,.000
+teaglte01,Terry Teagle,42,18,24,.429,37,18,19,.486,5,0,5,.000
+smithla01,Larry Smith,42,18,24,.429,37,18,19,.486,5,0,5,.000
+ballagr01,Greg Ballard,40,18,22,.450,35,18,17,.514,5,0,5,.000
+whiteje01,Jerome Whitehead,40,16,24,.400,35,16,19,.457,5,0,5,.000
+mcdonbe01,Ben McDonald,36,13,23,.361,31,13,18,.419,5,0,5,.000
+levincl01,Cliff Levingston,30,17,13,.567,29,16,13,.552,1,1,0,1.000
+wilkido01,Dominique Wilkins,30,17,13,.567,29,16,13,.552,1,1,0,1.000
+riverdo01,Doc Rivers,30,17,13,.567,29,16,13,.552,1,1,0,1.000
+wittmra01,Randy Wittman,30,17,13,.567,29,16,13,.552,1,1,0,1.000
+webbsp01,Spud Webb,30,17,13,.567,29,16,13,.552,1,1,0,1.000
+rollitr01,Tree Rollins,29,17,12,.586,28,16,12,.571,1,1,0,1.000
+carran01,Antoine Carr,28,15,13,.536,27,14,13,.519,1,1,0,1.000
+mosspe01,Perry Moss,27,12,15,.444,24,12,12,.500,3,0,3,.000
+smithcl01,Clinton Smith,26,11,15,.423,26,11,15,.423,0,0,0,
+willike02,Kevin Willis,25,13,12,.520,24,12,12,.500,1,1,0,1.000
+hastisc01,Scott Hastings,25,14,11,.560,24,13,11,.542,1,1,0,1.000
+battljo01,John Battle,19,11,8,.579,18,10,8,.556,1,1,0,1.000
+shortpu01,Purvis Short,17,6,11,.353,12,6,6,.500,5,0,5,.000
+woodle01,Leon Wood,12,7,5,.583,11,6,5,.545,1,1,0,1.000
+koncajo01,Jon Koncak,12,7,5,.583,12,7,5,.583,0,0,0,
+frankte01,Tellis Frank,8,1,7,.125,8,1,7,.125,0,0,0,
+feitlda01,Dave Feitl,7,1,6,.143,7,1,6,.143,0,0,0,
+hendeke01,Kevin Henderson,5,1,4,.200,5,1,4,.200,0,0,0,
+whatlen01,Ennis Whatley,4,2,2,.500,4,2,2,.500,0,0,0,
+minnidi01,Dirk Minniefield,3,0,3,.000,3,0,3,.000,0,0,0,
+washike01,Kermit Washington,2,0,2,.000,2,0,2,.000,0,0,0,
+garlawi01,Winston Garland,2,0,2,.000,2,0,2,.000,0,0,0,

@@ -1,0 +1,20 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+piercpa01,Paul Pierce,64,46,18,.719,60,44,16,.733,4,2,2,.500
+houseed01,Eddie House,62,44,18,.710,58,42,16,.724,4,2,2,.500
+rondora01,Rajon Rondo*,60,44,16,.733,56,42,14,.750,4,2,2,.500
+perkike01,Kendrick Perkins,60,43,17,.717,56,41,15,.732,4,2,2,.500
+allenra02,Ray Allen,59,42,17,.712,55,40,15,.727,4,2,2,.500
+davisgl01,Glen Davis,58,45,13,.776,54,43,11,.796,4,2,2,.500
+powele01,Leon Powe,54,40,14,.741,54,40,14,.741,0,0,0,
+scalabr01,Brian Scalabrine,48,37,11,.771,44,35,9,.795,4,2,2,.500
+garneke01,Kevin Garnett,47,38,9,.809,47,38,9,.809,0,0,0,
+allento01,Tony Allen,37,28,9,.757,33,26,7,.788,4,2,2,.500
+walkebi01,Henry Walker,23,17,6,.739,19,15,4,.789,4,2,2,.500
+obryapa01,Patrick O'Bryant,23,18,5,.783,23,18,5,.783,0,0,0,
+mooremi01,Mikki Moore,16,8,8,.500,12,6,6,.500,4,2,2,.500
+marbust01,Stephon Marbury,15,8,7,.533,11,6,5,.545,4,2,2,.500
+poseyja01,James Posey,13,11,2,.846,13,11,2,.846,0,0,0,
+giddejr01,J.R. Giddens,4,2,2,.500,4,2,2,.500,0,0,0,
+brownpj01,P.J. Brown,3,3,0,1.000,3,3,0,1.000,0,0,0,
+cassesa01,Sam Cassell,3,3,0,1.000,3,3,0,1.000,0,0,0,
+pollasc01,Scot Pollard,2,1,1,.500,2,1,1,.500,0,0,0,

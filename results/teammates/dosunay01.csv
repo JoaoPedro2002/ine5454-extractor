@@ -1,0 +1,28 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+vucevni01,Nikola Vučević*,155,79,76,.510,148,77,71,.520,7,2,5,.286
+derozde01,DeMar DeRozan*,151,78,73,.517,144,76,68,.528,7,2,5,.286
+lavinza01,Zach LaVine*,145,75,70,.517,139,73,66,.525,6,2,4,.333
+whiteco01,Coby White*,137,68,69,.496,130,66,64,.508,7,2,5,.286
+jonesde02,Derrick Jones Jr.*,119,58,61,.487,112,56,56,.500,7,2,5,.286
+carusal01,Alex Caruso*,108,56,52,.519,102,54,48,.529,6,2,4,.333
+willipa01,Patrick Williams*,103,50,53,.485,96,48,48,.500,7,2,5,.286
+greenja02,Javonte Green,96,48,48,.500,91,47,44,.516,5,1,4,.200
+drumman01,Andre Drummond*,68,33,35,.485,66,32,34,.485,2,1,1,.500
+browntr01,Troy Brown Jr.*,66,35,31,.530,63,35,28,.556,3,0,3,.000
+bradlto01,Tony Bradley,65,30,35,.462,63,30,33,.476,2,0,2,.000
+dragigo01,Goran Dragić*,49,23,26,.469,49,23,26,.469,0,0,0,
+thomama02,Matt Thomas,39,22,17,.564,39,22,17,.564,0,0,0,
+terryda01,Dalen Terry,37,19,18,.514,37,19,18,.514,0,0,0,
+balllo01,Lonzo Ball,31,19,12,.613,31,19,12,.613,0,0,0,
+thomptr01,Tristan Thompson*,28,9,19,.321,23,8,15,.348,5,1,4,.200
+beverpa01,Patrick Beverley*,24,14,10,.583,22,13,9,.591,2,1,1,.500
+hillma01,Malcolm Hill,20,11,9,.550,20,11,9,.550,0,0,0,
+cookty01,Tyler Cook,17,11,6,.647,17,11,6,.647,0,0,0,
+mckinal01,Alfonzo McKinnie,14,6,8,.429,14,6,8,.429,0,0,0,
+johnsal02,Alize Johnson,14,9,5,.643,14,9,5,.643,0,0,0,
+simonma01,Marko Simonovic,14,6,8,.429,14,6,8,.429,0,0,0,
+dotsode01,Devon Dotson,9,4,5,.444,9,4,5,.444,0,0,0,
+jonesca03,Carlik Jones,7,4,3,.571,7,4,3,.571,0,0,0,
+taylote01,Terry Taylor,5,4,1,.800,5,4,1,.800,0,0,0,
+belljo01,Jordan Bell,1,1,0,1.000,1,1,0,1.000,0,0,0,
+mccluma01,Mac McClung,1,1,0,1.000,1,1,0,1.000,0,0,0,

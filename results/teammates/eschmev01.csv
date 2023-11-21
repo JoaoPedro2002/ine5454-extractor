@@ -1,0 +1,44 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+newmajo01,Johnny Newman,121,46,75,.380,120,46,74,.383,1,0,1,.000
+harrilu01,Lucious Harris,94,30,64,.319,94,30,64,.319,0,0,0,
+marbust01,Stephon Marbury,89,33,56,.371,89,33,56,.371,0,0,0,
+vanhoke01,Keith Van Horn,74,28,46,.378,74,28,46,.378,0,0,0,
+williaa01,Aaron Williams,74,23,51,.311,74,23,51,.311,0,0,0,
+jacksst02,Stephen Jackson,69,22,47,.319,69,22,47,.319,0,0,0,
+martike01,Kenyon Martin,60,19,41,.317,60,19,41,.317,0,0,0,
+gillke01,Kendall Gill,56,21,35,.375,56,21,35,.375,0,0,0,
+nashst01,Steve Nash,56,37,19,.661,48,33,15,.688,8,4,4,.500
+nowitdi01,Dirk Nowitzki,51,34,17,.667,43,30,13,.698,8,4,4,.500
+douglsh01,Sherman Douglas,51,16,35,.314,51,16,35,.314,0,0,0,
+finlemi01,Michael Finley,50,34,16,.680,42,30,12,.714,8,4,4,.500
+najered01,Eduardo Nájera,48,31,17,.646,40,27,13,.675,8,4,4,.500
+bradlsh01,Shawn Bradley,41,25,16,.610,34,22,12,.647,7,3,4,.429
+mcilvji01,Jim McIlvaine,38,17,21,.447,38,17,21,.447,0,0,0,
+griffad01,Adrian Griffin,38,25,13,.658,34,23,11,.676,4,2,2,.500
+feickja01,Jamie Feick,36,16,20,.444,36,16,20,.444,0,0,0,
+vanexni01,Nick Van Exel,34,20,14,.588,26,16,10,.615,8,4,4,.500
+samakso01,Soumaila Samake,34,9,25,.265,34,9,25,.265,0,0,0,
+lafrera01,Raef LaFrentz,33,19,14,.576,25,15,10,.600,8,4,4,.500
+kittlke01,Kerry Kittles,31,14,17,.452,31,14,17,.452,0,0,0,
+burresc01,Scott Burrell,30,14,16,.467,30,14,16,.467,0,0,0,
+stepavl01,Vladimir Stepania,24,5,19,.208,24,5,19,.208,0,0,0,
+perryel01,Elliot Perry,22,9,13,.409,22,9,13,.409,0,0,0,
+zhizhwa01,Wang Zhizhi,22,14,8,.636,19,12,7,.632,3,2,1,.667
+hardati01,Tim Hardaway,21,16,5,.762,21,16,5,.762,0,0,0,
+howarju01,Juwan Howard,21,16,5,.762,21,16,5,.762,0,0,0,
+bellra01,Raja Bell,20,12,8,.600,15,10,5,.667,5,2,3,.400
+ollieke01,Kevin Ollie,19,7,12,.368,19,7,12,.368,0,0,0,
+mannida01,Danny Manning,18,14,4,.778,18,14,4,.778,0,0,0,
+johnsav01,Avery Johnson,15,10,5,.667,15,10,5,.667,0,0,0,
+williwa02,Walt Williams,15,9,6,.600,10,7,3,.700,5,2,3,.400
+abdulta01,Tariq Abdul-Wahad,13,6,7,.462,9,5,4,.556,4,1,3,.250
+overtdo01,Doug Overton,12,3,9,.250,12,3,9,.250,0,0,0,
+harvedo01,Donnell Harvey,10,9,1,.900,10,9,1,.900,0,0,0,
+buckngr01,Greg Buckner,10,6,4,.600,8,5,3,.625,2,1,1,.500
+stricma01,Mark Strickland,9,2,7,.222,9,2,7,.222,0,0,0,
+muresgh01,Gheorghe Mureșan,8,3,5,.375,8,3,5,.375,0,0,0,
+gilled01,Eddie Gill,8,1,7,.125,8,1,7,.125,0,0,0,
+thomaja01,Jamel Thomas,5,0,5,.000,5,0,5,.000,0,0,0,
+cagemi01,Michael Cage,4,2,2,.500,4,2,2,.500,0,0,0,
+jonespo01,Popeye Jones,3,1,2,.333,3,1,2,.333,0,0,0,
+rigauan01,Antoine Rigaudeau,3,2,1,.667,3,2,1,.667,0,0,0,

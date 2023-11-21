@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+zasloma01,Max Zaslofsky*,31,21,10,.677,31,21,10,.677,0,0,0,
+miasest01,Stan Miasek*,31,21,10,.677,31,21,10,.677,0,0,0,
+phillan01,Andy Phillip*,31,21,10,.677,31,21,10,.677,0,0,0,
+mikaned01,Ed Mikan*,31,21,10,.677,31,21,10,.677,0,0,0,
+rollike01,Kenny Rollins*,31,21,10,.677,31,21,10,.677,0,0,0,
+spearod01,Odie Spears*,30,21,9,.700,30,21,9,.700,0,0,0,
+gilmuch01,Chuck Gilmur*,28,18,10,.643,28,18,10,.643,0,0,0,
+ferriar01,Arnie Ferrin*,27,20,7,.741,19,14,5,.737,8,6,2,.750
+jarosto01,Tony Jaros*,27,20,7,.741,19,14,5,.737,8,6,2,.750
+dwanja01,Jack Dwan,27,20,7,.741,19,14,5,.737,8,6,2,.750
+mikange01,George Mikan*,27,20,7,.741,19,14,5,.737,8,6,2,.750
+vancege01,Gene Vance*,27,18,9,.667,27,18,9,.667,0,0,0,
+jorgejo01,Johnny Jorgensen,25,18,7,.720,19,14,5,.737,6,4,2,.667
+schaehe01,Herm Schaefer*,25,18,7,.720,17,12,5,.706,8,6,2,.750
+formado01,Donnie Forman,24,18,6,.750,17,13,4,.765,7,5,2,.714
+grabojo01,Joe Graboski*,24,18,6,.750,24,18,6,.750,0,0,0,
+carlsdo01,Don Carlson,22,16,6,.727,14,10,4,.714,8,6,2,.750
+gardnea01,Earl Gardner,21,15,6,.714,15,11,4,.733,6,4,2,.667
+pollaji01,Jim Pollard*,20,14,6,.700,12,8,4,.667,8,6,2,.750
+millebi01,Bill Miller*,13,9,4,.692,13,9,4,.692,0,0,0,
+brownji01,Jim Browne*,4,4,0,1.000,4,4,0,1.000,0,0,0,
+roberbi01,Bill Roberts*,2,2,0,1.000,2,2,0,1.000,0,0,0,
+eskrija01,Jack Eskridge*,2,1,1,.500,2,1,1,.500,0,0,0,

@@ -1,0 +1,41 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jamesle01,LeBron James*,99,53,46,.535,82,44,38,.537,17,9,8,.529
+davisan02,Anthony Davis*,94,51,43,.543,77,42,35,.545,17,9,8,.529
+westbru01,Russell Westbrook*,93,43,50,.462,93,43,50,.462,0,0,0,
+gabriwe01,Wenyen Gabriel*,81,43,38,.531,70,36,34,.514,11,7,4,.636
+browntr01,Troy Brown Jr.*,74,42,32,.568,61,34,27,.557,13,8,5,.615
+schrode01,Dennis Schröder*,65,38,27,.585,48,29,19,.604,17,9,8,.529
+walkelo01,Lonnie Walker IV*,62,30,32,.484,49,25,24,.510,13,5,8,.385
+monkma01,Malik Monk*,59,27,32,.458,59,27,32,.458,0,0,0,
+anthoca01,Carmelo Anthony*,49,22,27,.449,49,22,27,.449,0,0,0,
+bradlav01,Avery Bradley,46,22,24,.478,46,22,24,.478,0,0,0,
+hortota01,Talen Horton-Tucker*,45,19,26,.422,45,19,26,.422,0,0,0,
+hachiru01,Rui Hachimura*,44,27,17,.614,27,18,9,.667,17,9,8,.529
+johnsst04,Stanley Johnson,43,15,28,.349,43,15,28,.349,0,0,0,
+howardw01,Dwight Howard,43,17,26,.395,43,17,26,.395,0,0,0,
+vandeja01,Jarred Vanderbilt*,42,27,15,.643,26,18,8,.692,16,9,7,.562
+beaslma01,Malik Beasley*,38,25,13,.658,26,18,8,.692,12,7,5,.583
+chrisma02,Max Christie,35,16,19,.457,26,12,14,.462,9,4,5,.444
+russeda01,D'Angelo Russell*,34,21,13,.618,17,12,5,.706,17,9,8,.529
+bazemke01,Kent Bazemore*,32,15,17,.469,32,15,17,.469,0,0,0,
+beverpa01,Patrick Beverley*,30,14,16,.467,30,14,16,.467,0,0,0,
+nunnke01,Kendrick Nunn,28,13,15,.464,28,13,15,.464,0,0,0,
+ellinwa01,Wayne Ellington,27,11,16,.407,27,11,16,.407,0,0,0,
+bryanth01,Thomas Bryant,23,13,10,.565,23,13,10,.565,0,0,0,
+arizatr01,Trevor Ariza,22,8,14,.364,22,8,14,.364,0,0,0,
+jordade01,DeAndre Jordan,20,12,8,.600,20,12,8,.600,0,0,0,
+augusdj01,D.J. Augustin,19,6,13,.316,19,6,13,.316,0,0,0,
+toscaju01,Juan Toscano-Anderson*,18,6,12,.333,18,6,12,.333,0,0,0,
+jonesda03,Damian Jones,16,5,11,.312,16,5,11,.312,0,0,0,
+ryanma01,Matt Ryan,12,5,7,.417,12,5,7,.417,0,0,0,
+bambamo01,Mo Bamba,12,9,3,.750,9,7,2,.778,3,2,1,.667
+reedda01,Davon Reed,8,6,2,.750,8,6,2,.750,0,0,0,
+harrish01,Shaquille Harrison,8,3,5,.375,0,0,0,,8,3,5,.375
+rondora01,Rajon Rondo*,7,3,4,.429,7,3,4,.429,0,0,0,
+thomptr01,Tristan Thompson*,6,2,4,.333,0,0,0,,6,2,4,.333
+swideco01,Cole Swider,3,1,2,.333,3,1,2,.333,0,0,0,
+jonesma05,Mason Jones,2,2,0,1.000,2,2,0,1.000,0,0,0,
+pippesc02,Scotty Pippen Jr.,2,0,2,.000,2,0,2,.000,0,0,0,
+huffja01,Jay Huff,1,0,1,.000,1,0,1,.000,0,0,0,
+doumbse01,Sekou Doumbouya,1,0,1,.000,1,0,1,.000,0,0,0,
+mccluma01,Mac McClung,1,1,0,1.000,1,1,0,1.000,0,0,0,

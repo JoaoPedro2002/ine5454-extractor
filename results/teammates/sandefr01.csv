@@ -1,0 +1,34 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+grunfer01,Ernie Grunfeld,32,17,15,.531,23,13,10,.565,9,4,5,.444
+wedmasc01,Scott Wedman,32,17,15,.531,23,13,10,.565,9,4,5,.444
+lambejo01,John Lambert,32,17,15,.531,23,13,10,.565,9,4,5,.444
+laceysa01,Sam Lacey*,32,17,15,.531,23,13,10,.565,9,4,5,.444
+kingre01,Reggie King,32,17,15,.531,23,13,10,.565,9,4,5,.444
+douglle01,Leon Douglas,31,17,14,.548,22,13,9,.591,9,4,5,.444
+meriwjo01,Joe Meriweather*,27,14,13,.519,19,10,9,.526,8,4,4,.500
+waltoll01,Lloyd Walton,25,14,11,.560,19,11,8,.579,6,3,3,.500
+fordch01,Chris Ford,24,6,18,.250,24,6,18,.250,0,0,0,
+judkije01,Jeff Judkins,24,6,18,.250,24,6,18,.250,0,0,0,
+architi01,Tiny Archibald,23,5,18,.217,23,5,18,.217,0,0,0,
+rowecu01,Curtis Rowe,22,5,17,.227,22,5,17,.227,0,0,0,
+maxwece01,Cedric Maxwell,22,6,16,.273,22,6,16,.273,0,0,0,
+galemi01,Mike Gale*,22,14,8,.636,22,14,8,.636,0,0,0,
+gervige01,George Gervin,22,14,8,.636,22,14,8,.636,0,0,0,
+paultbi01,Billy Paultz*,22,14,8,.636,22,14,8,.636,0,0,0,
+birdsot01,Otis Birdsong,22,10,12,.455,18,8,10,.444,4,2,2,.500
+kenonla01,Larry Kenon*,21,13,8,.619,21,13,8,.619,0,0,0,
+olberma01,Mark Olberding,21,14,7,.667,21,14,7,.667,0,0,0,
+dietrco01,Coby Dietrick,21,14,7,.667,21,14,7,.667,0,0,0,
+greenmi01,Mike Green*,20,12,8,.600,20,12,8,.600,0,0,0,
+silasja01,James Silas*,20,12,8,.600,20,12,8,.600,0,0,0,
+dampilo01,Louie Dampier*,19,13,6,.684,19,13,6,.684,0,0,0,
+robeyri01,Rick Robey,19,4,15,.211,19,4,15,.211,0,0,0,
+bristal01,Allan Bristow,18,11,7,.611,18,11,7,.611,0,0,0,
+stacoke01,Kevin Stacom,16,3,13,.188,16,3,13,.188,0,0,0,
+chanedo01,Don Chaney,16,4,12,.250,16,4,12,.250,0,0,0,
+mcadobo01,Bob McAdoo,14,2,12,.143,14,2,12,.143,0,0,0,
+cowenda01,Dave Cowens,14,4,10,.286,14,4,10,.286,0,0,0,
+fordph01,Phil Ford,13,7,6,.538,11,7,4,.636,2,0,2,.000
+barketo01,Tom Barker,6,2,4,.333,6,2,4,.333,0,0,0,
+whitejo01,Jo Jo White*,4,1,3,.250,4,1,3,.250,0,0,0,
+barnema01,Marvin Barnes,4,1,3,.250,4,1,3,.250,0,0,0,

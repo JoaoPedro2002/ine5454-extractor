@@ -1,0 +1,35 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hawkihe01,Hersey Hawkins,145,77,68,.531,142,76,66,.535,3,1,2,.333
+anderro01,Ron Anderson,144,76,68,.528,141,75,66,.532,3,1,2,.333
+barklch01,Charles Barkley,116,70,46,.603,113,69,44,.611,3,1,2,.333
+dawkijo01,Johnny Dawkins,96,53,43,.552,93,52,41,.559,3,1,2,.333
+bolma01,Manute Bol,93,44,49,.473,93,44,49,.473,0,0,0,
+gilliar01,Armen Gilliam,83,34,49,.410,83,34,49,.410,0,0,0,
+mahorri01,Rick Mahorn,81,49,32,.605,78,48,30,.615,3,1,2,.333
+willija01,Jayson Williams,66,27,39,.409,66,27,39,.409,0,0,0,
+olivebr01,Brian Oliver,65,33,32,.508,65,33,32,.508,0,0,0,
+gminsmi01,Mike Gminski,60,42,18,.700,57,41,16,.719,3,1,2,.333
+grantgr01,Greg Grant,50,19,31,.380,50,19,31,.380,0,0,0,
+shackch01,Charles Shackleford,47,18,29,.383,47,18,29,.383,0,0,0,
+greenri01,Rickey Green,44,23,21,.523,44,23,21,.523,0,0,0,
+turnean01,Andre Turner,38,19,19,.500,38,19,19,.500,0,0,0,
+brooksc01,Scott Brooks,38,28,10,.737,35,27,8,.771,3,1,2,.333
+nimphku01,Kurt Nimphius,31,25,6,.806,28,24,4,.857,3,1,2,.333
+smithde02,Derek Smith*,30,22,8,.733,29,22,7,.759,1,0,1,.000
+copella01,Lanard Copeland,25,19,6,.760,22,18,4,.818,3,1,2,.333
+thornbo01,Bob Thornton,24,17,7,.708,21,16,5,.762,3,1,2,.333
+wiggimi01,Mitchell Wiggins,23,9,14,.391,23,9,14,.391,0,0,0,
+hoppeda01,Dave Hoppen,16,7,9,.438,16,7,9,.438,0,0,0,
+perryti01,Tim Perry,13,2,11,.154,13,2,11,.154,0,0,0,
+weathcl01,Clarence Weatherspoon,13,2,11,.154,13,2,11,.154,0,0,0,
+hornaje01,Jeff Hornacek,13,2,11,.154,13,2,11,.154,0,0,0,
+langan01,Andrew Lang,11,2,9,.182,11,2,9,.182,0,0,0,
+mayesth01,Tharon Mayes,10,5,5,.500,10,5,5,.500,0,0,0,
+vinceja01,Jay Vincent,8,6,2,.750,8,6,2,.750,0,0,0,
+rulanje01,Jeff Ruland,7,5,2,.714,7,5,2,.714,0,0,0,
+anslemi01,Michael Ansley,7,5,2,.714,7,5,2,.714,0,0,0,
+wilkied01,Eddie Lee Wilkins,5,1,4,.200,5,1,4,.200,0,0,0,
+harrito01,Tony Harris,4,0,4,.000,4,0,4,.000,0,0,0,
+eliema01,Mario Elie,2,0,2,.000,2,0,2,.000,0,0,0,
+farmeji01,Jim Farmer,2,1,1,.500,2,1,1,.500,0,0,0,
+shousde01,Dexter Shouse,1,1,0,1.000,1,1,0,1.000,0,0,0,

@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+zasloma01,Max Zaslofsky*,64,37,27,.578,57,35,22,.614,7,2,5,.286
+halbech01,Chick Halbert,64,37,27,.578,57,35,22,.614,7,2,5,.286
+carlsdo01,Don Carlson,63,36,27,.571,56,34,22,.607,7,2,5,.286
+jarosto01,Tony Jaros*,63,36,27,.571,56,34,22,.607,7,2,5,.286
+seminji01,Jim Seminoff,62,36,26,.581,55,34,21,.618,7,2,5,.286
+rottnmi01,Mickey Rottner*,55,32,23,.582,50,30,20,.600,5,2,3,.400
+carlich01,Chet Carlisle,54,29,25,.537,47,27,20,.574,7,2,5,.286
+gilmuch01,Chuck Gilmur*,51,31,20,.608,44,29,15,.659,7,2,5,.286
+kautzwi01,Wilbert Kautz*,50,29,21,.580,44,28,16,.636,6,1,5,.167
+davisbi01,Bill Davis*,49,31,18,.633,44,29,15,.659,5,2,3,.400
+sydnobu01,Buck Sydnor,15,8,7,.533,15,8,7,.533,0,0,0,
+duffybo01,Bob Duffy*,10,6,4,.600,10,6,4,.600,0,0,0,
+oshiega01,Garland O'Shields*,6,4,2,.667,6,4,2,.667,0,0,0,
+bakerno01,Norm Baker,4,3,1,.750,4,3,1,.750,0,0,0,
+rensbro01,Bob Rensberger,3,0,3,.000,3,0,3,.000,0,0,0,

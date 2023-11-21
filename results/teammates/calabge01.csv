@@ -1,0 +1,18 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+ratkoge01,George Ratkovicz*,110,60,50,.545,104,58,46,.558,6,2,4,.333
+schaydo01,Dolph Schayes*,107,59,48,.551,101,57,44,.564,6,2,4,.333
+gaborbi01,Bill Gabor,100,58,42,.580,94,56,38,.596,6,2,4,.333
+seymopa01,Paul Seymour*,98,55,43,.561,92,53,39,.576,6,2,4,.333
+cervial01,Al Cervi*,93,49,44,.527,87,47,40,.540,6,2,4,.333
+jorgeno01,Noble Jorgensen*,87,48,39,.552,81,46,35,.568,6,2,4,.333
+osterwa01,Wally Osterkorn,64,37,27,.578,58,35,23,.603,6,2,4,.333
+rochare01,Red Rocha*,64,37,27,.578,58,35,23,.603,6,2,4,.333
+kingge01,George King*,63,37,26,.587,58,35,23,.603,5,2,3,.400
+hannual01,Alex Hannum*,44,22,22,.500,44,22,22,.500,0,0,0,
+lofgrdo01,Don Lofgran*,41,20,21,.488,41,20,21,.488,0,0,0,
+macknjo01,Johnny Macknowski*,40,21,19,.525,40,21,19,.525,0,0,0,
+petered01,Ed Peterson*,16,10,6,.625,16,10,6,.625,0,0,0,
+smawlbe01,Belus Smawley*,15,8,7,.533,15,8,7,.533,0,0,0,
+scolafr01,Fred Scolari*,14,6,8,.429,14,6,8,.429,0,0,0,
+savagdo01,Don Savage,8,7,1,.875,8,7,1,.875,0,0,0,
+chollle01,Leroy Chollet*,3,2,1,.667,3,2,1,.667,0,0,0,

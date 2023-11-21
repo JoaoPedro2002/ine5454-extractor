@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+lillada01,Damian Lillard*,162,89,73,.549,151,86,65,.570,11,3,8,.273
+batumni01,Nicolas Batum*,146,82,64,.562,135,79,56,.585,11,3,8,.273
+aldrila01,LaMarcus Aldridge,145,84,61,.579,134,81,53,.604,11,3,8,.273
+matthwe02,Wesley Matthews*,138,81,57,.587,129,78,51,.605,9,3,6,.333
+lopezro01,Robin Lopez*,102,67,35,.657,91,64,27,.703,11,3,8,.273
+leoname01,Meyers Leonard,90,37,53,.411,84,37,47,.440,6,0,6,.000
+bartowi01,Will Barton*,80,35,45,.438,74,34,40,.459,6,1,5,.167
+wrighdo01,Dorell Wright,73,52,21,.712,66,49,17,.742,7,3,4,.429
+robinth01,Thomas Robinson,69,48,21,.696,60,45,15,.750,9,3,6,.333
+mccolcj01,CJ McCollum*,56,32,24,.571,49,32,17,.653,7,0,7,.000
+willima01,Mo Williams,54,37,17,.685,47,34,13,.723,7,3,4,.429
+hicksjj01,J.J. Hickson,50,15,35,.300,50,15,35,.300,0,0,0,
+blakest01,Steve Blake,49,34,15,.694,47,34,13,.723,2,0,2,.000
+crabbal01,Allen Crabbe,48,34,14,.708,46,34,12,.739,2,0,2,.000
+kamanch01,Chris Kaman,43,32,11,.744,42,32,10,.762,1,0,1,.000
+babbilu01,Luke Babbitt,40,11,29,.275,40,11,29,.275,0,0,0,
+clavevi01,Victor Claver,38,14,24,.368,36,14,22,.389,2,0,2,.000
+smithno01,Nolan Smith,29,6,23,.207,29,6,23,.207,0,0,0,
+pavloal01,Sasha Pavlović,25,6,19,.240,25,6,19,.240,0,0,0,
+pricero01,Ronnie Price,23,7,16,.304,23,7,16,.304,0,0,0,
+jeffrja01,Jared Jeffries,20,5,15,.250,20,5,15,.250,0,0,0,
+maynoer01,Eric Maynor,20,6,14,.300,20,6,14,.300,0,0,0,
+watsoea01,Earl Watson,19,11,8,.579,16,11,5,.688,3,0,3,.000
+afflaar01,Arron Afflalo,14,9,5,.643,14,9,5,.643,0,0,0,
+geeal01,Alonzo Gee,12,5,7,.417,11,5,6,.455,1,0,1,.000
+fraziti01,Tim Frazier,6,2,4,.333,5,2,3,.400,1,0,1,.000

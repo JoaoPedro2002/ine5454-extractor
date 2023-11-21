@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+stockjo01,John Stockton,55,38,17,.691,51,37,14,.725,4,1,3,.250
+brownmi01,Mike Brown,55,38,17,.691,51,37,14,.725,4,1,3,.250
+malonje01,Jeff Malone,54,38,16,.704,50,37,13,.740,4,1,3,.250
+malonka01,Karl Malone,54,37,17,.685,50,36,14,.720,4,1,3,.250
+eatonma01,Mark Eaton,54,38,16,.704,50,37,13,.740,4,1,3,.250
+edwarbl01,Blue Edwards,54,38,16,.704,50,37,13,.740,4,1,3,.250
+benoida01,David Benoit,53,36,17,.679,49,35,14,.714,4,1,3,.250
+ruddde01,Delaney Rudd,48,32,16,.667,44,31,13,.705,4,1,3,.250
+corbity01,Tyrone Corbin,43,32,11,.744,39,31,8,.795,4,1,3,.250
+murdoer01,Eric Murdock,39,29,10,.744,36,28,8,.778,3,1,2,.333
+austiis01,Isaac Austin,29,22,7,.759,29,22,7,.759,0,0,0,
+baileth01,Thurl Bailey,12,6,6,.500,12,6,6,.500,0,0,0,
+reidjr01,J.R. Reid,7,4,3,.571,7,4,3,.571,0,0,0,
+whitnch01,Chris Whitney,7,4,3,.571,7,4,3,.571,0,0,0,
+robinda01,David Robinson,7,4,3,.571,7,4,3,.571,0,0,0,
+persoch01,Chuck Person,7,4,3,.571,7,4,3,.571,0,0,0,
+johnsav01,Avery Johnson,7,4,3,.571,7,4,3,.571,0,0,0,
+elliose01,Sean Elliott,7,4,3,.571,7,4,3,.571,0,0,0,
+thornbo01,Bob Thornton,6,3,3,.500,2,2,0,1.000,4,1,3,.250
+cummite01,Terry Cummings,6,4,2,.667,6,4,2,.667,0,0,0,
+malonmo01,Moses Malone,6,3,3,.500,6,3,3,.500,0,0,0,
+haleyja01,Jack Haley,5,4,1,.800,5,4,1,.800,0,0,0,
+anderwi01,Willie Anderson,5,2,3,.400,5,2,3,.400,0,0,0,
+nwosuju01,Julius Nwosu,4,2,2,.500,4,2,2,.500,0,0,0,
+delnevi01,Vinny Del Negro,3,2,1,.667,3,2,1,.667,0,0,0,
+rodmade01,Dennis Rodman,1,1,0,1.000,1,1,0,1.000,0,0,0,

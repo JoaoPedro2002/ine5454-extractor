@@ -1,0 +1,34 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+randlju01,Julius Randle,219,116,103,.530,207,110,97,.531,12,6,6,.500
+barrerj01,RJ Barrett,218,115,103,.528,205,109,96,.532,13,6,7,.462
+toppiob01,Obi Toppin,207,108,99,.522,194,102,92,.526,13,6,7,.462
+robinmi01,Mitchell Robinson,162,83,79,.512,154,78,76,.506,8,5,3,.625
+burksal01,Alec Burks,128,61,67,.477,123,60,63,.488,5,1,4,.200
+grimequ01,Quentin Grimes,121,64,57,.529,115,61,54,.530,6,3,3,.500
+mcbrimi01,Miles McBride,108,58,50,.537,103,55,48,.534,5,3,2,.600
+fournev01,Evan Fournier*,102,49,53,.480,102,49,53,.480,0,0,0,
+gibsota01,Taj Gibson,94,50,44,.532,89,49,40,.551,5,1,4,.200
+simsje01,Jericho Sims,91,50,41,.549,91,50,41,.549,0,0,0,
+rosede01,Derrick Rose,91,48,43,.527,85,46,39,.541,6,2,4,.333
+harteis01,Isaiah Hartenstein*,89,52,37,.584,81,47,34,.580,8,5,3,.625
+noelne01,Nerlens Noel,84,41,43,.488,79,40,39,.506,5,1,4,.200
+brunsja01,Jalen Brunson,75,45,30,.600,67,40,27,.597,8,5,3,.625
+bullore01,Reggie Bullock,62,35,27,.565,57,34,23,.596,5,1,4,.200
+paytoel01,Elfrid Payton,58,34,24,.586,56,33,23,.589,2,1,1,.500
+knoxke01,Kevin Knox*,50,27,23,.540,49,27,22,.551,1,0,1,.000
+reddica01,Cam Reddish,35,14,21,.400,35,14,21,.400,0,0,0,
+hartjo01,Josh Hart,33,22,11,.667,25,17,8,.680,8,5,3,.625
+walkeke02,Kemba Walker*,33,14,19,.424,33,14,19,.424,0,0,0,
+ntilila01,Frank Ntilikina,29,19,10,.655,26,19,7,.731,3,0,3,.000
+arcidry01,Ryan Arcidiacono,21,15,6,.714,21,15,6,.714,0,0,0,
+riverau01,Austin Rivers*,20,10,10,.500,20,10,10,.500,0,0,0,
+pinsoth01,Theo Pinson,14,8,6,.571,14,8,6,.571,0,0,0,
+mykhasv01,Svi Mykhailiuk,13,8,5,.615,13,8,5,.615,0,0,0,
+pelleno01,Norvel Pelle,8,7,1,.875,8,7,1,.875,0,0,0,
+harpeja01,Jared Harper,5,4,1,.800,5,4,1,.800,0,0,0,
+keelstr01,Trevor Keels,3,3,0,1.000,3,3,0,1.000,0,0,0,
+brazdig01,Ignas Brazdeikis,2,1,1,.500,2,1,1,.500,0,0,0,
+huntfe01,Feron Hunt,2,2,0,1.000,2,2,0,1.000,0,0,0,
+smithde03,Dennis Smith Jr.,2,1,1,.500,2,1,1,.500,0,0,0,
+jeffrda01,DaQuan Jeffries,2,1,1,.500,0,0,0,,2,1,1,.500
+seldewa01,Wayne Selden,1,1,0,1.000,1,1,0,1.000,0,0,0,

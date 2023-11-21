@@ -1,0 +1,38 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jokicni01,Nikola Jokić,131,89,42,.679,119,83,36,.697,12,6,6,.500
+gordoaa01,Aaron Gordon,103,67,36,.650,91,61,30,.670,12,6,6,.500
+cancavl01,Vlatko Čančar,99,60,39,.606,87,54,33,.621,12,6,6,.500
+portemi01,Michael Porter Jr.,87,58,29,.667,77,52,25,.675,10,6,4,.600
+campafa01,Facundo Campazzo,83,51,32,.614,77,50,27,.649,6,1,5,.167
+greenje02,Jeff Green,77,44,33,.571,70,39,31,.557,7,5,2,.714
+murraja01,Jamal Murray,77,56,21,.727,72,51,21,.708,5,5,0,1.000
+morrimo01,Monte Morris,74,45,29,.608,67,44,23,.657,7,1,6,.143
+bartowi01,Will Barton*,71,43,28,.606,67,43,24,.642,4,0,4,.000
+greenja01,JaMychal Green,68,39,29,.574,61,38,23,.623,7,1,6,.143
+hylanbo01,Bones Hyland,67,40,27,.597,65,40,25,.615,2,0,2,.000
+reedda01,Davon Reed,57,37,20,.649,57,37,20,.649,0,0,0,
+howarma02,Markus Howard,57,34,23,.596,52,33,19,.635,5,1,4,.200
+brownbr01,Bruce Brown*,56,39,17,.696,51,34,17,.667,5,5,0,1.000
+braunch01,Christian Braun,55,37,18,.673,50,32,18,.640,5,5,0,1.000
+caldwke01,Kentavious Caldwell-Pope*,52,37,15,.712,47,32,15,.681,5,5,0,1.000
+riverau01,Austin Rivers*,42,23,19,.548,35,22,13,.629,7,1,6,.143
+bolbo01,Bol Bol,38,24,14,.632,35,23,12,.657,3,1,2,.333
+millspa01,Paul Millsap,34,22,12,.647,29,21,8,.724,5,1,4,.200
+smithis01,Ish Smith*,34,23,11,.676,30,19,11,.633,4,4,0,1.000
+doziepj01,PJ Dozier,33,26,7,.788,33,26,7,.788,0,0,0,
+jordade01,DeAndre Jordan,27,14,13,.519,26,13,13,.500,1,1,0,1.000
+harteis01,Isaiah Hartenstein*,21,14,7,.667,21,14,7,.667,0,0,0,
+watsope01,Peyton Watson,21,13,8,.619,16,8,8,.500,5,5,0,1.000
+hamptrj01,R.J. Hampton,19,12,7,.632,19,12,7,.632,0,0,0,
+forbebr01,Bryn Forbes,16,8,8,.500,14,8,6,.571,2,0,2,.000
+whiteja03,Jack White,12,10,2,.833,12,10,2,.833,0,0,0,
+harrish01,Shaquille Harrison,12,6,6,.500,7,5,2,.714,5,1,4,.200
+jacksre01,Reggie Jackson*,10,7,3,.700,5,2,3,.400,5,5,0,1.000
+harriga01,Gary Harris,10,7,3,.700,10,7,3,.700,0,0,0,
+couside01,DeMarcus Cousins,9,6,3,.667,7,6,1,.857,2,0,2,.000
+cornepe01,Petr Cornelie,9,2,7,.222,9,2,7,.222,0,0,0,
+mcgeeja01,JaVale McGee,6,3,3,.500,4,3,1,.750,2,0,2,.000
+bryanth01,Thomas Bryant,5,4,1,.800,4,3,1,.750,1,1,0,1.000
+whittgr01,Greg Whittington,4,3,1,.750,4,3,1,.750,0,0,0,
+ennisja01,James Ennis III,3,1,2,.333,3,1,2,.333,0,0,0,
+clarkga01,Gary Clark,2,2,0,1.000,2,2,0,1.000,0,0,0,

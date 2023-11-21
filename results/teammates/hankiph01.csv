@@ -1,0 +1,15 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+whitejo01,Jo Jo White*,35,24,11,.686,31,21,10,.677,4,3,1,.750
+westppa01,Paul Westphal,35,24,11,.686,31,21,10,.677,4,3,1,.750
+nelsodo01,Don Nelson,35,24,11,.686,31,21,10,.677,4,3,1,.750
+silaspa01,Paul Silas,35,24,11,.686,31,21,10,.677,4,3,1,.750
+chanedo01,Don Chaney,35,24,11,.686,31,21,10,.677,4,3,1,.750
+cowenda01,Dave Cowens,35,24,11,.686,31,21,10,.677,4,3,1,.750
+havlijo01,John Havlicek,33,24,9,.727,29,21,8,.724,4,3,1,.750
+kuberst01,Steve Kuberski,29,20,9,.690,27,18,9,.667,2,2,0,1.000
+finkeha01,Hank Finkel*,29,20,9,.690,26,18,8,.692,3,2,1,.667
+williar01,Art Williams*,29,20,9,.690,27,18,9,.667,2,2,0,1.000
+downist01,Steve Downing,23,16,7,.696,22,15,7,.682,1,1,0,1.000
+stacoke01,Kevin Stacom,5,3,2,.600,3,2,1,.667,2,1,1,.500
+mcdongl01,Glenn McDonald,5,3,2,.600,3,2,1,.667,2,1,1,.500
+ardji01,Jim Ard*,5,3,2,.600,3,2,1,.667,2,1,1,.500

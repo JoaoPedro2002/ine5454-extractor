@@ -1,0 +1,36 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mannte01,Terance Mann*,37,28,9,.757,29,21,8,.724,8,7,1,.875
+kennalu01,Luke Kennard,36,28,8,.778,28,21,7,.750,8,7,1,.875
+batumni01,Nicolas Batum*,36,27,9,.750,28,20,8,.714,8,7,1,.875
+zubaciv01,Ivica Zubac*,36,27,9,.750,30,21,9,.700,6,6,0,1.000
+jacksre01,Reggie Jackson*,35,26,9,.743,27,19,8,.704,8,7,1,.875
+georgpa01,Paul George*,33,25,8,.758,25,18,7,.720,8,7,1,.875
+morrima03,Marcus Morris*,33,25,8,.758,25,18,7,.720,8,7,1,.875
+coffeam01,Amir Coffey*,31,23,8,.742,23,16,7,.696,8,7,1,.875
+leonaka01,Kawhi Leonard,26,22,4,.846,22,18,4,.818,4,4,0,1.000
+pattepa01,Patrick Patterson,20,13,7,.650,20,13,7,.650,0,0,0,
+beverpa01,Patrick Beverley*,20,16,4,.800,13,10,3,.769,7,6,1,.857
+ferreyo01,Yogi Ferrell,16,11,5,.688,8,4,4,.500,8,7,1,.875
+rondora01,Rajon Rondo*,14,11,3,.786,10,7,3,.700,4,4,0,1.000
+willilo02,Lou Williams,12,8,4,.667,12,8,4,.667,0,0,0,
+kabenmf01,Mfiondu Kabengele,12,9,3,.750,12,9,3,.750,0,0,0,
+ibakase01,Serge Ibaka,12,7,5,.583,12,7,5,.583,0,0,0,
+couside01,DeMarcus Cousins,10,7,3,.700,8,6,2,.750,2,1,1,.500
+scrubja01,Jay Scrubb,9,6,3,.667,4,2,2,.500,5,4,1,.800
+fittsma01,Malik Fitts,3,3,0,1.000,3,3,0,1.000,0,0,0,
+mykhasv01,Svi Mykhailiuk,3,1,2,.333,3,1,2,.333,0,0,0,
+watanyu01,Yuta Watanabe,3,1,2,.333,3,1,2,.333,0,0,0,
+bouchch01,Chris Boucher*,3,1,2,.333,3,1,2,.333,0,0,0,
+trentga02,Gary Trent Jr.*,2,1,1,.500,2,1,1,.500,0,0,0,
+watertr01,Tremont Waters*,2,0,2,.000,2,0,2,.000,0,0,0,
+flynnma01,Malachi Flynn,2,1,1,.500,2,1,1,.500,0,0,0,
+siakapa01,Pascal Siakam*,2,1,1,.500,2,1,1,.500,0,0,0,
+bantoda01,Dalano Banton,2,1,1,.500,2,1,1,.500,0,0,0,
+wilsodj01,D.J. Wilson,2,0,2,.000,2,0,2,.000,0,0,0,
+birchkh01,Khem Birch,1,1,0,1.000,1,1,0,1.000,0,0,0,
+achiupr01,Precious Achiuwa*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+vanvlfr01,Fred VanVleet*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+morgaju01,Juwan Morgan,1,0,1,.000,1,0,1,.000,0,0,0,
+barnesc01,Scottie Barnes*,1,1,0,1.000,1,1,0,1.000,0,0,0,
+champju01,Justin Champagnie,1,1,0,1.000,1,1,0,1.000,0,0,0,
+anunoog01,OG Anunoby*,1,1,0,1.000,1,1,0,1.000,0,0,0,

@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+barklch01,Charles Barkley,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+greenac01,A.C. Green,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+westma01,Mark West,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+perryel01,Elliot Perry,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+aingeda01,Danny Ainge,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+cebalce01,Cedric Ceballos,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+majerda01,Dan Majerle,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+johnske02,Kevin Johnson,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+johnsfr01,Frank Johnson,7,6,1,.857,4,4,0,1.000,3,2,1,.667
+kleinjo01,Joe Kleine,6,5,1,.833,4,4,0,1.000,2,1,1,.500
+milleol01,Oliver Miller,5,4,1,.800,2,2,0,1.000,3,2,1,.667

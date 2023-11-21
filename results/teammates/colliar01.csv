@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+johnsed02,Eddie Johnson,29,12,17,.414,29,12,17,.414,0,0,0,
+matthwe01,Wes Matthews,29,12,17,.414,29,12,17,.414,0,0,0,
+hawesst01,Steve Hawes,29,12,17,.414,29,12,17,.414,0,0,0,
+sheltcr01,Craig Shelton,26,11,15,.423,26,11,15,.423,0,0,0,
+mcmilto01,Tom McMillen,26,11,15,.423,26,11,15,.423,0,0,0,
+pellosa01,Sam Pellom,26,10,16,.385,26,10,16,.385,0,0,0,
+roundda01,Dan Roundfield,22,10,12,.455,22,10,12,.455,0,0,0,
+burleto01,Tom Burleson,19,8,11,.421,19,8,11,.421,0,0,0,
+drewjo01,John Drew,17,9,8,.529,17,9,8,.529,0,0,0,
+crissch01,Charlie Criss,15,8,7,.533,15,8,7,.533,0,0,0,
+mcelrji01,Jim McElroy,11,4,7,.364,11,4,7,.364,0,0,0,
+rollitr01,Tree Rollins,7,2,5,.286,7,2,5,.286,0,0,0,

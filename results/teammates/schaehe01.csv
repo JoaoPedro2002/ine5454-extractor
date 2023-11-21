@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+mikange01,George Mikan*,146,109,37,.747,123,90,33,.732,23,19,4,.826
+pollaji01,Jim Pollard*,140,104,36,.743,117,85,32,.726,23,19,4,.826
+ferriar01,Arnie Ferrin*,128,96,32,.750,105,77,28,.733,23,19,4,.826
+carlsdo01,Don Carlson,128,95,33,.742,108,79,29,.731,20,16,4,.800
+jarosto01,Tony Jaros*,127,95,32,.748,114,84,30,.737,13,11,2,.846
+mikkeve01,Vern Mikkelsen*,78,59,19,.756,65,48,17,.738,13,11,2,.846
+martisl01,Slater Martin*,77,58,19,.753,64,47,17,.734,13,11,2,.846
+harribo02,Bob Harrison*,76,57,19,.750,63,46,17,.730,13,11,2,.846
+dwanja01,Jack Dwan,68,50,18,.735,58,42,16,.724,10,8,2,.800
+gardnea01,Earl Gardner,56,42,14,.750,49,37,12,.755,7,5,2,.714
+jorgejo01,Johnny Jorgensen,52,37,15,.712,45,32,13,.711,7,5,2,.714
+formado01,Donnie Forman,51,39,12,.765,42,32,10,.762,9,7,2,.778
+hassebi01,Billy Hassett*,46,36,10,.783,39,31,8,.795,7,5,2,.714
+grantbu01,Bud Grant*,42,36,6,.857,31,27,4,.871,11,9,2,.818
+kachawh01,Whitey Kachan*,25,18,7,.720,17,12,5,.706,8,6,2,.750
+bloommi01,Mike Bloom*,23,17,6,.739,23,17,6,.739,0,0,0,
+stumpge01,Gene Stump*,22,16,6,.727,22,16,6,.727,0,0,0,
+walthpa01,Paul Walther*,22,14,8,.636,22,14,8,.636,0,0,0,
+smithdo01,Don Smith,8,4,4,.500,8,4,4,.500,0,0,0,
+ellefra01,Ray Ellefson,3,3,0,1.000,3,3,0,1.000,0,0,0,
+glickno01,Normie Glick,1,1,0,1.000,1,1,0,1.000,0,0,0,
+tinglja01,Jack Tingle,1,1,0,1.000,1,1,0,1.000,0,0,0,

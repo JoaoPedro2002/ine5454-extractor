@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+holzmre01,Red Holzman,130,95,35,.731,123,93,30,.756,7,2,5,.286
+wanzebo01,Bobby Wanzer*,130,95,35,.731,123,93,30,.756,7,2,5,.286
+johnsar01,Arnie Johnson*,130,95,35,.731,123,93,30,.756,7,2,5,.286
+daviebo01,Bob Davies*,126,91,35,.722,119,89,30,.748,7,2,5,.286
+risenar01,Arnie Risen,123,88,35,.715,116,86,30,.741,7,2,5,.286
+duncaan01,Andy Duncan*,122,90,32,.738,116,88,28,.759,6,2,4,.333
+calhobi01,Bill Calhoun*,117,86,31,.735,112,84,28,.750,5,2,3,.400
+colemja01,Jack Coleman*,69,50,19,.725,66,50,16,.758,3,0,3,.000
+novakmi01,Mike Novak*,66,48,18,.727,62,46,16,.742,4,2,2,.500
+saulpe01,Pep Saul*,44,30,14,.682,41,30,11,.732,3,0,3,.000
+mikaned01,Ed Mikan*,43,31,12,.721,40,31,9,.775,3,0,3,.000
+levanan01,Andrew Levane*,36,25,11,.694,36,25,11,.694,0,0,0,
+fitzgbo01,Bob Fitzgerald*,20,17,3,.850,19,16,3,.842,1,1,0,1.000
+malamli01,Lionel Malamed,9,6,3,.667,9,6,3,.667,0,0,0,
+brookpr01,Price Brookfield*,6,5,1,.833,6,5,1,.833,0,0,0,

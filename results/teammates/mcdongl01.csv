@@ -1,0 +1,30 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+whitejo01,Jo Jo White*,156,102,54,.654,137,92,45,.672,19,10,9,.526
+silaspa01,Paul Silas,155,102,53,.658,136,92,44,.676,19,10,9,.526
+havlijo01,John Havlicek,147,98,49,.667,131,89,42,.679,16,9,7,.562
+nelsodo01,Don Nelson,147,97,50,.660,128,87,41,.680,19,10,9,.526
+cowenda01,Dave Cowens,137,92,45,.672,118,82,36,.695,19,10,9,.526
+ardji01,Jim Ard*,136,88,48,.647,120,79,41,.658,16,9,7,.562
+stacoke01,Kevin Stacom,135,89,46,.659,119,80,39,.672,16,9,7,.562
+scottch01,Charlie Scott,88,55,33,.625,75,48,27,.640,13,7,6,.538
+westppa01,Paul Westphal,68,47,21,.691,62,44,18,.710,6,3,3,.500
+chanedo01,Don Chaney,68,47,21,.691,62,44,18,.710,6,3,3,.500
+kuberst01,Steve Kuberski,66,41,25,.621,53,34,19,.642,13,7,6,.538
+finkeha01,Hank Finkel*,53,36,17,.679,48,34,14,.708,5,2,3,.400
+bosweto01,Tom Boswell,37,21,16,.568,34,18,16,.529,3,3,0,1.000
+anderje01,Jerome Anderson,23,12,11,.522,19,9,10,.474,4,3,1,.750
+clydebe01,Ben Clyde,22,15,7,.682,22,15,7,.682,0,0,0,
+lloydsc01,Scott Lloyd,9,1,8,.111,9,1,8,.111,0,0,0,
+englial01,Alex English,9,1,8,.111,9,1,8,.111,0,0,0,
+brokaga01,Gary Brokaw,9,1,8,.111,9,1,8,.111,0,0,0,
+bridgju01,Junior Bridgeman,9,1,8,.111,9,1,8,.111,0,0,0,
+bucknqu01,Quinn Buckner,9,1,8,.111,9,1,8,.111,0,0,0,
+natersw01,Swen Nater*,9,1,8,.111,9,1,8,.111,0,0,0,
+smithel01,Elmore Smith,9,1,8,.111,9,1,8,.111,0,0,0,
+dandrbo01,Bob Dandridge,8,1,7,.125,8,1,7,.125,0,0,0,
+wintebr01,Brian Winters,8,1,7,.125,8,1,7,.125,0,0,0,
+waltoll01,Lloyd Walton,8,0,8,.000,8,0,8,.000,0,0,0,
+davismi02,Mickey Davis,6,1,5,.167,6,1,5,.167,0,0,0,
+hankiph01,Phil Hankinson,5,3,2,.600,3,2,1,.667,2,1,1,.500
+searced01,Ed Searcy,4,3,1,.750,4,3,1,.750,0,0,0,
+downist01,Steve Downing,3,2,1,.667,3,2,1,.667,0,0,0,

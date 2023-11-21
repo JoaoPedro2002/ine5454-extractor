@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+havlijo01,John Havlicek,40,34,6,.850,39,33,6,.846,1,1,0,1.000
+joneskc01,K.C. Jones*,40,34,6,.850,39,33,6,.846,1,1,0,1.000
+sandeto01,Tom Sanders*,40,34,6,.850,39,33,6,.846,1,1,0,1.000
+jonessa01,Sam Jones,39,34,5,.872,38,33,5,.868,1,1,0,1.000
+russebi01,Bill Russell,38,33,5,.868,37,32,5,.865,1,1,0,1.000
+cousybo01,Bob Cousy,37,32,5,.865,36,31,5,.861,1,1,0,1.000
+ramsefr01,Frank Ramsey,37,31,6,.838,36,30,6,.833,1,1,0,1.000
+heinsto01,Tom Heinsohn,37,32,5,.865,36,31,5,.861,1,1,0,1.000
+loscuji01,Jim Loscutoff*,36,31,5,.861,35,30,5,.857,1,1,0,1.000
+lovelcl01,Clyde Lovellette*,34,28,6,.824,33,27,6,.818,1,1,0,1.000
+guarige01,Gene Guarilia*,11,9,2,.818,11,9,2,.818,0,0,0,
+foleyja01,Jack Foley,4,3,1,.750,4,3,1,.750,0,0,0,

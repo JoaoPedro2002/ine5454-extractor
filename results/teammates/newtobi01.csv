@@ -1,0 +1,15 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hillmda01,Darnell Hillman,39,25,14,.641,35,21,14,.600,4,4,0,1.000
+kellebi01,Bill Keller,38,25,13,.658,34,21,13,.618,4,4,0,1.000
+busedo01,Don Buse,38,24,14,.632,35,21,14,.600,3,3,0,1.000
+danieme01,Mel Daniels*,37,23,14,.622,33,19,14,.576,4,4,0,1.000
+freemdo01,Donnie Freeman*,37,23,14,.622,33,19,14,.576,4,4,0,1.000
+mcginge01,George McGinnis,34,22,12,.647,30,18,12,.600,4,4,0,1.000
+brownro01,Roger Brown*,34,22,12,.647,30,18,12,.600,4,4,0,1.000
+lewisfr02,Freddie Lewis,33,21,12,.636,29,17,12,.586,4,4,0,1.000
+arnzebo01,Bob Arnzen*,27,20,7,.741,23,16,7,.696,4,4,0,1.000
+johnsgu01,Gus Johnson,20,16,4,.800,16,12,4,.750,4,4,0,1.000
+joyceke01,Kevin Joyce,5,2,3,.400,5,2,3,.400,0,0,0,
+cannola01,Larry Cannon*,2,0,2,.000,2,0,2,.000,0,0,0,
+raymocr01,Craig Raymond,2,2,0,1.000,2,2,0,1.000,0,0,0,
+peeplge01,George Peeples*,2,1,1,.500,2,1,1,.500,0,0,0,

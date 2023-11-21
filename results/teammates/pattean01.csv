@@ -1,0 +1,22 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hammoto01,Tom Hammonds,42,21,21,.500,40,21,19,.525,2,0,2,.000
+mitchsa01,Sam Mitchell,42,21,21,.500,40,21,19,.525,2,0,2,.000
+jacksbo01,Bobby Jackson,39,18,21,.462,37,18,19,.486,2,0,2,.000
+garneke01,Kevin Garnett,38,20,18,.526,36,20,16,.556,2,0,2,.000
+garrede01,Dean Garrett,37,16,21,.432,35,16,19,.457,2,0,2,.000
+smithjo02,Joe Smith,35,15,20,.429,33,15,18,.455,2,0,2,.000
+peelean01,Anthony Peeler,26,13,13,.500,24,13,11,.542,2,0,2,.000
+brandte01,Terrell Brandon,25,13,12,.520,23,13,10,.565,2,0,2,.000
+sealyma01,Malik Sealy,25,12,13,.480,23,12,11,.522,2,0,2,.000
+curlebi01,Bill Curley,24,14,10,.583,24,14,10,.583,0,0,0,
+jordare01,Reggie Jordan,22,12,10,.545,22,12,10,.545,0,0,0,
+scottde01,Dennis Scott,16,7,9,.438,16,7,9,.438,0,0,0,
+robinja02,James Robinson,15,3,12,.200,13,3,10,.231,2,0,2,.000
+nestera01,Rasho Nesterović,9,4,5,.444,7,4,3,.571,2,0,2,.000
+marbust01,Stephon Marbury,8,6,2,.750,8,6,2,.750,0,0,0,
+carrch01,Chris Carr,7,6,1,.857,7,6,1,.857,0,0,0,
+evansbr01,Brian Evans,5,1,4,.200,5,1,4,.200,0,0,0,
+averywi01,William Avery,4,3,1,.750,4,3,1,.750,0,0,0,
+grantpa01,Paul Grant,4,4,0,1.000,4,4,0,1.000,0,0,0,
+szczewa02,Wally Szczerbiak,3,2,1,.667,3,2,1,.667,0,0,0,
+wintetr01,Trevor Winter,1,0,1,.000,1,0,1,.000,0,0,0,

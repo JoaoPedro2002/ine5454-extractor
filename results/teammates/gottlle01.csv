@@ -1,0 +1,26 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+stutzst01,Stan Stutz*,84,43,41,.512,80,42,38,.525,4,1,3,.250
+byrneto01,Tommy Byrnes*,84,44,40,.524,80,43,37,.537,4,1,3,.250
+palmebu01,Bud Palmer,69,32,37,.464,65,31,34,.477,4,1,3,.250
+hertzso01,Sonny Hertzberg*,58,29,29,.500,54,28,26,.519,4,1,3,.250
+knorele01,Lee Knorek,51,27,24,.529,47,26,21,.553,4,1,3,.250
+cluggbo01,Bob Cluggish*,51,26,25,.510,47,25,22,.532,4,1,3,.250
+schecos01,Ossie Schectman*,46,24,22,.522,46,24,22,.522,0,0,0,
+vanbrbu01,Butch van Breda Kolff*,42,19,23,.452,38,18,20,.474,4,1,3,.250
+militna01,Nat Militzok*,32,17,15,.531,32,17,15,.531,0,0,0,
+fitzgbo01,Bob Fitzgerald*,31,14,17,.452,27,13,14,.481,4,1,3,.250
+holubdi01,Dick Holub,27,14,13,.519,27,14,13,.519,0,0,0,
+rosenha01,Hank Rosenstein*,26,16,10,.615,26,16,10,.615,0,0,0,
+braunca01,Carl Braun*,26,14,12,.538,26,14,12,.538,0,0,0,
+kaplora01,Ralph Kaplowitz,25,15,10,.600,25,15,10,.600,0,0,0,
+freyfr01,Frido Frey,25,12,13,.480,22,11,11,.500,3,1,2,.333
+kukara01,Ray Kuka,23,11,12,.478,23,11,12,.478,0,0,0,
+mullebo01,Bob Mullens*,20,12,8,.600,20,12,8,.600,0,0,0,
+murphdi01,Dick Murphy*,15,10,5,.667,15,10,5,.667,0,0,0,
+noelpa01,Paul Noel*,13,8,5,.615,13,8,5,.615,0,0,0,
+brindau01,Aud Brindley*,12,3,9,.250,9,2,7,.222,3,1,2,.333
+weberja01,Jake Weber*,7,5,2,.714,7,5,2,.714,0,0,0,
+murphjo01,John Murphy*,6,1,5,.167,6,1,5,.167,0,0,0,
+tanensi01,Sid Tanenbaum,5,2,3,.400,5,2,3,.400,0,0,0,
+mangifr01,Frank Mangiapane*,3,1,2,.333,3,1,2,.333,0,0,0,
+misakwa01,Wat Misaka,1,1,0,1.000,1,1,0,1.000,0,0,0,

@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+vanardi01,Dick Van Arsdale,20,8,12,.400,19,8,11,.421,1,0,1,.000
+reedwi01,Willis Reed,20,8,12,.400,19,8,11,.421,1,0,1,.000
+akinhe01,Henry Akin,19,7,12,.368,18,7,11,.389,1,0,1,.000
+bellawa01,Walt Bellamy,19,8,11,.421,18,8,10,.444,1,0,1,.000
+russeca01,Cazzie Russell,18,8,10,.444,17,8,9,.471,1,0,1,.000
+barnedi01,Dick Barnett,17,8,9,.471,17,8,9,.471,0,0,0,
+stallda01,Dave Stallworth,17,8,9,.471,17,8,9,.471,0,0,0,
+johnsne02,Neil Johnson*,16,6,10,.375,15,6,9,.400,1,0,1,.000
+komivho01,Howard Komives*,16,7,9,.438,15,7,8,.467,1,0,1,.000
+bryanem01,Em Bryant*,15,6,9,.400,14,6,8,.429,1,0,1,.000
+moliswa01,Wayne Molis*,10,4,6,.400,9,4,5,.444,1,0,1,.000
+crawffr01,Freddie Crawford,6,1,5,.167,5,1,4,.200,1,0,1,.000

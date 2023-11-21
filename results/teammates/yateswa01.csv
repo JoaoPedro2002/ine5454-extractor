@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+larusru01,Rudy LaRusso,42,23,19,.548,37,21,16,.568,5,2,3,.400
+hawkito01,Tom Hawkins*,42,23,19,.548,37,21,16,.568,5,2,3,.400
+felixra01,Ray Felix*,42,23,19,.548,37,21,16,.568,5,2,3,.400
+hundlho01,Hot Rod Hundley*,42,23,19,.548,37,21,16,.568,5,2,3,.400
+selvyfr01,Frank Selvy*,42,23,19,.548,37,21,16,.568,5,2,3,.400
+krebsji01,Jim Krebs*,41,22,19,.537,36,20,16,.556,5,2,3,.400
+westje01,Jerry West,39,22,17,.564,34,20,14,.588,5,2,3,.400
+jolifho01,Howie Jolliff*,35,18,17,.514,30,16,14,.533,5,2,3,.400
+bayloel01,Elgin Baylor,23,15,8,.652,18,13,5,.722,5,2,3,.400
+mcneibo01,Bob McNeill,18,7,11,.389,14,6,8,.429,4,1,3,.250
+simsbo01,Bob Sims,8,5,3,.625,8,5,3,.625,0,0,0,
+smithbo01,Bobby Smith,2,2,0,1.000,2,2,0,1.000,0,0,0,

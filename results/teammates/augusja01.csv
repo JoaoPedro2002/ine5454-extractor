@@ -1,0 +1,19 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+turkohe01,Hedo Türkoğlu,28,19,9,.679,27,18,9,.667,1,1,0,1.000
+howardw01,Dwight Howard,28,19,9,.679,27,18,9,.667,1,1,0,1.000
+boganke01,Keith Bogans,28,19,9,.679,27,18,9,.667,1,1,0,1.000
+arroyca01,Carlos Arroyo,25,18,7,.720,24,17,7,.708,1,1,0,1.000
+foylead01,Adonal Foyle,25,16,9,.640,25,16,9,.640,0,0,0,
+lewisra02,Rashard Lewis,25,17,8,.680,24,16,8,.667,1,1,0,1.000
+nelsoja01,Jameer Nelson,24,15,9,.625,23,14,9,.609,1,1,0,1.000
+doolike01,Keyon Dooling,24,17,7,.708,23,16,7,.696,1,1,0,1.000
+evansma01,Maurice Evans,19,12,7,.632,18,11,7,.611,1,1,0,1.000
+redicjj01,J.J. Redick,18,13,5,.722,18,13,5,.722,0,0,0,
+garripa01,Pat Garrity,15,12,3,.800,14,11,3,.786,1,1,0,1.000
+arizatr01,Trevor Ariza,7,5,2,.714,7,5,2,.714,0,0,0,
+cookbr01,Brian Cook,6,3,3,.500,6,3,3,.500,0,0,0,
+gortama01,Marcin Gortat,3,3,0,1.000,2,2,0,1.000,1,1,0,1.000
+outlabo01,Bo Outlaw,3,3,0,1.000,3,3,0,1.000,0,0,0,
+dienetr01,Travis Diener,2,2,0,1.000,2,2,0,1.000,0,0,0,
+milicda01,Darko Miličić,2,2,0,1.000,2,2,0,1.000,0,0,0,
+battito01,Tony Battie,1,1,0,1.000,1,1,0,1.000,0,0,0,

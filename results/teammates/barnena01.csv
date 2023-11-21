@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+kellebi01,Bill Keller,12,8,4,.667,12,8,4,.667,0,0,0,
+busedo01,Don Buse,12,8,4,.667,12,8,4,.667,0,0,0,
+hillmda01,Darnell Hillman,12,8,4,.667,12,8,4,.667,0,0,0,
+knighbi01,Billy Knight,12,8,4,.667,12,8,4,.667,0,0,0,
+flynnmi01,Mike Flynn,12,8,4,.667,12,8,4,.667,0,0,0,
+elmorle01,Len Elmore,11,7,4,.636,11,7,4,.636,0,0,0,
+roundda01,Dan Roundfield,11,8,3,.727,11,8,3,.727,0,0,0,
+jordach01,Charles Jordan*,10,7,3,.700,10,7,3,.700,0,0,0,
+mannied01,Ed Manning*,7,5,2,.714,7,5,2,.714,0,0,0,
+robisda01,Dave Robisch*,5,4,1,.800,5,4,1,.800,0,0,0,
+netolbo01,Bob Netolicky*,3,2,1,.667,3,2,1,.667,0,0,0,

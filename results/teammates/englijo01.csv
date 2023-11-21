@@ -1,0 +1,24 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+armstbj01,B.J. Armstrong,57,36,21,.632,50,31,19,.620,7,5,2,.714
+kukocto01,Toni Kukoč,51,33,18,.647,44,28,16,.636,7,5,2,.714
+kerrst01,Steve Kerr,51,33,18,.647,44,28,16,.636,7,5,2,.714
+pippesc01,Scottie Pippen,47,32,15,.681,40,27,13,.675,7,5,2,.714
+myerspe01,Pete Myers,43,29,14,.674,36,24,12,.667,7,5,2,.714
+grantho01,Horace Grant,42,28,14,.667,35,23,12,.657,7,5,2,.714
+blounco01,Corie Blount,40,25,15,.625,40,25,15,.625,0,0,0,
+wennibi01,Bill Wennington,39,27,12,.692,33,23,10,.697,6,4,2,.667
+cartwbi01,Bill Cartwright,34,19,15,.559,28,15,13,.536,6,4,2,.667
+perduwi01,Will Perdue,26,11,15,.423,26,11,15,.423,0,0,0,
+kingst01,Stacey King,26,14,12,.538,26,14,12,.538,0,0,0,
+willisc01,Scott Williams,25,18,7,.720,18,13,5,.722,7,5,2,.714
+longllu01,Luc Longley,20,15,5,.750,13,10,3,.769,7,5,2,.714
+paxsojo01,John Paxson,12,8,4,.667,6,3,3,.500,6,5,1,.833
+johnsda01,Dave Johnson,10,5,5,.500,10,5,5,.500,0,0,0,
+harpero01,Ron Harper,8,4,4,.500,8,4,4,.500,0,0,0,
+simpkdi01,Dickey Simpkins,8,4,4,.500,8,4,4,.500,0,0,0,
+fostegr01,Greg Foster,8,4,4,.500,8,4,4,.500,0,0,0,
+mccraro01,Rodney McCray,6,3,3,.500,6,3,3,.500,0,0,0,
+jordami01,Michael Jordan,5,3,2,.600,5,3,2,.600,0,0,0,
+krystla01,Larry Krystkowiak,5,3,2,.600,5,3,2,.600,0,0,0,
+tucketr01,Trent Tucker,5,2,3,.400,5,2,3,.400,0,0,0,
+buechju01,Jud Buechler,2,1,1,.500,2,1,1,.500,0,0,0,

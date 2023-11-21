@@ -1,0 +1,21 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+coffeam01,Amir Coffey*,15,4,11,.267,14,4,10,.286,1,0,1,.000
+mannte01,Terance Mann*,15,4,11,.267,14,4,10,.286,1,0,1,.000
+zubaciv01,Ivica Zubac*,14,4,10,.286,13,4,9,.308,1,0,1,.000
+bostobr01,Brandon Boston Jr.,13,3,10,.231,12,3,9,.250,1,0,1,.000
+covinro01,Robert Covington*,13,4,9,.308,13,4,9,.308,0,0,0,
+batumni01,Nicolas Batum*,12,4,8,.333,11,4,7,.364,1,0,1,.000
+powelno01,Norman Powell*,12,4,8,.333,11,4,7,.364,1,0,1,.000
+jacksre01,Reggie Jackson*,10,3,7,.300,10,3,7,.300,0,0,0,
+brownmo01,Moses Brown,10,2,8,.200,10,2,8,.200,0,0,0,
+morrima03,Marcus Morris*,10,1,9,.100,10,1,9,.100,0,0,0,
+diabamo01,Moussa Diabaté,9,3,6,.333,9,3,6,.333,0,0,0,
+leonaka01,Kawhi Leonard,7,3,4,.429,6,3,3,.500,1,0,1,.000
+georgpa01,Paul George*,5,1,4,.200,5,1,4,.200,0,0,0,
+kennalu01,Luke Kennard,5,1,4,.200,5,1,4,.200,0,0,0,
+walljo01,John Wall,5,0,5,.000,5,0,5,.000,0,0,0,
+hylanbo01,Bones Hyland,2,1,1,.500,1,1,0,1.000,1,0,1,.000
+westbru01,Russell Westbrook*,2,1,1,.500,1,1,0,1.000,1,0,1,.000
+plumlma01,Mason Plumlee*,2,1,1,.500,1,1,0,1.000,1,0,1,.000
+gordoer01,Eric Gordon,2,1,1,.500,1,1,0,1.000,1,0,1,.000
+moonxa01,Xavier Moon,1,1,0,1.000,1,1,0,1.000,0,0,0,

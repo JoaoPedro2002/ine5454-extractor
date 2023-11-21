@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+vanbrbu01,Butch van Breda Kolff*,19,10,9,.526,15,8,7,.533,4,2,2,.500
+knorele01,Lee Knorek,19,10,9,.526,15,8,7,.533,4,2,2,.500
+lumppra01,Ray Lumpp,19,10,9,.526,15,8,7,.533,4,2,2,.500
+gallaha01,Harry Gallatin*,19,10,9,.526,15,8,7,.533,4,2,2,.500
+rittete01,Tex Ritter*,18,9,9,.500,15,8,7,.533,3,1,2,.333
+palmebu01,Bud Palmer,18,10,8,.556,14,8,6,.571,4,2,2,.500
+braunca01,Carl Braun*,16,10,6,.625,12,8,4,.667,4,2,2,.500
+mcgahme01,Mel McGaha*,15,8,7,.533,14,7,7,.500,1,1,0,1.000
+rotheir01,Irv Rothenberg*,15,9,6,.600,11,7,4,.636,4,2,2,.500
+noelpa01,Paul Noel*,12,5,7,.417,9,3,6,.333,3,2,1,.667
+jamesge01,Gene James*,11,5,6,.455,8,4,4,.500,3,1,2,.333
+tanensi01,Sid Tanenbaum,1,0,1,.000,1,0,1,.000,0,0,0,

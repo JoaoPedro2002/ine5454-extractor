@@ -1,0 +1,35 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+maysc01,Scott May,36,24,12,.667,35,24,11,.686,1,0,1,.000
+gilmoar01,Artis Gilmore*,36,24,12,.667,35,24,11,.686,1,0,1,.000
+boerwto01,Tom Boerwinkle*,36,24,12,.667,35,24,11,.686,1,0,1,.000
+vanlino01,Norm Van Lier,36,24,12,.667,35,24,11,.686,1,0,1,.000
+hollawi01,Wilbur Holland,36,24,12,.667,35,24,11,.686,1,0,1,.000
+johnsmi01,Mickey Johnson,35,23,12,.657,34,23,11,.676,1,0,1,.000
+marinja01,Jack Marin,34,22,12,.647,33,22,11,.667,1,0,1,.000
+pondecl01,Cliff Pondexter,33,22,11,.667,32,22,10,.688,1,0,1,.000
+mengejo01,John Mengelt,33,23,10,.697,32,23,9,.719,1,0,1,.000
+kroppto01,Tom Kropp,20,16,4,.800,20,16,4,.800,0,0,0,
+scottch01,Charlie Scott,20,10,10,.500,20,10,10,.500,0,0,0,
+smithro01,Robert Smith,20,10,10,.500,20,10,10,.500,0,0,0,
+mcginge01,George McGinnis,20,10,10,.500,20,10,10,.500,0,0,0,
+hugheki01,Kim Hughes,20,10,10,.500,20,10,10,.500,0,0,0,
+isselda01,Dan Issel*,20,10,10,.500,20,10,10,.500,0,0,0,
+wilkebo01,Bob Wilkerson,18,8,10,.444,18,8,10,.444,0,0,0,
+bosweto01,Tom Boswell,18,10,8,.556,18,10,8,.556,0,0,0,
+thompda01,David Thompson,17,8,9,.471,17,8,9,.471,0,0,0,
+laskojo01,John Laskowski,15,10,5,.667,15,10,5,.667,0,0,0,
+kuestjo01,John Kuester,10,6,4,.600,10,6,4,.600,0,0,0,
+crompge01,Geoff Crompton,8,5,3,.625,8,5,3,.625,0,0,0,
+ellisbo02,Bo Ellis,6,2,4,.333,6,2,4,.333,0,0,0,
+roberan01,Anthony Roberts,4,2,2,.500,4,2,2,.500,0,0,0,
+johnsjo01,John Johnson,2,1,1,.500,2,1,1,.500,0,0,0,
+jonesdw01,Dwight Jones,2,1,1,.500,2,1,1,.500,0,0,0,
+wohlda01,Dave Wohl,2,1,1,.500,2,1,1,.500,0,0,0,
+tomjaru01,Rudy Tomjanovich,2,1,1,.500,2,1,1,.500,0,0,0,
+kunneke01,Kevin Kunnert,2,1,1,.500,2,1,1,.500,0,0,0,
+newlimi01,Mike Newlin,2,1,1,.500,2,1,1,.500,0,0,0,
+owensto01,Tom Owens*,2,1,1,.500,2,1,1,.500,0,0,0,
+lucasjo01,John Lucas,2,1,1,.500,2,1,1,.500,0,0,0,
+murphca01,Calvin Murphy,2,1,1,.500,2,1,1,.500,0,0,0,
+whiteru01,Rudy White,2,1,1,.500,2,1,1,.500,0,0,0,
+malonmo01,Moses Malone,1,0,1,.000,1,0,1,.000,0,0,0,

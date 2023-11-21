@@ -1,0 +1,22 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hollajo01,Joe Holland*,135,75,60,.556,130,72,58,.554,5,3,2,.600
+walthpa01,Paul Walther*,108,62,46,.574,102,59,43,.578,6,3,3,.500
+barkecl01,Cliff Barker*,105,61,44,.581,100,58,42,.580,5,3,2,.600
+grozaal01,Alex Groza,87,52,35,.598,82,49,33,.598,5,3,2,.600
+barnhle01,Leo Barnhorst,83,42,41,.506,82,42,40,.512,1,0,1,.000
+beardra01,Ralph Beard,83,50,33,.602,78,47,31,.603,5,3,2,.600
+mcmulma01,Mal McMullen*,80,45,35,.562,75,42,33,.560,5,3,2,.600
+lavoybo01,Bob Lavoy*,75,37,38,.493,74,37,37,.500,1,0,1,.000
+halebr01,Bruce Hale*,66,41,25,.621,61,38,23,.623,5,3,2,.600
+toshebi01,Bill Tosheff,60,31,29,.517,59,31,28,.525,1,0,1,.000
+grabojo01,Joe Graboski*,60,31,29,.517,59,31,28,.525,1,0,1,.000
+obriera01,Ralph O'Brien,59,30,29,.508,58,30,28,.517,1,0,1,.000
+lofgrdo01,Don Lofgran*,58,29,29,.500,57,29,28,.509,1,0,1,.000
+shaefca01,Carl Shaeffer*,52,32,20,.615,47,29,18,.617,5,3,2,.600
+evansbo01,Bob Evans*,43,25,18,.581,43,25,18,.581,0,0,0,
+hawkima01,Marshall Hawkins*,35,19,16,.543,35,19,16,.543,0,0,0,
+mrazoch01,Chuck Mrazovich*,20,10,10,.500,20,10,10,.500,0,0,0,
+volkefl01,Floyd Volker*,13,9,4,.692,13,9,4,.692,0,0,0,
+crockdi01,Dillard Crocker*,6,2,4,.333,6,2,4,.333,0,0,0,
+parkija01,Jack Parkinson*,3,2,1,.667,3,2,1,.667,0,0,0,
+blevile01,Leon Blevins,2,1,1,.500,2,1,1,.500,0,0,0,

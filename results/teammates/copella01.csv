@@ -1,0 +1,25 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+anderro01,Ron Anderson,27,20,7,.741,23,19,4,.826,4,1,3,.250
+brooksc01,Scott Brooks,27,20,7,.741,23,19,4,.826,4,1,3,.250
+hawkihe01,Hersey Hawkins,27,20,7,.741,23,19,4,.826,4,1,3,.250
+dawkijo01,Johnny Dawkins,27,20,7,.741,23,19,4,.826,4,1,3,.250
+gminsmi01,Mike Gminski,27,20,7,.741,23,19,4,.826,4,1,3,.250
+nimphku01,Kurt Nimphius,26,20,6,.769,22,19,3,.864,4,1,3,.250
+barklch01,Charles Barkley,26,20,6,.769,22,19,3,.864,4,1,3,.250
+mahorri01,Rick Mahorn,25,18,7,.720,21,17,4,.810,4,1,3,.250
+payneke01,Kenny Payne,25,19,6,.760,22,18,4,.818,3,1,2,.333
+thornbo01,Bob Thornton,20,14,6,.700,16,13,3,.812,4,1,3,.250
+smithde02,Derek Smith*,19,15,4,.789,18,15,3,.833,1,0,1,.000
+harpero01,Ron Harper,10,3,7,.300,10,3,7,.300,0,0,0,
+mannida01,Danny Manning,10,3,7,.300,10,3,7,.300,0,0,0,
+brownto01,Tony Brown,10,3,7,.300,10,3,7,.300,0,0,0,
+vaughlo01,Loy Vaught,10,3,7,.300,10,3,7,.300,0,0,0,
+polynol01,Olden Polynice,10,3,7,.300,10,3,7,.300,0,0,0,
+grantga01,Gary Grant,9,2,7,.222,9,2,7,.222,0,0,0,
+ellisle02,LeRon Ellis,9,3,6,.333,9,3,6,.333,0,0,0,
+edwarja01,James Edwards,9,3,6,.333,9,3,6,.333,0,0,0,
+normake01,Ken Norman,8,3,5,.375,8,3,5,.375,0,0,0,
+perryel01,Elliot Perry,8,2,6,.250,8,2,6,.250,0,0,0,
+riverdo01,Doc Rivers,7,3,4,.429,7,3,4,.429,0,0,0,
+vinceja01,Jay Vincent,2,2,0,1.000,2,2,0,1.000,0,0,0,
+riverda01,David Rivers,2,1,1,.500,2,1,1,.500,0,0,0,

@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+smithal01,Al Smith*,46,27,19,.587,45,27,18,.600,1,0,1,.000
+robisda01,Dave Robisch*,46,27,19,.587,45,27,18,.600,1,0,1,.000
+jabalwa01,Warren Jabali,46,27,19,.587,45,27,18,.600,1,0,1,.000
+keyeju01,Julius Keye*,46,27,19,.587,45,27,18,.600,1,0,1,.000
+simpsra01,Ralph Simpson*,44,27,17,.614,43,27,16,.628,1,0,1,.000
+beckby01,Byron Beck*,43,27,16,.628,43,27,16,.628,0,0,0,
+roberma01,Marv Roberts*,42,25,17,.595,41,25,16,.610,1,0,1,.000
+terrycl01,Claude Terry*,41,24,17,.585,40,24,16,.600,1,0,1,.000
+longwi01,Willie Long*,25,17,8,.680,25,17,8,.680,0,0,0,
+trappjo01,John Trapp,8,3,5,.375,7,3,4,.429,1,0,1,.000
+cardfr01,Frank Card*,3,2,1,.667,3,2,1,.667,0,0,0,

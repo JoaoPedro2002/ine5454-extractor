@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+sandeto01,Tom Sanders*,80,63,17,.787,74,58,16,.784,6,5,1,.833
+jonessa01,Sam Jones,79,62,17,.785,73,57,16,.781,6,5,1,.833
+russebi01,Bill Russell,78,62,16,.795,72,57,15,.792,6,5,1,.833
+joneskc01,K.C. Jones*,78,61,17,.782,72,56,16,.778,6,5,1,.833
+naullwi01,Willie Naulls*,74,59,15,.797,68,54,14,.794,6,5,1,.833
+havlijo01,John Havlicek,74,58,16,.784,68,53,15,.779,6,5,1,.833
+siegfla01,Larry Siegfried,73,58,15,.795,67,53,14,.791,6,5,1,.833
+countme01,Mel Counts,57,45,12,.789,51,40,11,.784,6,5,1,.833
+heinsto01,Tom Heinsohn,57,43,14,.754,54,41,13,.759,3,2,1,.667
+bonharo01,Ron Bonham*,46,37,9,.804,40,32,8,.800,6,5,1,.833
+nelsodo01,Don Nelson,9,8,1,.889,6,5,1,.833,3,3,0,1.000
+greensi01,Si Green*,3,2,1,.667,3,2,1,.667,0,0,0,
+nordmbe01,Bevo Nordmann*,3,3,0,1.000,3,3,0,1.000,0,0,0,
+wardge01,Gerry Ward*,3,3,0,1.000,3,3,0,1.000,0,0,0,
+wattsro01,Ron Watts,1,0,1,.000,1,0,1,.000,0,0,0,

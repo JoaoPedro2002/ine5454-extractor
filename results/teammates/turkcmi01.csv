@@ -1,0 +1,26 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+thomati01,Tim Thomas,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+robingl01,Glenn Robinson,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+allenra02,Ray Allen,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+willisc01,Scott Williams,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+alstora01,Rafer Alston,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+johnser02,Ervin Johnson,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+cassesa01,Sam Cassell,12,8,4,.667,10,6,4,.600,2,2,0,1.000
+hamda01,Darvin Ham,10,8,2,.800,8,6,2,.750,2,2,0,1.000
+traylro01,Robert Traylor,10,6,4,.600,9,5,4,.556,1,1,0,1.000
+mannida01,Danny Manning,8,4,4,.500,7,3,4,.429,1,1,0,1.000
+sprewla01,Latrell Sprewell,7,3,4,.429,7,3,4,.429,0,0,0,
+houstal01,Allan Houston,7,3,4,.429,7,3,4,.429,0,0,0,
+delnevi01,Vinny Del Negro,7,5,2,.714,5,3,2,.600,2,2,0,1.000
+childch01,Chris Childs,7,3,4,.429,7,3,4,.429,0,0,0,
+wardch01,Charlie Ward,6,3,3,.500,6,3,3,.500,0,0,0,
+thomaku01,Kurt Thomas,6,3,3,.500,6,3,3,.500,0,0,0,
+wallajo01,John Wallace,6,2,4,.333,6,2,4,.333,0,0,0,
+dudlech02,Chris Dudley,6,2,4,.333,6,2,4,.333,0,0,0,
+cambyma01,Marcus Camby,5,3,2,.600,5,3,2,.600,0,0,0,
+brunsri01,Rick Brunson,5,2,3,.400,5,2,3,.400,0,0,0,
+langan01,Andrew Lang,4,2,2,.500,4,2,2,.500,0,0,0,
+ewingpa01,Patrick Ewing,3,1,2,.333,3,1,2,.333,0,0,0,
+johnsla02,Larry Johnson,3,1,2,.333,3,1,2,.333,0,0,0,
+johnsde02,DeMarco Johnson,2,2,0,1.000,2,2,0,1.000,0,0,0,
+reidjr01,J.R. Reid,1,0,1,.000,1,0,1,.000,0,0,0,

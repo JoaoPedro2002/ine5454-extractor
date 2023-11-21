@@ -1,0 +1,21 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+lewisfr02,Freddie Lewis,75,36,39,.480,72,36,36,.500,3,0,3,.000
+brownro01,Roger Brown*,75,37,38,.493,72,37,35,.514,3,0,3,.000
+dardeol01,Ollie Darden,74,36,38,.486,71,36,35,.507,3,0,3,.000
+netolbo01,Bob Netolicky*,73,38,35,.521,70,38,32,.543,3,0,3,.000
+raylji01,Jimmy Rayl,73,35,38,.479,70,35,35,.500,3,0,3,.000
+harknje01,Jerry Harkness*,66,31,35,.470,63,31,32,.492,3,0,3,.000
+peeplge01,George Peeples*,61,25,36,.410,58,25,33,.431,3,0,3,.000
+bonharo01,Ron Bonham*,41,21,20,.512,38,21,17,.553,3,0,3,.000
+aitchma01,Matt Aitch*,40,19,21,.475,38,19,19,.500,2,0,2,.000
+kozliro01,Ron Kozlicki*,36,14,22,.389,34,14,20,.412,2,0,2,.000
+hardire01,Reggie Harding,25,13,12,.520,25,13,12,.520,0,0,0,
+dawsoji01,Jimmy Dawson*,20,12,8,.600,20,12,8,.600,0,0,0,
+danieme01,Mel Daniels*,3,2,1,.667,3,2,1,.667,0,0,0,
+beckear01,Art Becker*,3,2,1,.667,3,2,1,.667,0,0,0,
+kellebi01,Bill Keller,3,2,1,.667,3,2,1,.667,0,0,0,
+barnhjo01,John Barnhill*,3,2,1,.667,3,2,1,.667,0,0,0,
+milleja01,Jay Miller*,2,1,1,.500,2,1,1,.500,0,0,0,
+ormsba01,Barry Orms*,2,2,0,1.000,2,2,0,1.000,0,0,0,
+thackto01,Tom Thacker*,2,1,1,.500,2,1,1,.500,0,0,0,
+,,1,0,1,.000,1,0,1,.000,0,0,0,

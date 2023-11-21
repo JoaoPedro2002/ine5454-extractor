@@ -1,0 +1,16 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+cousybo01,Bob Cousy,162,111,51,.685,151,105,46,.695,11,6,5,.545
+heinsto01,Tom Heinsohn,162,114,48,.704,151,108,43,.715,11,6,5,.545
+sharmbi01,Bill Sharman,155,109,46,.703,144,103,41,.715,11,6,5,.545
+russebi01,Bill Russell,140,99,41,.707,131,94,37,.718,9,5,4,.556
+ramsefr01,Frank Ramsey,136,94,42,.691,125,88,37,.704,11,6,5,.545
+phillan01,Andy Phillip*,131,87,44,.664,121,82,39,.678,10,5,5,.500
+nichoja01,Jack Nichols*,123,82,41,.667,112,76,36,.679,11,6,5,.545
+risenar01,Arnie Risen,100,65,35,.650,90,60,30,.667,10,5,5,.500
+jonessa01,Sam Jones,98,68,30,.694,90,63,27,.700,8,5,3,.625
+loscuji01,Jim Loscutoff*,90,67,23,.744,90,67,23,.744,0,0,0,
+hemridi01,Dick Hemric,49,33,16,.673,49,33,16,.673,0,0,0,
+swainbe01,Bennie Swain,29,21,8,.724,29,21,8,.724,0,0,0,
+joneskc01,K.C. Jones*,21,17,4,.810,21,17,4,.810,0,0,0,
+palazto01,Togo Palazzi,20,12,8,.600,20,12,8,.600,0,0,0,
+conlege01,Gene Conley*,15,13,2,.867,15,13,2,.867,0,0,0,

@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+swiftsk01,Skeeter Swift,9,5,4,.556,9,5,4,.556,0,0,0,
+lattida01,Dave Lattin,9,5,4,.556,9,5,4,.556,0,0,0,
+willich02,Chuck Williams,9,5,4,.556,9,5,4,.556,0,0,0,
+lewismi01,Mike Lewis,9,5,4,.556,9,5,4,.556,0,0,0,
+johnsst01,Stew Johnson*,9,5,4,.556,9,5,4,.556,0,0,0,
+briskjo01,John Brisker*,8,4,4,.500,8,4,4,.500,0,0,0,
+thompge01,George Thompson*,8,4,4,.500,8,4,4,.500,0,0,0,
+kennejo01,Joe Kennedy*,8,5,3,.625,8,5,3,.625,0,0,0,
+wattssa01,Sam Watts*,4,2,2,.500,4,2,2,.500,0,0,0,
+hentzch01,Charlie Hentz*,4,3,1,.750,4,3,1,.750,0,0,0,
+kellyar01,Arvesta Kelly,3,2,1,.667,3,2,1,.667,0,0,0,
+johnsri01,Rich Johnson*,2,1,1,.500,2,1,1,.500,0,0,0,

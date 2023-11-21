@@ -1,0 +1,20 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+hardeja01,James Harden,37,22,15,.595,28,18,10,.643,9,4,5,.444
+arizatr01,Trevor Ariza,37,22,15,.595,28,18,10,.643,9,4,5,.444
+terryja01,Jason Terry,35,20,15,.571,26,16,10,.615,9,4,5,.444
+dorsejo01,Joey Dorsey,33,21,12,.636,27,18,9,.667,6,3,3,.500
+howardw01,Dwight Howard,24,15,9,.625,15,11,4,.733,9,4,5,.444
+breweco01,Corey Brewer,23,11,12,.478,14,7,7,.500,9,4,5,.444
+papanko01,Kostas Papanikolaou,23,14,9,.609,15,10,5,.667,8,4,4,.500
+smithjo03,Josh Smith,22,10,12,.455,13,6,7,.462,9,4,5,.444
+motiedo01,Donatas Motiejūnas,21,14,7,.667,21,14,7,.667,0,0,0,
+prigipa01,Pablo Prigioni,19,9,10,.474,10,5,5,.500,9,4,5,.444
+capelca01,Clint Capela*,18,9,9,.500,9,5,4,.556,9,4,5,.444
+joneste01,Terrence Jones,16,8,8,.500,7,4,3,.571,9,4,5,.444
+blackta01,Tarik Black,15,12,3,.800,15,12,3,.800,0,0,0,
+beverpa01,Patrick Beverley*,13,7,6,.538,13,7,6,.538,0,0,0,
+danietr01,Troy Daniels,10,8,2,.800,10,8,2,.800,0,0,0,
+canaais01,Isaiah Canaan,10,7,3,.700,10,7,3,.700,0,0,0,
+garcifr01,Francisco García,7,6,1,.857,7,6,1,.857,0,0,0,
+mcdankj01,K.J. McDaniels,6,3,3,.500,6,3,3,.500,0,0,0,
+shvedal01,Alexey Shved,1,1,0,1.000,1,1,0,1.000,0,0,0,

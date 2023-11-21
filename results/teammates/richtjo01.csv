@@ -1,0 +1,12 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+cousybo01,Bob Cousy,73,58,15,.795,65,52,13,.800,8,6,2,.750
+heinsto01,Tom Heinsohn,73,58,15,.795,65,52,13,.800,8,6,2,.750
+russebi01,Bill Russell,72,58,14,.806,64,52,12,.812,8,6,2,.750
+jonessa01,Sam Jones,72,57,15,.792,64,51,13,.797,8,6,2,.750
+sharmbi01,Bill Sharman,71,57,14,.803,63,51,12,.810,8,6,2,.750
+joneskc01,K.C. Jones*,71,56,15,.789,63,50,13,.794,8,6,2,.750
+ramsefr01,Frank Ramsey,71,57,14,.803,63,51,12,.810,8,6,2,.750
+conlege01,Gene Conley*,69,54,15,.783,61,48,13,.787,8,6,2,.750
+guarige01,Gene Guarilia*,45,37,8,.822,40,33,7,.825,5,4,1,.800
+loscuji01,Jim Loscutoff*,26,23,3,.885,26,23,3,.885,0,0,0,
+kingma01,Maurice King,1,1,0,1.000,1,1,0,1.000,0,0,0,

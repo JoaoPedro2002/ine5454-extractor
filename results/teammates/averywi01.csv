@@ -1,0 +1,23 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+nestera01,Rasho Nesterović,142,86,56,.606,140,85,55,.607,2,1,1,.500
+garneke01,Kevin Garnett,142,87,55,.613,140,86,54,.614,2,1,1,.500
+peelean01,Anthony Peeler,140,84,56,.600,138,83,55,.601,2,1,1,.500
+szczewa02,Wally Szczerbiak,136,83,53,.610,134,82,52,.612,2,1,1,.500
+mitchsa01,Sam Mitchell,129,78,51,.605,127,77,50,.606,2,1,1,.500
+brandte01,Terrell Brandon,102,60,42,.588,100,59,41,.590,2,1,1,.500
+garrede01,Dean Garrett,99,63,36,.636,97,62,35,.639,2,1,1,.500
+billuch01,Chauncey Billups,79,44,35,.557,78,44,34,.564,1,0,1,.000
+smithjo02,Joe Smith,77,47,30,.610,77,47,30,.610,0,0,0,
+sealyma01,Malik Sealy,59,37,22,.627,59,37,22,.627,0,0,0,
+ellisla01,LaPhonso Ellis,57,33,24,.579,55,32,23,.582,2,1,1,.500
+jacksbo01,Bobby Jackson,52,32,20,.615,52,32,20,.615,0,0,0,
+hammoto01,Tom Hammonds,51,31,20,.608,51,31,20,.608,0,0,0,
+slatere01,Reggie Slater,38,22,16,.579,36,21,15,.583,2,1,1,.500
+lopezfe01,Felipe López,33,20,13,.606,31,19,12,.613,2,1,1,.500
+dayto01,Todd Day,25,17,8,.680,25,17,8,.680,0,0,0,
+trentga01,Gary Trent,22,11,11,.500,22,11,11,.500,0,0,0,
+woodslo01,Loren Woods,20,15,5,.750,20,15,5,.750,0,0,0,
+jacksma02,Marc Jackson,12,4,8,.333,12,4,8,.333,0,0,0,
+jacobsa01,Sam Jacobson,10,5,5,.500,10,5,5,.500,0,0,0,
+evansma01,Maurice Evans,4,2,2,.500,4,2,2,.500,0,0,0,
+pattean01,Andrae Patterson,4,3,1,.750,4,3,1,.750,0,0,0,

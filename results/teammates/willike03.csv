@@ -1,0 +1,27 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+millere01,Reggie Miller,274,143,131,.522,257,134,123,.521,17,9,8,.529
+smitsri01,Rik Smits,262,134,128,.511,245,125,120,.510,17,9,8,.529
+flemive01,Vern Fleming,237,121,116,.511,220,112,108,.509,17,9,8,.529
+thompla01,LaSalle Thompson,205,103,102,.502,195,98,97,.503,10,5,5,.500
+schrede01,Detlef Schrempf,195,96,99,.492,190,94,96,.495,5,2,3,.400
+davisda01,Dale Davis,173,95,78,.549,158,87,71,.551,15,8,7,.533
+mccloge01,George McCloud,156,73,83,.468,154,72,82,.468,2,1,1,.500
+dreilgr01,Greg Dreiling,143,75,68,.524,139,73,66,.525,4,2,2,.500
+persoch01,Chuck Person,135,64,71,.474,132,63,69,.477,3,1,2,.333
+mitchsa01,Sam Mitchell,131,73,58,.557,117,65,52,.556,14,8,6,.571
+willimi02,Micheal Williams,126,62,64,.492,123,61,62,.496,3,1,2,.333
+sandemi01,Mike Sanders,84,38,46,.452,82,37,45,.451,2,1,1,.500
+richapo01,Pooh Richardson,80,44,36,.550,78,43,35,.551,2,1,1,.500
+davisan01,Antonio Davis,79,48,31,.608,67,41,26,.612,12,7,5,.583
+mckeyde01,Derrick McKey,75,46,29,.613,63,39,24,.619,12,7,5,.583
+sealyma01,Malik Sealy,75,44,31,.587,73,43,30,.589,2,1,1,.500
+scottby01,Byron Scott,73,46,27,.630,61,39,22,.639,12,7,5,.583
+workmha01,Haywoode Workman,71,45,26,.634,59,38,21,.644,12,7,5,.583
+wittmra01,Randy Wittman,61,34,27,.557,60,34,26,.567,1,0,1,.000
+greense01,Sean Green,38,21,17,.553,37,21,16,.568,1,0,1,.000
+haskisc01,Scott Haskin,19,10,9,.526,19,10,9,.526,0,0,0,
+connele01,Lester Conner,16,14,2,.875,11,9,2,.818,5,5,0,1.000
+paddige01,Gerald Paddio,4,2,2,.500,4,2,2,.500,0,0,0,
+laneje01,Jerome Lane,3,2,1,.667,3,2,1,.667,0,0,0,
+oldhaja01,Jawann Oldham,3,3,0,1.000,3,3,0,1.000,0,0,0,
+dinkiby01,Byron Dinkins,2,2,0,1.000,2,2,0,1.000,0,0,0,

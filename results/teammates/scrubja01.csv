@@ -1,0 +1,41 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+jacksre01,Reggie Jackson*,26,14,12,.538,20,9,11,.450,6,5,1,.833
+mannte01,Terance Mann*,26,14,12,.538,20,9,11,.450,6,5,1,.833
+zubaciv01,Ivica Zubac*,24,14,10,.583,20,10,10,.500,4,4,0,1.000
+coffeam01,Amir Coffey*,23,13,10,.565,17,8,9,.471,6,5,1,.833
+kennalu01,Luke Kennard,22,13,9,.591,16,8,8,.500,6,5,1,.833
+batumni01,Nicolas Batum*,22,14,8,.636,16,9,7,.562,6,5,1,.833
+bledser01,Eric Bledsoe,18,8,10,.444,18,8,10,.444,0,0,0,
+morrima03,Marcus Morris*,17,9,8,.529,11,4,7,.364,6,5,1,.833
+georgpa01,Paul George*,15,11,4,.733,9,6,3,.667,6,5,1,.833
+bostobr01,Brandon Boston Jr.,15,7,8,.467,15,7,8,.467,0,0,0,
+winslju01,Justise Winslow,13,6,7,.462,13,6,7,.462,0,0,0,
+harteis01,Isaiah Hartenstein*,12,6,6,.500,12,6,6,.500,0,0,0,
+ibakase01,Serge Ibaka,12,5,7,.417,12,5,7,.417,0,0,0,
+beverpa01,Patrick Beverley*,9,7,2,.778,3,2,1,.667,6,5,1,.833
+oturuda01,Daniel Oturu,9,6,3,.667,4,2,2,.500,5,4,1,.800
+ferreyo01,Yogi Ferrell,9,6,3,.667,4,2,2,.500,5,4,1,.800
+johnske07,Keon Johnson,7,2,5,.286,7,2,5,.286,0,0,0,
+rondora01,Rajon Rondo*,6,5,1,.833,3,2,1,.667,3,3,0,1.000
+couside01,DeMarcus Cousins,5,3,2,.600,3,2,1,.667,2,1,1,.500
+gabriwe01,Wenyen Gabriel*,5,1,4,.200,5,1,4,.200,0,0,0,
+moonxa01,Xavier Moon,3,1,2,.333,3,1,2,.333,0,0,0,
+leonaka01,Kawhi Leonard,3,3,0,1.000,2,2,0,1.000,1,1,0,1.000
+houstca01,Caleb Houstan,2,1,1,.500,2,1,1,.500,0,0,0,
+pattepa01,Patrick Patterson,2,0,2,.000,2,0,2,.000,0,0,0,
+bitadgo01,Goga Bitadze*,2,1,1,.500,2,1,1,.500,0,0,0,
+schofad01,Admiral Schofield,2,1,1,.500,2,1,1,.500,0,0,0,
+cartemi01,Michael Carter-Williams,2,1,1,.500,2,1,1,.500,0,0,0,
+okekech01,Chuma Okeke,2,1,1,.500,2,1,1,.500,0,0,0,
+suggsja01,Jalen Suggs,2,1,1,.500,2,1,1,.500,0,0,0,
+wagnemo01,Moritz Wagner,2,1,1,.500,2,1,1,.500,0,0,0,
+anthoco01,Cole Anthony,1,1,0,1.000,1,1,0,1.000,0,0,0,
+bolbo01,Bol Bol,1,0,1,.000,1,0,1,.000,0,0,0,
+fultzma01,Markelle Fultz,1,1,0,1.000,1,1,0,1.000,0,0,0,
+harrike01,Kevon Harris,1,0,1,.000,1,0,1,.000,0,0,0,
+ennisja01,James Ennis III,1,0,1,.000,1,0,1,.000,0,0,0,
+harriga01,Gary Harris,1,1,0,1.000,1,1,0,1.000,0,0,0,
+cartewe01,Wendell Carter Jr.,1,1,0,1.000,1,1,0,1.000,0,0,0,
+wagnefr01,Franz Wagner,1,1,0,1.000,1,1,0,1.000,0,0,0,
+banchpa01,Paolo Banchero,1,1,0,1.000,1,1,0,1.000,0,0,0,
+wrighmo01,Moses Wright,1,1,0,1.000,1,1,0,1.000,0,0,0,

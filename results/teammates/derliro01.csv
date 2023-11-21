@@ -1,0 +1,21 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+burleto01,Tom Burleson,117,52,65,.444,107,51,56,.477,10,1,9,.100
+wattssl01,Slick Watts,117,52,65,.444,107,51,56,.477,10,1,9,.100
+brownfr01,Fred Brown,109,49,60,.450,100,48,52,.480,9,1,8,.111
+skinnta01,Tal Skinner,106,47,59,.443,96,46,50,.479,10,1,9,.100
+grayle01,Leonard Gray,95,44,51,.463,89,43,46,.483,6,1,5,.167
+clarkar01,Archie Clark*,59,28,31,.475,53,27,26,.509,6,1,5,.167
+foxji01,Jim Fox*,56,25,31,.446,51,24,27,.471,5,1,4,.200
+sealsbr01,Bruce Seals,52,20,32,.385,48,20,28,.417,4,0,4,.000
+gillihe01,Herm Gilliam*,52,20,32,.385,48,20,28,.417,4,0,4,.000
+haywosp01,Spencer Haywood,50,22,28,.440,44,21,23,.477,6,1,5,.167
+hummejo01,John Hummer,49,20,29,.408,41,19,22,.463,8,1,7,.125
+jackswa01,Wardell Jackson,44,22,22,.500,44,22,22,.500,0,0,0,
+bantomi01,Mike Bantom*,44,18,26,.409,40,18,22,.450,4,0,4,.000
+norwowi01,Willie Norwood*,42,17,25,.405,38,17,21,.447,4,0,4,.000
+oleynfr01,Frank Oleynick,32,13,19,.406,32,13,19,.406,0,0,0,
+abdulza01,Zaid Abdul-Aziz,23,9,14,.391,20,9,11,.450,3,0,3,.000
+tolsode01,Dean Tolson,21,8,13,.381,17,8,9,.471,4,0,4,.000
+carlsal01,Al Carlson,17,9,8,.529,17,9,8,.529,0,0,0,
+briskjo01,John Brisker*,16,7,9,.438,16,7,9,.438,0,0,0,
+shortge01,Gene Short,6,1,5,.167,6,1,5,.167,0,0,0,

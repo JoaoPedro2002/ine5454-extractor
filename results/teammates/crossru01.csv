@@ -1,0 +1,13 @@
+id,player,total_games,total_wins,total_losses,total_win_percentage,regular_season_games,regular_season_wins,regular_season_losses,regular_season_win_percentage,playoffs_games,playoffs_wins,playoffs_losses,playoffs_win_percentage
+connele01,Lester Conner,45,16,29,.356,45,16,29,.356,0,0,0,
+bratzmi01,Mike Bratz,45,16,29,.356,45,16,29,.356,0,0,0,
+carrojo01,Joe Barry Carroll,43,15,28,.349,43,15,28,.349,0,0,0,
+floydsl01,Sleepy Floyd,43,16,27,.372,43,16,27,.372,0,0,0,
+shortpu01,Purvis Short,43,14,29,.326,43,14,29,.326,0,0,0,
+tillida01,Darren Tillis,42,16,26,.381,42,16,26,.381,0,0,0,
+johnsmi01,Mickey Johnson,41,14,27,.341,41,14,27,.341,0,0,0,
+smithla01,Larry Smith,38,15,23,.395,38,15,23,.395,0,0,0,
+mannipa01,Pace Mannion,37,13,24,.351,37,13,24,.351,0,0,0,
+collido02,Don Collins,33,12,21,.364,33,12,21,.364,0,0,0,
+englech01,Chris Engler,26,8,18,.308,26,8,18,.308,0,0,0,
+brewero01,Ron Brewer,7,2,5,.286,7,2,5,.286,0,0,0,
